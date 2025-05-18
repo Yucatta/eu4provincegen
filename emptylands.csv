@@ -1,0 +1,652 @@
+Province ID,Province Name,Valid Province,Base Tax,Base Production,Base Manpower,Trade Good,Latent Coal,Starting Fort,Estuary,Center of Trade,Great Projects,Continent,Total Score
+1173,Damaraland,no,,,,,,,,,,africa,#N/A
+1250,Vanern,no,,,,,,,,,,Unknown,#N/A
+1251,Vattern,no,,,,,,,,,,Unknown,#N/A
+1252,Gulf of Bothnia,no,,,,,,,,,,Unknown,#N/A
+1253,Alands Hav,no,,,,,,,,,,Unknown,#N/A
+1254,Gulf of Finland,no,,,,,,,,,,Unknown,#N/A
+1255,Western Baltic Sea,no,,,,,,,,,,Unknown,#N/A
+1256,Gulf of Riga,no,,,,,,,,,,Unknown,#N/A
+1257,Southern Baltic Sea,no,,,,,,,,,,Unknown,#N/A
+1258,Oresund,no,,,,,,,,,,Unknown,#N/A
+1259,Kattegat,no,,,,,,,,,,Unknown,#N/A
+1260,Peipsi Jarv,no,,,,,,,,,,Unknown,#N/A
+1261,Ladoga,no,,,,,,,,,,Unknown,#N/A
+1262,Onega,no,,,,,,,,,,Unknown,#N/A
+1263,White Sea,no,,,,,,,,,,Unknown,#N/A
+1264,Lofoten Sea,no,,,,,,,,,,Unknown,#N/A
+1265,Northern Norwegian Sea,no,,,,,,,,,,Unknown,#N/A
+1266,Southern Norwegian Sea,no,,,,,,,,,,Unknown,#N/A
+1267,Skagerrack,no,,,,,,,,,,Unknown,#N/A
+1268,Helgoland Bight,no,,,,,,,,,,Unknown,#N/A
+1269,Coast of Holland,no,,,,,,,,,,Unknown,#N/A
+1270,Dogger Bank,no,,,,,,,,,,Unknown,#N/A
+1271,Straits of Dover,no,,,,,,,,,,Unknown,#N/A
+1272,The Channel,no,,,,,,,,,,Unknown,#N/A
+1274,Coast of Britanny,no,,,,,,,,,,Unknown,#N/A
+1275,Quiberon Bay,no,,,,,,,,,,Unknown,#N/A
+1276,Cote D'Argent,no,,,,,,,,,,europe,#N/A
+1277,Bay of Biscay,no,,,,,,,,,,Unknown,#N/A
+1278,Cantabrian Sea,no,,,,,,,,,,Unknown,#N/A
+1279,Tyne,no,,,,,,,,,,Unknown,#N/A
+1280,Firth of Forth,no,,,,,,,,,,Unknown,#N/A
+1281,The North Sea,no,,,,,,,,,,europe,#N/A
+1282,Moray Firth,no,,,,,,,,,,Unknown,#N/A
+1283,North Channel,no,,,,,,,,,,Unknown,#N/A
+1284,Irish Sea,no,,,,,,,,,,Unknown,#N/A
+1285,St. George's Channel,no,,,,,,,,,,Unknown,#N/A
+1286,Donegal Bay,no,,,,,,,,,,Unknown,#N/A
+1287,Dingle Bay,no,,,,,,,,,,Unknown,#N/A
+1288,Celtic Sea,no,,,,,,,,,,Unknown,#N/A
+1289,Western Approaches,no,,,,,,,,,,Unknown,#N/A
+1290,Finisterre Bay,no,,,,,,,,,,Unknown,#N/A
+1291,Lusitanian Sea,no,,,,,,,,,,Unknown,#N/A
+1292,Gulf of Cadiz,no,,,,,,,,,,Unknown,#N/A
+1293,Straits of Gibraltar,no,,,,,,,,,,europe,#N/A
+1294,Gulf of Almeira,no,,,,,,,,,,Unknown,#N/A
+1295,Gulf of Valencia,no,,,,,,,,,,Unknown,#N/A
+1296,Gulf of Lion,no,,,,,,,,,,Unknown,#N/A
+1297,Cote D'Azur,no,,,,,,,,,,europe,#N/A
+1298,Ligurian Sea,no,,,,,,,,,,Unknown,#N/A
+1299,Coast of the Faroes,no,,,,,,,,,,Unknown,#N/A
+1300,Western Mediterranean,no,,,,,,,,,,Unknown,#N/A
+1301,Barbary Coast,no,,,,,,,,,,Unknown,#N/A
+1302,Cape Bon,no,,,,,,,,,,Unknown,#N/A
+1303,Tyrrenean Sea,no,,,,,,,,,,Unknown,#N/A
+1304,Bay of Naples,no,,,,,,,,,,Unknown,#N/A
+1305,Gulf of Gabes,no,,,,,,,,,,Unknown,#N/A
+1307,Straits of Messina,no,,,,,,,,,,Unknown,#N/A
+1308,Gulf of Venice,no,,,,,,,,,,europe,#N/A
+1309,Adriatic Sea,no,,,,,,,,,,Unknown,#N/A
+1310,Straits of Otranto,no,,,,,,,,,,Unknown,#N/A
+1311,Gulf of Taranto,no,,,,,,,,,,Unknown,#N/A
+1312,Ionian Sea,no,,,,,,,,,,Unknown,#N/A
+1313,Gulf of Sirte,no,,,,,,,,,,Unknown,#N/A
+1314,Gulf of Tobruk,no,,,,,,,,,,Unknown,#N/A
+1315,Bay of Alexandrian,no,,,,,,,,,,Unknown,#N/A
+1316,Palestinian Coast,no,,,,,,,,,,Unknown,#N/A
+1317,Gulf of Cyprus,no,,,,,,,,,,Unknown,#N/A
+1319,Aegean Sea,no,,,,,,,,,,Unknown,#N/A
+1320,Sea of Marmara,no,,,,,,,,,,europe,#N/A
+1321,Gulf of Varna,no,,,,,,,,,,Unknown,#N/A
+1322,Gulf of Odessa,no,,,,,,,,,,Unknown,#N/A
+1323,Sea of Azov,no,,,,,,,,,,europe,#N/A
+1324,Eastern Black Sea,no,,,,,,,,,,Unknown,#N/A
+1325,Lake Balaton,no,,,,,,,,,,Unknown,#N/A
+1326,Caspian Sea,no,,,,,,,,,,Unknown,#N/A
+1327,Aral Sea,no,,,,,,,,,,Unknown,#N/A
+1328,Gulf of Suez,no,,,,,,,,,,Unknown,#N/A
+1329,Red Sea,no,,,,,,,,,,Unknown,#N/A
+1330,Straits of Obokk,no,,,,,,,,,,Unknown,#N/A
+1331,Bal el Mandeb,no,,,,,,,,,,africa,#N/A
+1332,Coast of Mascate,no,,,,,,,,,,Unknown,#N/A
+1333,Mascate Coast,no,,,,,,,,,,Unknown,#N/A
+1334,Straits of Hormuz,no,,,,,,,,,,Unknown,#N/A
+1335,Persian Gulf,no,,,,,,,,,,asia,#N/A
+1336,Gulf of Indus,no,,,,,,,,,,Unknown,#N/A
+1337,Gulf of Gujarat,no,,,,,,,,,,Unknown,#N/A
+1338,Laquedive Islands,no,,,,,,,,,,Unknown,#N/A
+1339,Coast of Malabar,no,,,,,,,,,,Unknown,#N/A
+1340,Comorin Cape,no,,,,,,,,,,asia,#N/A
+1341,Coast of Caramandel,no,,,,,,,,,,Unknown,#N/A
+1342,Coast of Orissa,no,,,,,,,,,,Unknown,#N/A
+1343,Ganges Delta,no,,,,,,,,,,asia,#N/A
+1344,Akyab Bay,no,,,,,,,,,,Unknown,#N/A
+1345,Irrawady Delta,no,,,,,,,,,,Unknown,#N/A
+1346,Andaman Sea,no,,,,,,,,,,Unknown,#N/A
+1347,Mergui Archipelago,no,,,,,,,,,,Unknown,#N/A
+1348,Straits of Malacca,no,,,,,,,,,,Unknown,#N/A
+1349,Nicobar Isles,no,,,,,,,,,,Unknown,#N/A
+1350,Coast of Atjeh,no,,,,,,,,,,Unknown,#N/A
+1351,Coast of Sumatra,no,,,,,,,,,,Unknown,#N/A
+1352,Christmas Island,no,,,,,,,,,,Unknown,#N/A
+1353,Coast of Java,no,,,,,,,,,,Unknown,#N/A
+1354,Coast of Surabaya,no,,,,,,,,,,Unknown,#N/A
+1355,Straits of Lombok,no,,,,,,,,,,Unknown,#N/A
+1356,Timor Sea,no,,,,,,,,,,Unknown,#N/A
+1357,The Moluccas,no,,,,,,,,,,Unknown,#N/A
+1358,Java Sea,no,,,,,,,,,,Unknown,#N/A
+1359,Straits of Makassar,no,,,,,,,,,,Unknown,#N/A
+1360,Karimata Strait,no,,,,,,,,,,Unknown,#N/A
+1361,Straits of Johore,no,,,,,,,,,,asia,#N/A
+1362,Malayan Sea,no,,,,,,,,,,Unknown,#N/A
+1363,Coast of Sarawk,no,,,,,,,,,,Unknown,#N/A
+1364,Mekong Delta,no,,,,,,,,,,Unknown,#N/A
+1365,Gulf of Siam,no,,,,,,,,,,asia,#N/A
+1366,Cam Rah Bay,no,,,,,,,,,,Unknown,#N/A
+1367,South China Sea,no,,,,,,,,,,Unknown,#N/A
+1368,Coast of Brunei,no,,,,,,,,,,Unknown,#N/A
+1369,Coast of Annam,no,,,,,,,,,,Unknown,#N/A
+1370,Gulf of Tonkin,no,,,,,,,,,,Unknown,#N/A
+1371,Guanghou Bay,no,,,,,,,,,,asia,#N/A
+1372,Taiwan Strait,no,,,,,,,,,,Unknown,#N/A
+1373,Yang Tse Delta,no,,,,,,,,,,Unknown,#N/A
+1374,Yellow Sea,no,,,,,,,,,,Unknown,#N/A
+1375,Korea Bay,no,,,,,,,,,,Unknown,#N/A
+1376,South Korean Sea,no,,,,,,,,,,asia,#N/A
+1377,North Korean Sea,no,,,,,,,,,,Unknown,#N/A
+1378,Coast of Olga,no,,,,,,,,,,Unknown,#N/A
+1379,Tatar Straits,no,,,,,,,,,,Unknown,#N/A
+1380,Amur Delta,no,,,,,,,,,,Unknown,#N/A
+1381,Baj of Ayan,no,,,,,,,,,,Unknown,#N/A
+1382,Bay of Komenskoie,no,,,,,,,,,,Unknown,#N/A
+1383,Coast of Kamchatska,no,,,,,,,,,,Unknown,#N/A
+1384,Oktothsk Sea,no,,,,,,,,,,Unknown,#N/A
+1385,Coast Sahkalin,no,,,,,,,,,,Unknown,#N/A
+1386,Soya Strait,no,,,,,,,,,,Unknown,#N/A
+1387,Tsugaru Strait,no,,,,,,,,,,Unknown,#N/A
+1388,Sea of Japan,no,,,,,,,,,,Unknown,#N/A
+1389,Amakusa Sea,no,,,,,,,,,,Unknown,#N/A
+1390,Setto Inland Sea,no,,,,,,,,,,Unknown,#N/A
+1391,Tokai Sea,no,,,,,,,,,,Unknown,#N/A
+1392,Ryukyu Islands,no,,,,,,,,,,Unknown,#N/A
+1393,Luzon Strait,no,,,,,,,,,,Unknown,#N/A
+1394,Paracel Islands,no,,,,,,,,,,Unknown,#N/A
+1395,Manila Bay,no,,,,,,,,,,Unknown,#N/A
+1396,Coast of Luzon,no,,,,,,,,,,Unknown,#N/A
+1397,Gulf of Leyte,no,,,,,,,,,,Unknown,#N/A
+1398,Sulu Sea,no,,,,,,,,,,Unknown,#N/A
+1399,Sea of Celebes,no,,,,,,,,,,Unknown,#N/A
+1400,Sea of Ternete,no,,,,,,,,,,asia,#N/A
+1401,Sea of Banda,no,,,,,,,,,,Unknown,#N/A
+1402,Philipine Sea,no,,,,,,,,,,Unknown,#N/A
+1403,Palau Islands,no,,,,,,,,,,Unknown,#N/A
+1404,Biak Bay,no,,,,,,,,,,Unknown,#N/A
+1405,Vilian Strait,no,,,,,,,,,,Unknown,#N/A
+1406,Trobrian Islands,no,,,,,,,,,,Unknown,#N/A
+1407,Torres Strait,no,,,,,,,,,,Unknown,#N/A
+1408,Arafuam Sea,no,,,,,,,,,,Unknown,#N/A
+1409,Kolepom Bay,no,,,,,,,,,,Unknown,#N/A
+1410,Gulf of Carpentaria,no,,,,,,,,,,Unknown,#N/A
+1411,Great Barrier Reef,no,,,,,,,,,,Unknown,#N/A
+1412,Capricorn Bay,no,,,,,,,,,,oceania,#N/A
+1413,Cape Howe,no,,,,,,,,,,Unknown,#N/A
+1414,Bass Strait,no,,,,,,,,,,Unknown,#N/A
+1415,Kangaroo Island,no,,,,,,,,,,Unknown,#N/A
+1416,Great Australian Bight,no,,,,,,,,,,Unknown,#N/A
+1417,Cape Leuwiin,no,,,,,,,,,,Unknown,#N/A
+1418,Shark Bay,no,,,,,,,,,,Unknown,#N/A
+1419,Northwest Cape,no,,,,,,,,,,Unknown,#N/A
+1420,King Sound,no,,,,,,,,,,Unknown,#N/A
+1421,Tasman Sea,no,,,,,,,,,,Unknown,#N/A
+1422,Southern Tasman Sea,no,,,,,,,,,,Unknown,#N/A
+1423,Cook Strait,no,,,,,,,,,,Unknown,#N/A
+1424,Northern Tasman Sea,no,,,,,,,,,,Unknown,#N/A
+1425,Cape Farwell,no,,,,,,,,,,Unknown,#N/A
+1426,Coast of New Zealand,no,,,,,,,,,,Unknown,#N/A
+1427,Cantebury Bight,no,,,,,,,,,,Unknown,#N/A
+1428,Sea of Antarctica,no,,,,,,,,,,Unknown,#N/A
+1429,New Caledonian Sea,no,,,,,,,,,,Unknown,#N/A
+1430,Coral Sea,no,,,,,,,,,,Unknown,#N/A
+1431,Gilbert Sea,no,,,,,,,,,,Unknown,#N/A
+1432,Solomon Sea,no,,,,,,,,,,Unknown,#N/A
+1433,Nauru Island,no,,,,,,,,,,Unknown,#N/A
+1434,Melanesia Sea,no,,,,,,,,,,Unknown,#N/A
+1435,Micronesia Sea,no,,,,,,,,,,Unknown,#N/A
+1436,Yap Islands,no,,,,,,,,,,Unknown,#N/A
+1437,Mariana Islands,no,,,,,,,,,,Unknown,#N/A
+1438,Tinian Sea,no,,,,,,,,,,Unknown,#N/A
+1439,Iwo Jima Sea,no,,,,,,,,,,Unknown,#N/A
+1440,Taihei Ocean,no,,,,,,,,,,Unknown,#N/A
+1441,The Kuriles,no,,,,,,,,,,Unknown,#N/A
+1442,Bay of Uka,no,,,,,,,,,,Unknown,#N/A
+1443,Bay of Oljut,no,,,,,,,,,,Unknown,#N/A
+1444,Bay of Anadyr,no,,,,,,,,,,Unknown,#N/A
+1445,Bering Sea,no,,,,,,,,,,Unknown,#N/A
+1446,Horn of Africa,no,,,,,,,,,,Unknown,#N/A
+1447,Coast of Pepper,no,,,,,,,,,,Unknown,#N/A
+1448,Zanzibar Strait,no,,,,,,,,,,africa,#N/A
+1449,Mozambique Channel,no,,,,,,,,,,Unknown,#N/A
+1450,Diego Suarez Bay,no,,,,,,,,,,Unknown,#N/A
+1451,Western Arabian Sea,no,,,,,,,,,,Unknown,#N/A
+1452,Eastern Arabian Sea,no,,,,,,,,,,Unknown,#N/A
+1453,The Seychelles,no,,,,,,,,,,Unknown,#N/A
+1454,Coast of Tamatave,no,,,,,,,,,,Unknown,#N/A
+1455,The Mascareignes,no,,,,,,,,,,Unknown,#N/A
+1456,Gulf of Zambeze,no,,,,,,,,,,Unknown,#N/A
+1457,Coast of Natal,no,,,,,,,,,,Unknown,#N/A
+1458,Coast of Transkei,no,,,,,,,,,,Unknown,#N/A
+1459,Coast of Ciskei,no,,,,,,,,,,Unknown,#N/A
+1460,Cape of Good Hope,no,,,,,,,,,,africa,#N/A
+1461,Coast of Namibia,no,,,,,,,,,,Unknown,#N/A
+1462,Coast of Angola,no,,,,,,,,,,Unknown,#N/A
+1463,Gulf of Kongo,no,,,,,,,,,,africa,#N/A
+1464,Coast of Cameroon,no,,,,,,,,,,Unknown,#N/A
+1465,Gulf of Nigeria,no,,,,,,,,,,Unknown,#N/A
+1466,Ivory Coast,no,,,,,,,,,,africa,#N/A
+1467,Gold Coast,no,,,,,,,,,,Unknown,#N/A
+1468,Coast of Gamvia,no,,,,,,,,,,Unknown,#N/A
+1469,Coast of Guinea,no,,,,,,,,,,Unknown,#N/A
+1470,Maueretanian Coast,no,,,,,,,,,,africa,#N/A
+1471,Canarian Sea,no,,,,,,,,,,Unknown,#N/A
+1472,Coast of Morocco,no,,,,,,,,,,Unknown,#N/A
+1473,Jan Mayen Sea,no,,,,,,,,,,Unknown,#N/A
+1474,Spitzberg Sea,no,,,,,,,,,,Unknown,#N/A
+1475,Icelandic Sea,no,,,,,,,,,,Unknown,#N/A
+1476,Shetland Straits,no,,,,,,,,,,Unknown,#N/A
+1477,Coast of Iceland,no,,,,,,,,,,Unknown,#N/A
+1478,Northeastern Atlantic,no,,,,,,,,,,Unknown,#N/A
+1479,Rockall,no,,,,,,,,,,Unknown,#N/A
+1480,Denmark Strait,no,,,,,,,,,,Unknown,#N/A
+1481,Eastern Coast of Greenland,no,,,,,,,,,,Unknown,#N/A
+1482,Western Coast of Greenland,no,,,,,,,,,,Unknown,#N/A
+1483,Labrador Strait,no,,,,,,,,,,Unknown,#N/A
+1484,Baffin Bay,no,,,,,,,,,,Unknown,#N/A
+1485,Hudson Straits,no,,,,,,,,,,Unknown,#N/A
+1486,James Bay,no,,,,,,,,,,north_america,#N/A
+1487,Western Hudson Bay,no,,,,,,,,,,Unknown,#N/A
+1488,Eastern Hudson Bay,no,,,,,,,,,,Unknown,#N/A
+1489,Foxe Bassin,no,,,,,,,,,,Unknown,#N/A
+1490,Gulf of St. Lawrence,no,,,,,,,,,,Unknown,#N/A
+1491,Cabot Strait,no,,,,,,,,,,Unknown,#N/A
+1492,Bay of Fundy,no,,,,,,,,,,Unknown,#N/A
+1493,Strait of Belle Isle,no,,,,,,,,,,Unknown,#N/A
+1494,Fortune Bay,no,,,,,,,,,,Unknown,#N/A
+1495,Notre Dame Bay,no,,,,,,,,,,Unknown,#N/A
+1496,Labrador Sea,no,,,,,,,,,,Unknown,#N/A
+1497,Greenland Sea,no,,,,,,,,,,Unknown,#N/A
+1498,Northern Atlantic,no,,,,,,,,,,Unknown,#N/A
+1499,Masschusetts Bay,no,,,,,,,,,,Unknown,#N/A
+1500,Chesapaeake Bay,no,,,,,,,,,,north_america,#N/A
+1501,Cape Hatteras,no,,,,,,,,,,Unknown,#N/A
+1502,Coast of Carolina,no,,,,,,,,,,Unknown,#N/A
+1503,Coast of Florida,no,,,,,,,,,,Unknown,#N/A
+1504,Sea of Sargassos,no,,,,,,,,,,Unknown,#N/A
+1505,Florida Straits,no,,,,,,,,,,Unknown,#N/A
+1506,Apalachee Bay,no,,,,,,,,,,Unknown,#N/A
+1507,Mobile Bay,no,,,,,,,,,,north_america,#N/A
+1508,Galveston Bay,no,,,,,,,,,,Unknown,#N/A
+1509,Tampico Bay,no,,,,,,,,,,Unknown,#N/A
+1510,Yucatan Sea,no,,,,,,,,,,Unknown,#N/A
+1511,Gulf of Mexico,no,,,,,,,,,,Unknown,#N/A
+1512,Yucatan Channel,no,,,,,,,,,,Unknown,#N/A
+1513,Belize Bay,no,,,,,,,,,,Unknown,#N/A
+1514,Moscitos Coast,no,,,,,,,,,,Unknown,#N/A
+1515,Gulf of Darien,no,,,,,,,,,,Unknown,#N/A
+1516,Jamica Channel,no,,,,,,,,,,north_america,#N/A
+1517,Central Carribean,no,,,,,,,,,,Unknown,#N/A
+1518,Northwestern Carribean,no,,,,,,,,,,Unknown,#N/A
+1519,Venezualan Gulf,no,,,,,,,,,,Unknown,#N/A
+1520,Venezuelan Sea,no,,,,,,,,,,Unknown,#N/A
+1521,Eastern Carribean,no,,,,,,,,,,Unknown,#N/A
+1522,Windward Islands,no,,,,,,,,,,Unknown,#N/A
+1523,Lesser Antilles,no,,,,,,,,,,Unknown,#N/A
+1524,Turks & Caicos Sea,no,,,,,,,,,,Unknown,#N/A
+1525,Coast of Cuba,no,,,,,,,,,,Unknown,#N/A
+1526,Coast of Hispaniola,no,,,,,,,,,,Unknown,#N/A
+1527,Guyana Coast,no,,,,,,,,,,Unknown,#N/A
+1528,Bay of Belem,no,,,,,,,,,,Unknown,#N/A
+1529,Amazonas Gulf,no,,,,,,,,,,Unknown,#N/A
+1530,Coast of Brazil,no,,,,,,,,,,Unknown,#N/A
+1531,Coast of Recife,no,,,,,,,,,,south_america,#N/A
+1532,Coast of Pernambuc,no,,,,,,,,,,Unknown,#N/A
+1533,Todos Santos Bay,no,,,,,,,,,,Unknown,#N/A
+1534,Rio De Janeiro,no,,,,,,,,,,Unknown,#N/A
+1535,Baia Parangua,no,,,,,,,,,,Unknown,#N/A
+1536,Rio De La Plata,no,,,,,,,,,,Unknown,#N/A
+1537,Bahia Blanca,no,,,,,,,,,,Unknown,#N/A
+1538,Coast of Patagonia,no,,,,,,,,,,Unknown,#N/A
+1539,Magellan Strait,no,,,,,,,,,,Unknown,#N/A
+1540,South Chilean Coast,no,,,,,,,,,,Unknown,#N/A
+1541,Coast of Chile,no,,,,,,,,,,Unknown,#N/A
+1542,Atacama Coast,no,,,,,,,,,,Unknown,#N/A
+1543,Arica Gulf,no,,,,,,,,,,Unknown,#N/A
+1544,Arequipa Bay,no,,,,,,,,,,south_america,#N/A
+1545,Coast of Peru,no,,,,,,,,,,Unknown,#N/A
+1546,Guayaguil Bay,no,,,,,,,,,,Unknown,#N/A
+1547,Coast of Ecuador,no,,,,,,,,,,Unknown,#N/A
+1548,Gulf of Panama,no,,,,,,,,,,Unknown,#N/A
+1549,Bay of Costa Rica,no,,,,,,,,,,Unknown,#N/A
+1550,Acapulco Bay,no,,,,,,,,,,Unknown,#N/A
+1551,Manzazilla Bay,no,,,,,,,,,,north_america,#N/A
+1552,Mazatlan Bay,no,,,,,,,,,,Unknown,#N/A
+1553,Gulf of California,no,,,,,,,,,,Unknown,#N/A
+1554,Coast of Baja,no,,,,,,,,,,Unknown,#N/A
+1555,Coast of California,no,,,,,,,,,,Unknown,#N/A
+1556,Santa Catalina Islands,no,,,,,,,,,,Unknown,#N/A
+1557,Coast of Oregon,no,,,,,,,,,,Unknown,#N/A
+1558,Coast of Columbia,no,,,,,,,,,,Unknown,#N/A
+1559,Hecate Strait,no,,,,,,,,,,Unknown,#N/A
+1560,Gulf of Alaska,no,,,,,,,,,,Unknown,#N/A
+1561,Coast of Alaska,no,,,,,,,,,,Unknown,#N/A
+1562,Kuskowim Bay,no,,,,,,,,,,Unknown,#N/A
+1563,Hatton Bank,no,,,,,,,,,,Unknown,#N/A
+1564,Eastern Gibbs Fracture,no,,,,,,,,,,Unknown,#N/A
+1565,Western Gibbs Fracture,no,,,,,,,,,,Unknown,#N/A
+1566,Iberian Shelf,no,,,,,,,,,,Unknown,#N/A
+1567,Sea of Azores,no,,,,,,,,,,Unknown,#N/A
+1568,Corner Seamounts,no,,,,,,,,,,Unknown,#N/A
+1569,New England Seamounts,no,,,,,,,,,,Unknown,#N/A
+1570,Sable Island Bank,no,,,,,,,,,,Unknown,#N/A
+1571,Blake Plataeu,no,,,,,,,,,,Unknown,#N/A
+1572,West Bermuda Sea,no,,,,,,,,,,Unknown,#N/A
+1573,East Bermuda Sea,no,,,,,,,,,,Unknown,#N/A
+1574,Some Funny Seaname,no,,,,,,,,,,Unknown,#N/A
+1575,Northern Guiana Basin,no,,,,,,,,,,Unknown,#N/A
+1576,Guiana Basin,no,,,,,,,,,,Unknown,#N/A
+1577,Southern Guiana Basin,no,,,,,,,,,,Unknown,#N/A
+1578,Canary Approach,no,,,,,,,,,,Unknown,#N/A
+1579,Cap Verde Approach,no,,,,,,,,,,Unknown,#N/A
+1580,Central Atlantic 1,no,,,,,,,,,,Unknown,#N/A
+1581,Central Atlantic 2,no,,,,,,,,,,Unknown,#N/A
+1582,Central Atlantic 3,no,,,,,,,,,,Unknown,#N/A
+1583,Central Atlantic 4,no,,,,,,,,,,Unknown,#N/A
+1584,Romanche Gap,no,,,,,,,,,,Unknown,#N/A
+1585,East Guinea Basin,no,,,,,,,,,,Unknown,#N/A
+1586,West Guinea Basin,no,,,,,,,,,,Unknown,#N/A
+1587,Coast of Falklands,no,,,,,,,,,,Unknown,#N/A
+1588,New Georgia Islands,no,,,,,,,,,,Unknown,#N/A
+1589,Western Atlantic 1,no,,,,,,,,,,Unknown,#N/A
+1590,Western Atlantic 2,no,,,,,,,,,,Unknown,#N/A
+1591,Western Atlantic 3,no,,,,,,,,,,Unknown,#N/A
+1592,Western Atlantic 4,no,,,,,,,,,,Unknown,#N/A
+1593,Western Atlantic 5,no,,,,,,,,,,Unknown,#N/A
+1594,Western Atlantic 6,no,,,,,,,,,,Unknown,#N/A
+1595,East of Magellans,no,,,,,,,,,,Unknown,#N/A
+1596,Central Atlantic 5,no,,,,,,,,,,Unknown,#N/A
+1597,Central Atlantic 6,no,,,,,,,,,,Unknown,#N/A
+1598,Central Atlantic 7,no,,,,,,,,,,Unknown,#N/A
+1599,Central Atlantic 8,no,,,,,,,,,,Unknown,#N/A
+1600,Eastern Atlantic 1,no,,,,,,,,,,Unknown,#N/A
+1601,Eastern Atlantic 2,no,,,,,,,,,,Unknown,#N/A
+1602,Eastern Atlantic 3,no,,,,,,,,,,Unknown,#N/A
+1603,Eastern Atlantic 4,no,,,,,,,,,,Unknown,#N/A
+1604,Eastern Atlantic 5,no,,,,,,,,,,Unknown,#N/A
+1605,Eastern Atlantic 6,no,,,,,,,,,,Unknown,#N/A
+1606,Southern Atlantic 1,no,,,,,,,,,,Unknown,#N/A
+1607,Southern Atlantic 2,no,,,,,,,,,,Unknown,#N/A
+1608,Southern Atlantic 3,no,,,,,,,,,,Unknown,#N/A
+1609,Southern Atlantic 4,no,,,,,,,,,,Unknown,#N/A
+1610,Cape of Storms,no,,,,,,,,,,Unknown,#N/A
+1611,Gulf of Bengal,no,,,,,,,,,,Unknown,#N/A
+1612,Northen Bay of Bengal,no,,,,,,,,,,Unknown,#N/A
+1613,Southern Bay of Bengal,no,,,,,,,,,,Unknown,#N/A
+1614,Ceylon Sea,no,,,,,,,,,,Unknown,#N/A
+1615,Coast of Maldives,no,,,,,,,,,,Unknown,#N/A
+1616,Indian Ocean 1,no,,,,,,,,,,Unknown,#N/A
+1617,Indian Ocean 2,no,,,,,,,,,,Unknown,#N/A
+1618,Indian Ocean 3,no,,,,,,,,,,Unknown,#N/A
+1619,Indian Ocean 4,no,,,,,,,,,,Unknown,#N/A
+1620,Indian Ocean 5,no,,,,,,,,,,Unknown,#N/A
+1621,Indian Ocean 6,no,,,,,,,,,,Unknown,#N/A
+1622,Indian Ocean 7,no,,,,,,,,,,Unknown,#N/A
+1623,Indian Ocean 8,no,,,,,,,,,,Unknown,#N/A
+1624,Indian Ocean 9,no,,,,,,,,,,Unknown,#N/A
+1625,Indian Ocean 10,no,,,,,,,,,,Unknown,#N/A
+1626,Indian Ocean 11,no,,,,,,,,,,Unknown,#N/A
+1627,Indian Ocean 12,no,,,,,,,,,,Unknown,#N/A
+1628,Indian Ocean 13,no,,,,,,,,,,Unknown,#N/A
+1629,Indian Ocean 14,no,,,,,,,,,,Unknown,#N/A
+1630,Indian Ocean 15,no,,,,,,,,,,Unknown,#N/A
+1631,Indian Ocean 16,no,,,,,,,,,,Unknown,#N/A
+1632,Indian Ocean 17,no,,,,,,,,,,Unknown,#N/A
+1633,Indian Ocean 18,no,,,,,,,,,,Unknown,#N/A
+1634,Indian Ocean 19,no,,,,,,,,,,Unknown,#N/A
+1635,Indian Ocean 20,no,,,,,,,,,,Unknown,#N/A
+1636,Indian Ocean 21,no,,,,,,,,,,Unknown,#N/A
+1637,Indian Ocean 22,no,,,,,,,,,,Unknown,#N/A
+1638,Indian Ocean 23,no,,,,,,,,,,Unknown,#N/A
+1639,Indian Ocean 24,no,,,,,,,,,,Unknown,#N/A
+1640,Indian Ocean 25,no,,,,,,,,,,Unknown,#N/A
+1641,Indian Ocean 26,no,,,,,,,,,,Unknown,#N/A
+1642,Indian Ocean 27,no,,,,,,,,,,Unknown,#N/A
+1643,Indian Ocean 28,no,,,,,,,,,,Unknown,#N/A
+1644,Indian Ocean 29,no,,,,,,,,,,Unknown,#N/A
+1645,Indian Ocean 30,no,,,,,,,,,,Unknown,#N/A
+1646,Indian Ocean 31,no,,,,,,,,,,Unknown,#N/A
+1647,Indian Ocean 32,no,,,,,,,,,,Unknown,#N/A
+1648,Lake Tchad,no,,,,,,,,,,Unknown,#N/A
+1649,Lake Victoria,no,,,,,,,,,,africa,#N/A
+1650,Lake Tangayika,no,,,,,,,,,,Unknown,#N/A
+1651,Lake Malawi,no,,,,,,,,,,Unknown,#N/A
+1652,Lake Kama,no,,,,,,,,,,europe,#N/A
+1653,Lake Balchasj,no,,,,,,,,,,Unknown,#N/A
+1654,Lake Bajkal,no,,,,,,,,,,Unknown,#N/A
+1655,Poyang Lake,no,,,,,,,,,,Unknown,#N/A
+1656,Lake Titicaca,no,,,,,,,,,,Unknown,#N/A
+1657,Lake Nicaragua,no,,,,,,,,,,Unknown,#N/A
+1658,Everglades,no,,,,,,,,,,Unknown,#N/A
+1659,Lake Ontario,no,,,,,,,,,,Unknown,#N/A
+1660,Lake Erie,no,,,,,,,,,,Unknown,#N/A
+1661,Lake Huron,no,,,,,,,,,,Unknown,#N/A
+1662,Lake Michigan,no,,,,,,,,,,Unknown,#N/A
+1663,Lake Superior,no,,,,,,,,,,Unknown,#N/A
+1664,Lake Nipigon,no,,,,,,,,,,Unknown,#N/A
+1665,Lake Winnipeg,no,,,,,,,,,,Unknown,#N/A
+1666,Western Pacific 1,no,,,,,,,,,,Unknown,#N/A
+1667,Western Pacific 2,no,,,,,,,,,,Unknown,#N/A
+1668,Western Pacific 3,no,,,,,,,,,,Unknown,#N/A
+1669,Western Pacific 4,no,,,,,,,,,,Unknown,#N/A
+1670,Western Pacific 5,no,,,,,,,,,,Unknown,#N/A
+1671,Western Pacific 6,no,,,,,,,,,,Unknown,#N/A
+1672,Western Pacific 7,no,,,,,,,,,,Unknown,#N/A
+1673,Western Pacific 8,no,,,,,,,,,,Unknown,#N/A
+1674,Western Pacific 9,no,,,,,,,,,,Unknown,#N/A
+1675,Western Pacific 10,no,,,,,,,,,,Unknown,#N/A
+1676,Western Pacific 11,no,,,,,,,,,,Unknown,#N/A
+1677,Northern Pacific 1,no,,,,,,,,,,Unknown,#N/A
+1678,Northern Pacific 2,no,,,,,,,,,,Unknown,#N/A
+1679,Northern Pacific 3,no,,,,,,,,,,Unknown,#N/A
+1680,Northern Pacific 4,no,,,,,,,,,,Unknown,#N/A
+1681,Northern Pacific 5,no,,,,,,,,,,Unknown,#N/A
+1682,Northern Pacific 6,no,,,,,,,,,,Unknown,#N/A
+1683,Northern Pacific 7,no,,,,,,,,,,Unknown,#N/A
+1684,Northern Pacific 8,no,,,,,,,,,,Unknown,#N/A
+1685,Northern Pacific 9,no,,,,,,,,,,Unknown,#N/A
+1686,Northern Pacific 10,no,,,,,,,,,,Unknown,#N/A
+1687,Central Pacific 1,no,,,,,,,,,,Unknown,#N/A
+1688,Central Pacific 2,no,,,,,,,,,,Unknown,#N/A
+1689,Central Pacific 3,no,,,,,,,,,,Unknown,#N/A
+1690,Central Pacific 4,no,,,,,,,,,,Unknown,#N/A
+1691,Central Pacific 5,no,,,,,,,,,,Unknown,#N/A
+1692,Central Pacific 6,no,,,,,,,,,,Unknown,#N/A
+1693,Central Pacific 7,no,,,,,,,,,,Unknown,#N/A
+1694,Central Pacific 8,no,,,,,,,,,,Unknown,#N/A
+1695,Central Pacific 9,no,,,,,,,,,,Unknown,#N/A
+1696,Central Pacific 10,no,,,,,,,,,,Unknown,#N/A
+1697,Coast of Hawaii,no,,,,,,,,,,Unknown,#N/A
+1698,Central Pacific 11,no,,,,,,,,,,Unknown,#N/A
+1699,Central Pacific 12,no,,,,,,,,,,Unknown,#N/A
+1700,Eastern Pacific 1,no,,,,,,,,,,Unknown,#N/A
+1701,Eastern Pacific 2,no,,,,,,,,,,Unknown,#N/A
+1702,Eastern Pacific 3,no,,,,,,,,,,Unknown,#N/A
+1703,Eastern Pacific 4,no,,,,,,,,,,Unknown,#N/A
+1704,Eastern Pacific 5,no,,,,,,,,,,Unknown,#N/A
+1705,Eastern Pacific 6,no,,,,,,,,,,Unknown,#N/A
+1706,Eastern Pacific 7,no,,,,,,,,,,Unknown,#N/A
+1707,Eastern Pacific 8,no,,,,,,,,,,Unknown,#N/A
+1708,Eastern Pacific 9,no,,,,,,,,,,Unknown,#N/A
+1709,Eastern Pacific 10,no,,,,,,,,,,Unknown,#N/A
+1710,Eastern Pacific 11,no,,,,,,,,,,Unknown,#N/A
+1711,Eastern Pacific 12,no,,,,,,,,,,Unknown,#N/A
+1712,Eastern Pacific 13,no,,,,,,,,,,Unknown,#N/A
+1713,Eastern Pacific 14,no,,,,,,,,,,Unknown,#N/A
+1714,Eastern Pacific 15,no,,,,,,,,,,Unknown,#N/A
+1715,Eastern Pacific 16,no,,,,,,,,,,Unknown,#N/A
+1716,Eastern Pacific 17,no,,,,,,,,,,Unknown,#N/A
+1717,Southern Pacific 1,no,,,,,,,,,,Unknown,#N/A
+1718,Southern Pacific 2,no,,,,,,,,,,Unknown,#N/A
+1719,Southern Pacific 3,no,,,,,,,,,,Unknown,#N/A
+1720,Southern Pacific 4,no,,,,,,,,,,Unknown,#N/A
+1721,Southern Pacific 5,no,,,,,,,,,,Unknown,#N/A
+1722,Southern Pacific 6,no,,,,,,,,,,Unknown,#N/A
+1723,Southern Pacific 7,no,,,,,,,,,,Unknown,#N/A
+1724,Southern Pacific 8,no,,,,,,,,,,Unknown,#N/A
+1725,Southern Pacific 9,no,,,,,,,,,,Unknown,#N/A
+1726,Southern Pacific 10,no,,,,,,,,,,Unknown,#N/A
+1727,Southern Pacific 11,no,,,,,,,,,,Unknown,#N/A
+1728,Southern Pacific 12,no,,,,,,,,,,Unknown,#N/A
+1729,Southern Pacific 13,no,,,,,,,,,,Unknown,#N/A
+1730,Southern Pacific 14,no,,,,,,,,,,Unknown,#N/A
+1731,Southern Pacific 15,no,,,,,,,,,,Unknown,#N/A
+1732,Southern Pacific 16,no,,,,,,,,,,Unknown,#N/A
+1733,Southern Pacific 17,no,,,,,,,,,,Unknown,#N/A
+1734,Southern Pacific 18,no,,,,,,,,,,Unknown,#N/A
+1735,Southern Pacific 19,no,,,,,,,,,,Unknown,#N/A
+1736,Southern Pacific 20,no,,,,,,,,,,Unknown,#N/A
+1737,Southern Pacific 22,no,,,,,,,,,,Unknown,#N/A
+1738,Southern Pacific 23,no,,,,,,,,,,Unknown,#N/A
+1739,Southern Pacific 24,no,,,,,,,,,,Unknown,#N/A
+1740,Southern Pacific 25,no,,,,,,,,,,Unknown,#N/A
+1741,Southern Pacific 26,no,,,,,,,,,,Unknown,#N/A
+1779,Rub al Khali,no,,,,,,,,,,asia,#N/A
+1781,Western Siberia,no,,,,,,,,,,asia,#N/A
+1782,Central Siberia,no,,,,,,,,,,asia,#N/A
+1783,Eastern Siberia,no,,,,,,,,,,asia,#N/A
+1784,Tiam Shan,no,,,,,,,,,,asia,#N/A
+1785,Karakoram,no,,,,,,,,,,asia,#N/A
+1786,Takla Makan,no,,,,,,,,,,asia,#N/A
+1787,Himalaya,no,,,,,,,,,,asia,#N/A
+1788,Arunachal,no,,,,,,,,,,asia,#N/A
+1789,Papua,no,,,,,,,,,,oceania,#N/A
+1790,Outback,no,,,,,,,,,,oceania,#N/A
+1791,Outback,no,,,,,,,,,,oceania,#N/A
+1793,El Djouf,no,,,,,,,,,,africa,#N/A
+1794,Central Sahara,no,,,,,,,,,,africa,#N/A
+1795,East Sahara,no,,,,,,,,,,africa,#N/A
+1797,Northern Congo Basin,no,,,,,,,,,,africa,#N/A
+1798,Uganda,no,,,,,,,,,,africa,#N/A
+1799,Malawi,no,,,,,,,,,,africa,#N/A
+1801,Kalahari,no,,,,,,,,,,africa,#N/A
+1802,Western Amazonas,no,,,,,,,,,,south_america,#N/A
+1803,Eastern Amazonas,no,,,,,,,,,,south_america,#N/A
+1804,Greenland,no,,,,,,,,,,north_america,#N/A
+1805,Quebec,no,,,,,,,,,,north_america,#N/A
+1806,Weagamow,no,,,,,,,,,,north_america,#N/A
+1807,Baffin,no,,,,,,,,,,north_america,#N/A
+1808,Great Basin,no,,,,,,,,,,north_america,#N/A
+1810,Alaska,no,,,,,,,,,,north_america,#N/A
+1811,Nunavut,no,,,,,,,,,,north_america,#N/A
+1812,Northwest Terretories,no,,,,,,,,,,north_america,#N/A
+1814,Columbia,no,,,,,,,,,,north_america,#N/A
+1883,Western Finish Lakes,no,,,,,,,,,,Unknown,#N/A
+1884,East Finish Lakes,no,,,,,,,,,,Unknown,#N/A
+1885,Central Finish Lakes,no,,,,,,,,,,Unknown,#N/A
+1886,Storavan,no,,,,,,,,,,Unknown,#N/A
+1887,Storsjon,no,,,,,,,,,,Unknown,#N/A
+1888,Kara Sea,no,,,,,,,,,,Unknown,#N/A
+1889,Lake Geneva,no,,,,,,,,,,Unknown,#N/A
+1890,Bodensee,no,,,,,,,,,,Unknown,#N/A
+1891,Tuz Gola,no,,,,,,,,,,Unknown,#N/A
+1892,Lake Van,no,,,,,,,,,,Unknown,#N/A
+1893,Lake Daryacheh,no,,,,,,,,,,Unknown,#N/A
+1894,Sevan Lake,no,,,,,,,,,,Unknown,#N/A
+1895,Lake Taihu,no,,,,,,,,,,Unknown,#N/A
+1896,Lake Hongze,no,,,,,,,,,,Unknown,#N/A
+1897,Dongting,no,,,,,,,,,,Unknown,#N/A
+1898,Tonie Sap Lake,no,,,,,,,,,,Unknown,#N/A
+1899,Tana Lake,no,,,,,,,,,,Unknown,#N/A
+1900,Lake Turkana,no,,,,,,,,,,Unknown,#N/A
+1902,Lake Poopo,no,,,,,,,,,,Unknown,#N/A
+1903,Lake Champlain,no,,,,,,,,,,Unknown,#N/A
+1904,Lac Saint Jean,no,,,,,,,,,,Unknown,#N/A
+1905,Lac Manicouagan,no,,,,,,,,,,Unknown,#N/A
+1906,Lac Michikamau,no,,,,,,,,,,Unknown,#N/A
+1907,Lac Bienville,no,,,,,,,,,,Unknown,#N/A
+1908,Lac Al Eau Claire,no,,,,,,,,,,Unknown,#N/A
+1909,Lac Minto,no,,,,,,,,,,Unknown,#N/A
+1910,La Grande Riviere,no,,,,,,,,,,Unknown,#N/A
+1911,Lake Island,no,,,,,,,,,,Unknown,#N/A
+1912,Lake Reindeer,no,,,,,,,,,,Unknown,#N/A
+1913,Wollaston Lake,no,,,,,,,,,,Unknown,#N/A
+1914,Great Slave Lake,no,,,,,,,,,,Unknown,#N/A
+1915,Lake Athabasca,no,,,,,,,,,,Unknown,#N/A
+1916,Dubawni Lake,no,,,,,,,,,,Unknown,#N/A
+1917,Yathkyed Lake,no,,,,,,,,,,Unknown,#N/A
+1918,Kasba Lake,no,,,,,,,,,,Unknown,#N/A
+1919,Nueltin Lake,no,,,,,,,,,,Unknown,#N/A
+1920,Wholdaia Lake,no,,,,,,,,,,Unknown,#N/A
+1921,Peter Pond Lake,no,,,,,,,,,,Unknown,#N/A
+1922,Great Salt Lake,no,,,,,,,,,,Unknown,#N/A
+1923,Williston Lake,no,,,,,,,,,,Unknown,#N/A
+1924,Greenland Tip,no,,,,,,,,,,Unknown,#N/A
+1926,Northern Baltic Sea,no,,,,,,,,,,europe,#N/A
+1927,Eastern Baltic Sea,no,,,,,,,,,,Unknown,#N/A
+1928,Western Alands Sea,no,,,,,,,,,,Unknown,#N/A
+1929,Western Norwegian Sea,no,,,,,,,,,,Unknown,#N/A
+1932,Gulf of Satalia,no,,,,,,,,,,Unknown,#N/A
+1950,Meghalaya,no,,,,,,,,,,asia,#N/A
+1975,Sea of Jutland,no,,,,,,,,,,Unknown,#N/A
+1976,Dead Sea,no,,,,,,,,,,Unknown,#N/A
+1977,Malaren,no,,,,,,,,,,Unknown,#N/A
+1980,Sea of Japan,no,,,,,,,,,,Unknown,#N/A
+2000,Qinghai Lake,no,,,,,,,,,,Unknown,#N/A
+2001,Siling Lake,no,,,,,,,,,,Unknown,#N/A
+2129,Changtang,no,,,,,,,,,,asia,#N/A
+2194,Kunlun,no,,,,,,,,,,asia,#N/A
+2200,Suleiman Range,no,,,,,,,,,,asia,#N/A
+2251,Bagoe,no,,,,,,,,,,africa,#N/A
+2334,Badiyat ash Sham,no,,,,,,,,,,asia,#N/A
+2425,Naryan-Mar,no,,,,,,,,,,europe,#N/A
+2426,Yamal,no,,,,,,,,,,asia,#N/A
+2471,Chott el-Jerid,no,,,,,,,,,,africa,#N/A
+2608,Rocky Mountains,no,,,,,,,,,,north_america,#N/A
+2740,Borneo,no,,,,,,,,,,asia,#N/A
+2936,Guyana,no,,,,,,,,,,south_america,#N/A
+2953,Lake Hjalmaren,no,,,,,,,,,,Unknown,#N/A
+4132,Mweru,no,,,,,,,,,,Unknown,#N/A
+4133,Kivu,no,,,,,,,,,,Unknown,#N/A
+4134,Rutanzige,no,,,,,,,,,,Unknown,#N/A
+4135,Albert,no,,,,,,,,,,Unknown,#N/A
+4136,Zaysan,no,,,,,,,,,,Unknown,#N/A
+4137,Alakol,no,,,,,,,,,,Unknown,#N/A
+4138,Issyk Kul,no,,,,,,,,,,Unknown,#N/A
+4139,Oulujarvi,no,,,,,,,,,,Unknown,#N/A
+4140,Saimaa,no,,,,,,,,,,Unknown,#N/A
+4146,Jotenheimen,no,,,,,,,,,,europe,#N/A
+4153,The Skands,no,,,,,,,,,,europe,#N/A
+4154,The Pyrenees,no,,,,,,,,,,europe,#N/A
+4155,The Carpathians,no,,,,,,,,,,europe,#N/A
+4156,The Caucasus,no,,,,,,,,,,europe,#N/A
+4157,The Alps,no,,,,,,,,,,europe,#N/A
+4159,The Alps2,no,,,,,,,,,,europe,#N/A
+4160,The Alps3,no,,,,,,,,,,europe,#N/A
+4161,The Alps4,no,,,,,,,,,,europe,#N/A
+4162,The Alps5,no,,,,,,,,,,europe,#N/A
+4167,High Atlas,no,,,,,,,,,,africa,#N/A
+4168,High Atlas2,no,,,,,,,,,,africa,#N/A
+4169,Aures,no,,,,,,,,,,africa,#N/A
+4170,Zagros,no,,,,,,,,,,asia,#N/A
+4172,Zagros2,no,,,,,,,,,,asia,#N/A
+4177,Elburz,no,,,,,,,,,,asia,#N/A
+4178,Pontic Mountains,no,,,,,,,,,,europe,#N/A
+4179,Armenian Highlands,no,,,,,,,,,,asia,#N/A
+4224,Tokai Sea,no,,,,,,,,,,Unknown,#N/A
+4225,Hokkaido Coast,no,,,,,,,,,,Unknown,#N/A
+4226,Japan Basin,no,,,,,,,,,,Unknown,#N/A
+4233,Bohai Sea,no,,,,,,,,,,Unknown,#N/A
+4234,Western Yellow Sea,no,,,,,,,,,,Unknown,#N/A
+4235,Vistula Lagoon,no,,,,,,,,,,Unknown,#N/A
+4276,Tubaiq,no,,,,,,,,,,asia,#N/A
+4321,Egyptian Desert,no,,,,,,,,,,africa,#N/A
+4322,Egyptian Desert,no,,,,,,,,,,africa,#N/A
+4328,Chagai,no,,,,,,,,,,asia,#N/A
+4333,Dahlek Archipelago,no,,,,,,,,,,asia,#N/A
+4346,Qamr Bay,no,,,,,,,,,,Unknown,#N/A
+4347,Pirate Coast,no,,,,,,,,,,Unknown,#N/A
+4357,Cuyu Arcihpelago,no,,,,,,,,,,Unknown,#N/A
+4358,Philippine Trench,no,,,,,,,,,,Unknown,#N/A
+4400,Naga Hills,no,,,,,,,,,,asia,#N/A
+4401,Arakan Mountains,no,,,,,,,,,,asia,#N/A
+4402,Gaoligong Mountains,no,,,,,,,,,,asia,#N/A
+4403,Shan Highlands,no,,,,,,,,,,asia,#N/A
+4522,Aqenganggyai,no,,,,,,,,,,asia,#N/A
+4569,High Atlas3,no,,,,,,,,,,africa,#N/A
+4657,Changbai Mountains,no,,,,,,,,,,asia,#N/A
+4807,North Borneo,no,,,,,,,,,,asia,#N/A
+4808,Sumatra,no,,,,,,,,,,asia,#N/A
+4843,Annamite Mountains,no,,,,,,,,,,asia,#N/A
+4844,Dawna Hills,no,,,,,,,,,,asia,#N/A
+4870,Australian Lakes,no,,,,,,,,,,oceania,#N/A
+4924,Laurentian Massif,no,,,,,,,,,,north_america,#N/A
+4925,White Mountains,no,,,,,,,,,,north_america,#N/A
+4926,Adirondacks,no,,,,,,,,,,north_america,#N/A
+4927,Blue Mountains,no,,,,,,,,,,north_america,#N/A
+4928,Allegheny Front,no,,,,,,,,,,north_america,#N/A
+4929,Appalachians,no,,,,,,,,,,north_america,#N/A
+4930,Alleghenies,no,,,,,,,,,,north_america,#N/A
+4931,Cumberland Mountains,no,,,,,,,,,,north_america,#N/A
+4932,Great Smoky Mountains,no,,,,,,,,,,north_america,#N/A
+4933,Blue Ridge,no,,,,,,,,,,north_america,#N/A
+4940,Lake Tulare,no,,,,,,,,,,Unknown,#N/A
+4941,Lake Cahuilla,no,,,,,,,,,,Unknown,#N/A
