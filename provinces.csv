@@ -1,0 +1,4940 @@
+1,Uppland,13,Swedish,Catholic,Grain
+2,Ostergotland,6,Swedish,Catholic,Grain
+3,Kalmar,5,Swedish,Catholic,Naval Supplies
+4,Bergslagen,7,Swedish,Catholic,Iron
+5,Varmland,3,Swedish,Catholic,Iron
+6,Skane,20,Danish,Catholic,Grain
+7,Skaraborg,6,Swedish,Catholic,Grain
+8,Dalaskogen,5,Swedish,Catholic,Copper
+9,Halsingland,5,Swedish,Catholic,Fish
+10,Jamtland,3,Norwegian,Catholic,Fur
+11,Vasterbotten,3,Swedish,Catholic,Fur
+12,Sjaelland,20,Danish,Catholic,Fish
+13,Slesvig,11,Danish,Catholic,Livestock
+14,Fyn,14,Danish,Catholic,Fish
+15,Jylland,5,Danish,Catholic,Livestock
+16,Bohuslan,6,Norwegian,Catholic,Fish
+17,Akershus,8,Norwegian,Catholic,Fish
+18,Lappland,3,Sapmi,Catholic,Unknown
+19,Osterbotten,3,Finnish,Catholic,Fur
+20,Trondelag,8,Norwegian,Catholic,Fish
+21,Halogaland,5,Norwegian,Catholic,Fish
+22,Eisdiva,3,Norwegian,Catholic,Naval Supplies
+23,Bergenshus,7,Norwegian,Catholic,Naval Supplies
+24,Agder,6,Norwegian,Catholic,Fish
+25,Gotland,10,Swedish,Catholic,Wool
+26,Halland,8,Danish,Catholic,Livestock
+27,Finland,8,Swedish,Catholic,Grain
+28,Nyland,6,Finnish,Catholic,Naval Supplies
+29,Tavastland,3,Finnish,Catholic,Fur
+30,Viborg,6,Finnish,Catholic,Fur
+31,Savolaks,3,Finnish,Catholic,Fur
+32,Keksholm,5,Karelian,Orthodox,Fur
+33,Neva,7,Karelian,Orthodox,Fur
+34,Ingermanland,7,Novgorodian,Orthodox,Fur
+35,Osel,3,Estonian,Catholic,Grain
+36,Estland,10,Estonian,Catholic,Grain
+37,Livland,8,Latvian,Catholic,Livestock
+38,Riga,11,Baltic German,Catholic,Naval Supplies
+39,Kurland,7,Latvian,Catholic,Naval Supplies
+40,Memel,9,Lithuanian,Catholic,Livestock
+41,Konigsberg,13,Prussian,Catholic,Gems
+42,Warmia,8,Prussian,Catholic,Naval Supplies
+43,Danzig,16,Prussian,Catholic,Gems
+44,Hamburg,19,Lower Saxon,Catholic,Fish
+45,Lubeck,17,Lower Saxon,Catholic,Naval Supplies
+46,Rostock,10,Pommeranian,Catholic,Naval Supplies
+47,Stralsund,6,Pommeranian,Catholic,Fish
+48,Kolberg,6,Pommeranian,Catholic,Fish
+49,Neumark,6,Saxon,Catholic,Livestock
+50,Berlin,12,Saxon,Catholic,Cloth
+51,Ruppin,5,Saxon,Catholic,Livestock
+52,Magdeburg,10,Saxon,Catholic,Cloth
+53,Luneburg,8,Lower Saxon,Catholic,Salt
+54,Stade,6,Lower Saxon,Catholic,Fish
+55,Oldenburg,7,Hannoverian,Catholic,Salt
+56,Osnabruck,9,Hannoverian,Catholic,Salt
+57,Brunswick,9,Lower Saxon,Catholic,Iron
+58,Anhalt,6,Saxon,Catholic,Wool
+59,Wittenberg,10,Saxon,Catholic,Wool
+60,Lausitz,5,Sorbian,Catholic,Cloth
+61,Dresden,14,Saxon,Catholic,Iron
+62,Leipzig,10,Saxon,Catholic,Wool
+63,Erfurt,12,Saxon,Catholic,Dyes
+64,Landshut,12,Bavarian,Catholic,Salt
+65,Munchen,15,Bavarian,Catholic,Grain
+66,Bamberg,6,Franconian,Catholic,Wine
+67,Nurnberg,19,Franconian,Catholic,Paper
+68,Memmingen,13,Swabian,Catholic,Cloth
+69,Dortmund,12,Hannoverian,Catholic,Cloth
+70,Wurttemberg,11,Swabian,Catholic,Grain
+71,Ansbach,8,Franconian,Catholic,Salt
+72,Breisgau,11,Swabian,Catholic,Glass
+73,Tirol,9,Austrian,Catholic,Gold
+74,Baden,8,Swabian,Catholic,Wine
+75,Elsass,16,Swabian,Catholic,Paper
+76,Salzburg,14,Bavarian,Catholic,Salt
+77,Heidelberg,13,Hessian,Catholic,Wine
+78,Mainz,10,Hessian,Catholic,Paper
+79,Wurzburg,11,Franconian,Catholic,Wine
+80,Trier,12,Hessian,Catholic,Grain
+81,Hessen,10,Hessian,Catholic,Wool
+82,Lippe,7,Hannoverian,Catholic,Wool
+83,Nassau,9,Hessian,Catholic,Copper
+84,Berg,9,Hessian,Catholic,Cloth
+85,Koln,15,Hessian,Catholic,Paper
+86,Munster,12,Hannoverian,Catholic,Cloth
+87,Calais,13,Wallonian,Catholic,Fish
+88,Artois,15,Wallonian,Catholic,Cloth
+89,Picardie,17,Cosmopolitan French,Catholic,Grain
+90,Vlaanderen,18,Flemish,Catholic,Cloth
+91,Hainaut,15,Wallonian,Catholic,Cloth
+92,Brabant,18,Flemish,Catholic,Cloth
+93,Liege,15,Wallonian,Catholic,Glass
+94,Luxemburg,12,Wallonian,Catholic,Iron
+95,Breda,9,Dutch,Catholic,Cloth
+96,Zeeland,11,Dutch,Catholic,Salt
+97,Holland,16,Dutch,Catholic,Cloth
+98,Utrecht,12,Dutch,Catholic,Cloth
+99,Gelre,15,Dutch,Catholic,Livestock
+100,Friesland,14,Frisian,Catholic,Livestock
+101,Genoa,25,Ligurian,Catholic,Paper
+102,Nice,10,Ligurian,Catholic,Fish
+103,Piedmont,17,Piedmontese,Catholic,Wine
+104,Milan,21,Lombard,Catholic,Cloth
+105,Parma,15,Romagnan,Catholic,Livestock
+106,Modena,12,Romagnan,Catholic,Livestock
+107,Brescia,13,Lombard,Catholic,Cloth
+108,Verona,13,Venetian,Catholic,Grain
+109,Mantua,19,Romagnan,Catholic,Livestock
+110,Trent,8,Venetian,Catholic,Iron
+111,Friuli,12,Venetian,Catholic,Wine
+112,Venezia,27,Venetian,Catholic,Glass
+113,Ferrara,14,Romagnan,Catholic,Salt
+114,Romagna,11,Romagnan,Catholic,Salt
+115,Pisa,15,Tuscan,Catholic,Wine
+116,Firenze,28,Tuscan,Catholic,Wine
+117,Siena,20,Tuscan,Catholic,Glass
+118,Roma,25,Umbrian,Catholic,Paper
+119,Ancona,14,Umbrian,Catholic,Paper
+120,Abbruzzi,13,Neapolitan,Catholic,Wine
+121,Napoli,22,Neapolitan,Catholic,Grain
+122,Apulia,8,Neapolitan,Catholic,Wine
+123,Calabria,6,Sicilian,Catholic,Fish
+124,Messina,17,Sicilian,Catholic,Fish
+125,Palermo,13,Sicilian,Catholic,Wine
+126,Malta,8,Maltese,Catholic,Fish
+127,Sassari,8,Sardinian,Catholic,Fish
+128,Karnten,10,Austrian,Catholic,Iron
+129,Krain,10,Slovene,Catholic,Livestock
+130,Istria,8,Dalmatian,Catholic,Salt
+131,Zagorje,7,Croatian,Catholic,Cloth
+132,Steiermark,11,Austrian,Catholic,Grain
+133,Linz,11,Austrian,Catholic,Grain
+134,Wien,18,Austrian,Catholic,Wine
+135,Sopron,8,Hungarian,Catholic,Grain
+136,Dalmatia,9,Dalmatian,Catholic,Wool
+137,Ragusa,14,Dalmatian,Catholic,Salt
+138,Zeta,5,Serbian,Orthodox,Livestock
+139,Hum,8,Bosnian,Catholic,Wool
+140,Bosnia,7,Bosnian,Orthodox,Salt
+141,Serbia,8,Serbian,Orthodox,Grain
+142,Corfu,6,Greek,Orthodox,Fish
+143,Vlore,4,Albanian,Orthodox,Wool
+144,Janina,4,Greek,Orthodox,Wool
+145,Morea,6,Greek,Orthodox,Wine
+146,Athens,11,Greek,Orthodox,Grain
+147,Salonica,12,Greek,Orthodox,Wool
+148,Thessaloniki,10,Greek,Orthodox,Cloth
+149,Edirne,14,Greek,Orthodox,Cloth
+150,Tarnovo,8,Bulgarian,Orthodox,Grain
+151,Constantinople,20,Greek,Orthodox,Glass
+152,Belovar,6,Croatian,Catholic,Cloth
+153,Pest,11,Hungarian,Catholic,Grain
+154,Hont,8,Slovak,Catholic,Gold
+155,Bekes,6,Hungarian,Catholic,Wine
+156,Temes,8,Transylvanian,Catholic,Wool
+157,Bihar,5,Transylvanian,Orthodox,Naval Supplies
+158,Maros,8,Transylvanian,Catholic,Wool
+159,Silistria,6,Bulgarian,Orthodox,Fish
+160,Oltenia,8,Romanian,Orthodox,Copper
+161,Tirgoviste,13,Romanian,Orthodox,Livestock
+162,Zemplen,7,Slovak,Catholic,Grain
+163,Crete,13,Greek,Orthodox,Fish
+164,Naxos,6,Greek,Orthodox,Wine
+165,Bern,13,Swiss,Catholic,Iron
+166,Schwyz,10,Swiss,Catholic,Iron
+167,Caux,12,Normand,Catholic,Glass
+168,Normandie,12,Normand,Catholic,Cloth
+169,Armor,12,Breton,Catholic,Cloth
+170,Finistere,10,Breton,Catholic,Naval Supplies
+171,Vannetais,9,Breton,Catholic,Fish
+172,Vendee,12,Breton,Catholic,Salt
+173,Labourd,10,Basque,Catholic,Wine
+174,Gascogne,21,Gascon,Catholic,Wine
+175,Armagnac,15,Gascon,Catholic,Wool
+176,Bearn,12,Gascon,Catholic,Wool
+177,Maine,16,Cosmopolitan French,Catholic,Cloth
+178,Anjou,15,Cosmopolitan French,Catholic,Cloth
+179,Berry,12,Cosmopolitan French,Catholic,Wine
+180,Poitou,12,Cosmopolitan French,Catholic,Livestock
+181,Rethel,14,Wallonian,Catholic,Cloth
+182,Vermandois,14,Cosmopolitan French,Catholic,Livestock
+183,Ile-de-France,23,Cosmopolitan French,Catholic,Paper
+184,Orleanais,17,Cosmopolitan French,Catholic,Grain
+185,Othe,15,Cosmopolitan French,Catholic,Paper
+186,Champagne,16,Cosmopolitan French,Catholic,Wine
+187,Barrois,10,Burgundian,Catholic,Cloth
+188,Metz,17,Burgundian,Catholic,Glass
+189,Lothringen,15,Burgundian,Catholic,Iron
+190,Bourbon,12,Cosmopolitan French,Catholic,Iron
+191,Nevers,13,Burgundian,Catholic,Livestock
+192,Bourgogne,20,Burgundian,Catholic,Wine
+193,Franche-Comte,10,Burgundian,Catholic,Salt
+194,Bergerac,9,Gascon,Catholic,Wine
+195,Limousin,8,Gascon,Catholic,Livestock
+196,Toulouse,15,Occitain,Catholic,Wine
+197,Roussillon,8,Catalan,Catholic,Wine
+198,Rouergue,8,Occitain,Catholic,Livestock
+199,Auvergne,10,Occitain,Catholic,Iron
+200,Languedoc,16,Occitain,Catholic,Cloth
+201,Provence,20,Occitain,Catholic,Wine
+202,Avignon,11,Occitain,Catholic,Cloth
+203,Lyonnais,18,Occitain,Catholic,Paper
+204,Dauphine,10,Occitain,Catholic,Wool
+205,Savoie,15,Occitain,Catholic,Cloth
+206,Galicia,7,Galician,Catholic,Fish
+207,Asturias,11,Leonese,Catholic,Livestock
+208,Leon,10,Leonese,Catholic,Livestock
+209,Vizcaya,6,Basque,Catholic,Iron
+210,Navarra,7,Basque,Catholic,Iron
+211,Pirineo,7,Aragonese,Catholic,Wool
+212,Girona,9,Catalan,Catholic,Fish
+213,Barcelona,14,Catalan,Catholic,Glass
+214,Aragon,13,Aragonese,Catholic,Cloth
+215,Castilla La Vieja,8,Castillian,Catholic,Cloth
+216,Salamanca,12,Leonese,Catholic,Livestock
+217,Madrid,15,Castillian,Catholic,Cloth
+218,Badajoz,8,Andalucian,Catholic,Grain
+219,Toledo,14,Castillian,Catholic,Iron
+220,Valencia,15,Catalan,Catholic,Cloth
+221,Murcia,10,Andalucian,Catholic,Grain
+222,Almeria,6,Andalucian,Sunni,Grain
+223,Granada,14,Andalucian,Sunni,Silk
+224,Andalucia,16,Andalucian,Catholic,Wine
+225,Cordoba,10,Andalucian,Catholic,Grain
+226,Gibraltar,3,Andalucian,Sunni,Fish
+227,Lisboa,16,Portugese,Catholic,Fish
+228,Beira,11,Portugese,Catholic,Wine
+229,Beja,9,Portugese,Catholic,Livestock
+230,Algarve,8,Portugese,Catholic,Salt
+231,Porto,19,Portugese,Catholic,Wine
+232,Braganca,12,Portugese,Catholic,Wine
+233,Cornwall,3,Cornish,Catholic,Copper
+234,Hampshire,9,English,Catholic,Fish
+235,Kent,12,English,Catholic,Cloth
+236,London,20,English,Catholic,Cloth
+237,Oxfordshire,10,English,Catholic,Livestock
+238,Essex,14,English,Catholic,Cloth
+239,Gloucestershire,6,English,Catholic,Naval Supplies
+240,Shrewsbury,8,English,Catholic,Wool
+241,Glamorgan,5,Welsh,Catholic,Iron
+242,Gwynedd,5,Welsh,Catholic,Livestock
+243,Lincoln,8,English,Catholic,Cloth
+244,Lancashire,8,English,Catholic,Wool
+245,Yorkshire,8,English,Catholic,Cloth
+246,Northumberland,8,English,Catholic,Wool
+247,Cumbria,5,English,Catholic,Wool
+248,Lothian,16,Scottish,Catholic,Cloth
+249,Ayrshire,10,Scottish,Catholic,Wool
+250,Perth,10,Highland Scottish,Catholic,Livestock
+251,Aberdeen,9,Scottish,Catholic,Fish
+252,Inverness,7,Highland Scottish,Catholic,Wool
+253,Western Isles,3,Highland Scottish,Catholic,Grain
+254,Poznan,17,Polish,Catholic,Salt
+255,Kalisz,7,Polish,Catholic,Cloth
+256,Plock,6,Polish,Catholic,Grain
+257,Warszawa,12,Polish,Catholic,Cloth
+258,Lodz,7,Polish,Catholic,Grain
+259,Sandomierz,9,Polish,Catholic,Cloth
+260,Lublin,13,Polish,Catholic,Cloth
+261,Halicz,8,Ruthenian,Orthodox,Grain
+262,Krakow,20,Polish,Catholic,Salt
+263,Ratibor,8,Schlesian,Catholic,Iron
+264,Breslau,13,Schlesian,Catholic,Cloth
+265,Brno,8,Czech,Hussite,Wine
+266,Prague,22,Czech,Hussite,Cloth
+267,Plsen,11,Czech,Catholic,Naval Supplies
+268,Moldavia,11,Romanian,Orthodox,Livestock
+269,Podlasia,13,Polish,Catholic,Livestock
+270,Troki,8,Lithuanian,a,Livestock
+271,Samogitia,6,Lithuanian,Catholic,Livestock
+272,Lithuania,13,Lithuanian,Catholic,Grain
+273,Latgalia,5,Latvian,Catholic,Livestock
+274,Pskov,14,Novgorodian,Orthodox,Livestock
+275,Polotsk,9,Byelorussian,Orthodox,Iron
+276,Minsk,7,Byelorussian,Orthodox,Naval Supplies
+277,Brest,6,Byelorussian,Orthodox,Wool
+278,Pinsk,6,Byelorussian,Orthodox,Wool
+279,Volhynia,10,Ruthenian,Orthodox,Livestock
+280,Kiev,10,Ruthenian,Orthodox,Grain
+281,Kamienec,6,Ruthenian,Orthodox,Livestock
+282,Yedisan,5,Crimean,Sunni,Livestock
+283,Zaporozhia,4,Crimean,Sunni,Livestock
+284,Crimea,18,Crimean,Sunni,Salt
+285,Kaffa,10,Pontic Greek,Orthodox,Wine
+286,Azow,9,Crimean,Sunni,Slaves
+287,Kouban,9,Crimean,Sunni,Livestock
+288,Cherkassk,8,Mishary,Sunni,Livestock
+289,Chernigov,5,Ryazanian,Orthodox,Iron
+290,Poltava,5,Ruthenian,Orthodox,Grain
+291,Kharkov,5,Ryazanian,Orthodox,Iron
+292,Mogilyov,5,Byelorussian,Orthodox,Wool
+293,Smolensk,9,Ryazanian,Orthodox,Grain
+294,Tver,11,Russian,Orthodox,Grain
+295,Moskva,17,Russian,Orthodox,Iron
+296,Kaluga,8,Russian,Orthodox,Grain
+297,Bryansk,5,Ryazanian,Orthodox,Grain
+298,Kursk,4,Ryazanian,Orthodox,Grain
+299,Voronezh,8,Mishary,Sunni,Livestock
+300,Tula,8,Ryazanian,Orthodox,Iron
+301,Ryazan,13,Ryazanian,Orthodox,Wool
+302,Tambow,9,Mishary,Sunni,Iron
+303,Saratow,12,Mishary,Sunni,Livestock
+304,Pensa,8,Kazani,Sunni,Livestock
+305,Perm,11,Uralic,Tengri,Copper
+306,Nijni-Novgorod,13,Russian,Orthodox,Copper
+307,Vladimir,11,Russian,Orthodox,Iron
+308,Yaroslavl,11,Russian,Orthodox,Livestock
+309,Olonets,8,Karelian,Orthodox,Fur
+310,Novgorod,20,Novgorodian,Orthodox,Fur
+311,Kholm,6,Novgorodian,Orthodox,Naval Supplies
+312,Beloozero,7,Novgorodian,Orthodox,Naval Supplies
+313,Soroka,4,Novgorodian,Orthodox,Fur
+314,Vologda,8,Russian,Orthodox,Iron
+315,Finnmark,3,Sapmi,Catholic,Fish
+316,Kocaeli,9,Turkish,Sunni,Grain
+317,Hudavendigar,12,Turkish,Sunni,Silk
+318,Sugla,10,Turkish,Sunni,Cotton
+319,Mentese,9,Turkish,Sunni,Salt
+320,Rhodes,11,Greek,Orthodox,Fish
+321,Cyprus,15,Greek,Orthodox,Wine
+322,Kutahya,8,Turkish,Sunni,Cloth
+323,Konya,9,Turkish,Sunni,Salt
+324,Karaman,14,Turkish,Sunni,Livestock
+325,Kastamonu,10,Turkish,Sunni,Copper
+326,Ankara,9,Turkish,Sunni,Cloth
+327,Adana,10,Turkish,Sunni,Cotton
+328,Sinop,8,Turkish,Sunni,Naval Supplies
+329,Sivas,9,Turkish,Shiite,Livestock
+330,Trebizond,12,Pontic Greek,Orthodox,Naval Supplies
+331,Erzurum,12,Armenian,Coptic,Livestock
+332,Marash,6,Turkish,Sunni,Wool
+333,The Baleares,5,Catalan,Catholic,Sugar
+334,Tangiers,7,Moroccan,Sunni,Cloth
+335,Mellila,7,Berber,Sunni,Fish
+336,Tlemcen,13,Berber,Sunni,Cloth
+337,Oran,7,Algerian,Sunni,Cloth
+338,Al-Djazair,13,Algerian,Sunni,Grain
+339,Bejaia,8,Berber,Sunni,Iron
+340,Constantine,8,Berber,Sunni,Grain
+341,Tunis,14,Tunisian,Sunni,Cloth
+342,Toubkhal,10,Moroccan,Sunni,Grain
+343,Fez,13,Moroccan,Sunni,Cloth
+344,Marrakech,12,Moroccan,Sunni,Sugar
+345,Safi,3,Moroccan,Sunni,Sugar
+346,Figuig,10,Moroccan,Sunni,Gold
+347,Ifni,3,Berber,Sunni,Fish
+348,Sus,12,Berber,Sunni,Sugar
+349,Atlas,5,Berber,Sunni,Livestock
+350,Aures,3,Algerian,Sunni,Livestock
+351,Biskra,3,Berber,Sunni,Wool
+352,Gafsa,5,Tunisian,Sunni,Salt
+353,Gabes,3,Tunisian,Sunni,Grain
+354,Tripolitania,5,Tunisian,Sunni,Cloth
+355,Sirt,3,Tunisian,Sunni,Fish
+356,Benghazi,6,Al Misr Arabic,Sunni,Livestock
+357,Darnah,3,Al Misr Arabic,Sunni,Livestock
+358,Alexandria,13,Al Misr Arabic,Sunni,Spices
+359,Faiyum,12,Al Misr Arabic,Sunni,Cotton
+360,Qena,3,Al Misr Arabic,Sunni,Livestock
+361,Cairo,24,Al Misr Arabic,Sunni,Cloth
+362,Rosetta,10,Al Misr Arabic,Sunni,Grain
+363,Damietta,10,Al Misr Arabic,Sunni,Grain
+364,Gaza,8,Al Suryah Arabic,Sunni,Salt
+365,Sinai,3,Bedouin Arabic,Sunni,Gems
+366,The Canarias,7,Berber,Animism,Unknown
+367,The Azores,7,Berber,Animism,Fish
+368,Madeira,9,Berber,Animism,Unknown
+369,Orkney,3,Norwegian,Catholic,Fish
+370,Reykjavik,3,Icelandic,Catholic,Fish
+371,Akureyri,3,Icelandic,Catholic,Fish
+372,Tyrone,8,Irish,Catholic,Wool
+373,Meath,8,Irish,Catholic,Livestock
+374,Leinster,6,Irish,Catholic,Livestock
+375,Munster,8,Irish,Catholic,Fish
+376,Connaught,6,Irish,Catholic,Livestock
+377,Aleppo,22,Al Suryah Arabic,Sunni,Silk
+378,Tripoli,16,Al Suryah Arabic,Shiite,Grain
+379,Jerusalem,13,Al Suryah Arabic,Sunni,Grain
+380,Al Karak,3,Bedouin Arabic,Sunni,Grain
+381,Ajlun,6,Al Suryah Arabic,Sunni,Grain
+382,Damascus,20,Al Suryah Arabic,Sunni,Iron
+383,Tabuk,5,Bedouin Arabic,Sunni,Livestock
+384,Medina,9,Hejazi Culture,Sunni,Cloth
+385,Mecca,12,Hejazi Culture,Sunni,Incense
+386,Asir,6,Hejazi Culture,Shiite,Coffee
+387,Mokha,8,Yemeni Culture,Sunni,Coffee
+388,Aden,11,Yemeni Culture,Sunni,Incense
+389,Mukalla,5,Yemeni Culture,Sunni,Incense
+390,Sanaa,11,Yemeni Culture,Shiite,Wool
+391,Najran,6,Yemeni Culture,Shiite,Cloth
+392,Al-Arid,3,Bedouin Arabic,Sunni,Livestock
+393,Jabal Shammar,3,Bedouin Arabic,Sunni,Grain
+394,El Catif,3,Gulf Arabic,Shiite,Fish
+395,Qatar,5,Gulf Arabic,Shiite,Gems
+396,Bahrain,4,Gulf Arabic,Shiite,Gems
+397,Abu Dhabi,3,Gulf Arabic,Shiite,Livestock
+398,Qawasim,5,Gulf Arabic,Ibadi,Livestock
+399,Suhar,9,Omani Culture,Ibadi,Grain
+400,Muscat,9,Omani Culture,Ibadi,Gems
+401,Dhofar,3,Mahri Culture,Sunni,Incense
+402,Mahra,3,Mahri Culture,Sunni,Incense
+403,Nizwa,9,Omani Culture,Ibadi,Wool
+404,Liwa,3,Gulf Arabic,Sunni,Spices
+405,Tadmor,4,Bedouin Arabic,Sunni,Livestock
+406,As Sahiliyah,6,Al Iraqiya Arabic,Sunni,Livestock
+407,Ar Raqqa,3,Al Suryah Arabic,Sunni,Livestock
+408,Basra,11,Al Iraqiya Arabic,Shiite,Salt
+409,Hillah,6,Al Iraqiya Arabic,Shiite,Wool
+410,Baghdad,12,Al Iraqiya Arabic,Sunni,Cloth
+411,Mosul,12,Kurdish,Sunni,Cloth
+412,Khuzestan,9,Al Iraqiya Arabic,Shiite,Sugar
+413,Lorestan,8,Luri,Shiite,Grain
+414,Hamadan,6,Luri,Sunni,Cloth
+415,Shahrizor,9,Kurdish,Sunni,Grain
+416,Tabriz,17,Azerbaijani,Shiite,Silk
+417,Lahijan,12,Mazandarani,Shiite,Silk
+418,Diyarbakir,8,Kurdish,Sunni,Livestock
+419,Yerevan,11,Armenian,Coptic,Wine
+420,Ganja,6,Azerbaijani,Shiite,Cotton
+421,Shirvan,8,Azerbaijani,Sunni,Silk
+422,Imereti,9,Georgian,Orthodox,Cloth
+423,Tblisi,10,Georgian,Orthodox,Dyes
+424,Ardabil,9,Azerbaijani,Shiite,Dyes
+425,Dagestan,7,Dagestani,Sunni,Fish
+426,Amol,10,Mazandarani,Shiite,Silk
+427,Qumis,3,Khorasani,Sunni,Wool
+428,Teheran,14,Persian,Shiite,Silk
+429,Isfahan,11,Persian,Sunni,Paper
+430,Bushehr,7,Persian,Shiite,Silk
+431,Mogostan,9,Gulf Arabic,Sunni,Spices
+432,Kerman,7,Persian,Sunni,Paper
+433,Yazd,6,Persian,Zoroastrian,Paper
+434,Quhistan,7,Baluchi,Sunni,Livestock
+435,Zaranj,6,Khorasani,Sunni,Wool
+436,Birjand,6,Khorasani,Sunni,Cotton
+437,Atak,3,Turkmeni,Sunni,Livestock
+438,Kara Kum,3,Turkmeni,Sunni,Livestock
+439,Mangyshlak,3,Nogaybak,Sunni,Fish
+440,Qaraqalpak,9,Uzbehk,Sunni,Wool
+441,Khiva,9,Uzbehk,Sunni,Wool
+442,Bukhara,15,Uzbehk,Sunni,Salt
+443,Ust Yurt,6,Nogaybak,Sunni,Livestock
+444,Charjuy,6,Uzbehk,Sunni,Livestock
+445,Merv,8,Turkmeni,Sunni,Cotton
+446,Herat,13,Khorasani,Sunni,Paper
+447,Kandahar,7,Afghani,Sunni,Cotton
+448,Gazni,7,Afghani,Sunni,Grain
+449,Ghor,8,Afghani,Sunni,Wool
+450,Balkh,9,Afghani,Sunni,Cotton
+451,Kabul,12,Afghani,Sunni,Gems
+452,Badakhshan,3,Afghani,Sunni,Gems
+453,Qarshi,4,Uzbehk,Sunni,Cotton
+454,Samarkand,21,Uzbehk,Sunni,Paper
+455,Kyrzyl-Kum,3,Khazak,Sunni,Livestock
+456,Turkestan,3,Khazak,Sunni,Grain
+457,Tashkent,9,Uzbehk,Sunni,Tea
+458,Kokand,12,Uzbehk,Sunni,Iron
+459,Taraz,5,Khazak,Sunni,Cloth
+460,Uzkend,12,Kirgiz,Sunni,Wool
+461,Almaty,6,Khazak,Sunni,Cloth
+462,Mingrelia,6,Georgian,Orthodox,Wine
+463,Circassia,7,Circassian,Orthodox,Livestock
+464,Astrakhan,15,Astrakhani,Sunni,Wool
+465,Nogay,9,Nogaybak,Sunni,Salt
+466,Sarai,17,Astrakhani,Sunni,Wool
+467,Borisoglebsk,6,Mishary,Sunni,Livestock
+468,Khazaria,5,Astrakhani,Sunni,Livestock
+469,Ryn,3,Nogaybak,Sunni,Fish
+470,Bayuly,6,Nogaybak,Sunni,Livestock
+471,Alimuly,6,Nogaybak,Sunni,Livestock
+472,Jetyru,6,Nogaybak,Sunni,Naval Supplies
+473,Samara,7,Kazani,Sunni,Livestock
+474,Yaik,6,Nogaybak,Sunni,Iron
+475,Bashkortostan,9,Bashkir,Sunni,Wool
+476,Kypshak,18,Khazak,Sunni,Grain
+477,Nadym,6,Khazak,Sunni,Wool
+478,Argyn,6,Khazak,Sunni,Wool
+479,Kerey,6,Khazak,Sunni,Copper
+480,Kulunda,3,Kirgiz,Tengri,Unknown
+481,Bermuda,3,English,No Religion,Unknown
+482,Bahamas,5,Arawak,Animism,Unknown
+483,Turks Islands,7,Carib,Animism,Unknown
+484,Havana,11,Arawak,Animism,Unknown
+485,Moron,6,Arawak,Animism,Unknown
+486,Guantanamo,6,Arawak,Animism,Unknown
+487,Jamaica,10,Arawak,Animism,Unknown
+488,Les Cayes,6,Arawak,Animism,Unknown
+489,Tortuga,5,Arawak,Animism,Unknown
+490,Barahonas,6,Arawak,Animism,Unknown
+491,Curacao,7,Arawak,Animism,Unknown
+492,Puerto Rico,10,Arawak,Animism,Unknown
+493,St. Thomas,9,Arawak,Animism,Unknown
+494,St. Kitts,9,Arawak,Animism,Unknown
+495,Antigua,10,Carib,Animism,Unknown
+496,Guadeloupe,10,Carib,Animism,Unknown
+497,Dominica,10,Carib,Animism,Unknown
+498,Martinique,10,Carib,Animism,Unknown
+499,St. Lucia,10,Carib,Animism,Unknown
+500,St. Vincent,10,Arawak,Animism,Unknown
+501,Barbados,10,Carib,Animism,Unknown
+502,Trinidad,10,Carib,Animism,Unknown
+503,Kutch,3,Saurashtri,Hinduism,Salt
+504,Thatta,10,Sindhi,Sunni,Cloth
+505,Sehwan,6,Sindhi,Sunni,Silk
+506,Multan,12,Panjabi,Sunni,Cloth
+507,Lahore,23,Panjabi,Hinduism,Silk
+508,Kashmir,7,Kashmiri,Hinduism,Paper
+509,Kangra,5,Pahari,Hinduism,Cotton
+510,Sirhind,10,Panjabi,Hinduism,Cotton
+511,Garhwal,3,Pahari,Hinduism,Cotton
+512,Jangladesh,3,Rajput,Hinduism,Livestock
+513,Jaisalmer,3,Rajput,Hinduism,Wool
+514,Marwar,6,Rajput,Hinduism,Cotton
+515,Girnar,8,Saurashtri,Hinduism,Iron
+516,Baroda,9,Gujarati,Hinduism,Dyes
+517,Surat,11,Gujarati,Hinduism,Silk
+518,Chittor,5,Rajput,Hinduism,Grain
+519,Dhundar,8,Rajput,Hinduism,Copper
+520,Mewat,4,Rajput,Hinduism,Glass
+521,Kathiawar,5,Saurashtri,Hinduism,Dyes
+522,Delhi,22,Kanauji,Hinduism,Silk
+523,Oudh,10,Avadhi,Hinduism,Glass
+524,Central Doab,24,Kanauji,Hinduism,Silk
+525,Gird,8,Vindhyan,Hinduism,Dyes
+526,Mandu,13,Malvi,Hinduism,Dyes
+527,Khandesh,12,Marathi,Hinduism,Cloth
+528,Hadoti,5,Rajput,Hinduism,Cotton
+529,North Konkan,9,Marathi,Hinduism,Cloth
+530,South Konkan,10,Marathi,Hinduism,Spices
+531,North Kanara,7,Kannada,Hinduism,Spices
+532,Raichur Doab,13,Kannada,Hinduism,Cloth
+533,Mysore,8,Kannada,Hinduism,Iron
+534,Malabar,7,Malayalam,Hinduism,Spices
+535,Kochin,8,Malayalam,Hinduism,Spices
+536,Madurai,11,Tamil,Hinduism,Silk
+537,Venad,5,Malayalam,Hinduism,Spices
+538,Kongu,6,Tamil,Hinduism,Incense
+539,Tondainadu,10,Tamil,Hinduism,Cloth
+540,Coromandel,11,Tamil,Hinduism,Cloth
+541,Vijayanagar,16,Kannada,Hinduism,Grain
+542,Golconda,11,Telegu,Hinduism,Gems
+543,Velanadu,11,Telegu,Hinduism,Gems
+544,Ahmadnagar,9,Marathi,Hinduism,Cotton
+545,Marathwada,8,Marathi,Hinduism,Paper
+546,East Berar,9,Gondi,Hinduism,Cotton
+547,Bastar,4,Gondi,Hinduism,Tropical Wood
+548,West Berar,5,Marathi,Hinduism,Copper
+549,Kalingandhra,8,Telegu,Hinduism,Cotton
+550,Mahakoshal,9,Gondi,Hinduism,Grain
+551,Mandla,8,Gondi,Hinduism,Tropical Wood
+552,Cuttack,14,Oriya,Hinduism,Cloth
+553,Sambalpur,8,Garjati,Hinduism,Cloth
+554,Baisi Rajya,5,Nepali,Hinduism,Wool
+555,Jaunpur,14,Avadhi,Hinduism,Paper
+556,Lower Doab,14,Avadhi,Hinduism,Cloth
+557,Katmandu,8,Nepali,Hinduism,Incense
+558,Patna,12,Bihari,Hinduism,Paper
+559,Bundelkhand,8,Vindhyan,Hinduism,Iron
+560,Jharkand,5,Jharkhandi,Hinduism,Iron
+561,Bengal Delta,12,Bengali,Hinduism,Silk
+562,Koch Behar,9,Kochi,Hinduism,Grain
+563,Gauda,16,Bengali,Hinduism,Paper
+564,Dakha,13,Bengali,Hinduism,Cloth
+565,Bhutan,5,Tibetan,Vajrayana,Wool
+566,Assam,11,Assamese,Hinduism,Grain
+567,Silhet,8,Bengali,Hinduism,Cotton
+568,Chittagong,13,Bengali,Hinduism,Cotton
+569,Bijapur,13,Kannada,Hinduism,Cotton
+570,Naga,6,Chin,Hinduism,Tropical Wood
+571,Darrang,9,Assamese,Hinduism,Silk
+572,Kotte,7,Sinhala,Buddhism,Spices
+573,Cachar,3,Chin,Hinduism,Grain
+574,The Andamans,3,Filipino,Animism,Unknown
+575,Eastern Makran,3,Baluchi,Sunni,Fish
+576,Kalat,10,Baluchi,Sunni,Dyes
+577,Quetta,9,Baluchi,Sunni,Grain
+578,Roh,10,Afghani,Sunni,Livestock
+579,Mrauk U,10,Arakanese,Buddhism,Grain
+580,Kale,7,Chin,Animism,Ivory
+581,Sagaing,14,Burmese,Buddhism,Cotton
+582,Mong Yang,9,Shan,Buddhism,Copper
+583,Hsenwi,9,Shan,Buddhism,Tropical Wood
+584,Ava,16,Burmese,Buddhism,Gems
+585,Taungoo,14,Burmese,Buddhism,Chinaware
+586,Pegu,12,Mon,Buddhism,Spices
+587,Kengtung,4,Shan,Animism,Tropical Wood
+588,Mong Nai,6,Shan,Buddhism,Cotton
+589,Chiang Mai,17,Northern Thai,Buddhism,Ivory
+590,Moulmein,8,Mon,Buddhism,Sugar
+591,Tavoy,10,Mon,Buddhism,Naval Supplies
+592,Ratchaburi,9,Central Thai,Buddhism,Grain
+593,Nakhon Si Thammarat,12,Central Thai,Buddhism,Tropical Wood
+594,Pattani,15,Malayan,Sunni,Tropical Wood
+595,Perak,12,Malayan,Sunni,Copper
+596,Malacca,17,Malayan,Sunni,Spices
+597,Johor,12,Malayan,Sunni,Chinaware
+598,Pahang,5,Malayan,Sunni,Fish
+599,Kelantan,6,Malayan,Sunni,Naval Supplies
+600,Ayutthaya,20,Central Thai,Buddhism,Ivory
+601,Sukhothai,15,Central Thai,Buddhism,Chinaware
+602,Chiang Rai,12,Northern Thai,Buddhism,Grain
+603,Nakhon Thung Yai,11,Central Thai,Buddhism,Gems
+604,Oudong,10,Khmer,Buddhism,Incense
+605,Prey Nokor,11,Khmer,Hinduism,Tropical Wood
+606,Panduranga,10,Cham,Hinduism,Fish
+607,Vijaya,12,Cham,Hinduism,Tropical Wood
+608,Attapeu,5,Lao,Animism,Ivory
+609,Angkor,6,Khmer,Hinduism,Tropical Wood
+610,Thanh Hoa,15,Vietnamese,Mahayana,Grain
+611,Sikhottabong,6,Lao,Animism,Grain
+612,Khorat,5,Khmer,Buddhism,Silk
+613,Dong Kinh,20,Vietnamese,Mahayana,Chinaware
+614,Vientiane,14,Lao,Buddhism,Grain
+615,Luang Prabang,11,Lao,Animism,Chinaware
+616,Cao Bang,7,Zhuang,Mahayana,Grain
+617,Lamuri,11,Acehnese,Sunni,Spices
+618,Deli,8,Sumatran,Sunni,Spices
+619,Batak,6,Sumatran,Hinduism,Incense
+620,Siak,13,Sumatran,Sunni,Chinaware
+621,Bengkulu,8,Sumatran,Hinduism,Unknown
+622,Palembang,13,Sumatran,Hinduism,Unknown
+623,Tulangbewang,7,Sumatran,Hinduism,Spices
+624,Banten,11,Sundanese,Hinduism,Spices
+625,Ciamis,10,Sundanese,Hinduism,Tropical Wood
+626,Karta,13,Javanese,Hinduism,Grain
+627,Blambangan,11,Javanese,Hinduism,Cotton
+628,Surabaya,13,Javanese,Hinduism,Cotton
+629,Demak,13,Javanese,Hinduism,Cotton
+630,Kalapa,10,Sundanese,Hinduism,Spices
+631,Bali,9,Nusa Tenggara,Hinduism,Cloth
+632,Sumbawa,8,Nusa Tenggara,Animism,Unknown
+633,Flores,11,Nusa Tenggara,Animism,Unknown
+634,Sumba,5,Nusa Tenggara,Animism,Unknown
+635,West Timor,9,Nusa Tenggara,Animism,Unknown
+636,Brunei,13,Bornean,Sunni,Spices
+637,Api-Api,9,Bornean,Sunni,Spices
+638,Kutai,13,Bornean,Hinduism,Fish
+639,Banjar,11,Bornean,Hinduism,Unknown
+640,Pontianak,9,Bornean,Hinduism,Unknown
+641,Makassar,14,Sulawesi,Animism,Spices
+642,Kendari,9,Sulawesi,Animism,Spices
+643,Poso,10,Sulawesi,Animism,Unknown
+644,Manado,10,Sulawesi,Animism,Unknown
+645,Buru,5,Moluccan,Animism,Unknown
+646,Ambon,12,Moluccan,Animism,Unknown
+647,Ceram,7,Moluccan,Animism,Unknown
+648,Halmahera,5,Moluccan,Animism,Unknown
+649,Ternate,13,Moluccan,Animism,Cloves
+650,Tidore,13,Moluccan,Animism,Cloves
+651,Sulu,11,Filipino,Sunni,Unknown
+652,Maguindanao,13,Filipino,Animism,Spices
+653,Lanao,8,Filipino,Animism,Spices
+654,Samar,5,Filipino,Animism,Unknown
+655,Palawan,8,Filipino,Sunni,Sugar
+656,Manila,12,Filipino,Animism,Chinaware
+657,Ilocos,6,Filipino,Animism,Unknown
+658,Cagayan,6,Filipino,Animism,Unknown
+659,Lingga,3,Sumatran,Sunni,Fish
+660,Sibsongbanna,8,Shan,Buddhism,Tea
+661,Dali,9,Bai,Buddhism,Tea
+662,Yunnan,14,Bai,Buddhism,Copper
+663,Guangnan,3,Bai,Buddhism,Copper
+664,Lingyun,3,Zhuang,Confucianism,Tea
+665,Shiuhing,11,Cantonese,Confucianism,Chinaware
+666,Kiungchow,3,Chimin,Confucianism,Tropical Wood
+667,Canton,27,Cantonese,Confucianism,Incense
+668,Macau,7,Cantonese,Confucianism,Fish
+669,Fuzhou,19,Chimin,Confucianism,Tea
+670,Ganzhou,10,Hakka,Confucianism,Grain
+671,Changsha,16,Xiang,Confucianism,Grain
+672,Wulin,8,Xiang,Confucianism,Cotton
+673,Zhenyuan,3,Miao,Animism,Tea
+674,Guiyang,8,Yi,Animism,Iron
+675,Umung,5,Yi,Animism,Copper
+676,Shigatse,6,Tibetan,Vajrayana,Incense
+677,Lhasa,7,Tibetan,Vajrayana,Cloth
+678,Tachienlu,6,Tibetan,Vajrayana,Tea
+679,Chengdu,21,Sichuanese,Confucianism,Silk
+680,Chongqing,20,Sichuanese,Confucianism,Spices
+681,Yichang,8,Sichuanese,Confucianism,Tea
+682,Wuchang,19,Hubei,Confucianism,Salt
+683,Nanchang,15,Gan,Confucianism,Paper
+684,Hangzhou,27,Wu,Confucianism,Silk
+685,Yangzhou,26,Jianghuai,Confucianism,Salt
+686,Anqing,14,Jianghuai,Confucianism,Cloth
+687,Nanyang,10,Zhongyuan,Confucianism,Gems
+688,Kaifeng,20,Zhongyuan,Confucianism,Chinaware
+689,Hanzhong,11,Xibei,Confucianism,Iron
+690,Qingzhou,12,Shandong Culture,Confucianism,Iron
+691,Jinan,13,Shandong Culture,Confucianism,Cloth
+692,Huaiqing,8,Jin,Confucianism,Grain
+693,Taiyuan,15,Jin,Confucianism,Iron
+694,Pingyang,7,Jin,Confucianism,Iron
+695,Hejian,8,Chihan,Confucianism,Salt
+696,Baoding,8,Chihan,Confucianism,Chinaware
+697,Datong,11,Jin,Confucianism,Iron
+698,Ningxia,7,Mongol,Confucianism,Salt
+699,Lanzhou,15,Xibei,Confucianism,Grain
+700,Xi'an,17,Xibei,Confucianism,Grain
+701,Ordos,5,Mongol,Vajrayana,Livestock
+702,Hohhot,12,Mongol,Vajrayana,Iron
+703,Chengde,7,Chahar,Vajrayana,Livestock
+704,Ningyuan,6,Chihan,Confucianism,Grain
+705,Gyegu,4,Tibetan,Vajrayana,Wool
+706,Tsaidam,3,Oirats,Vajrayana,Salt
+707,Yumen,5,Oirats,Vajrayana,Livestock
+708,Gansu,7,Xibei,Confucianism,Livestock
+709,Alxa,4,Mongol,Vajrayana,Gems
+710,Hotan,7,Uyghur,Sunni,Gems
+711,Qarqan,4,Uyghur,Vajrayana,Livestock
+712,Aksu,6,Uyghur,Sunni,Cotton
+713,Bechbaliq,6,Uyghur,Tengri,Salt
+714,Hoboksar,4,Oirats,Tengri,Livestock
+715,Urumqi,7,Uyghur,Tengri,Grain
+716,Tannu Uriankhai,3,Buryat,Tengri,Fur
+717,Kherlen,3,Khalkha,Tengri,Livestock
+718,Kobdo,6,Oirats,Tengri,Cloth
+719,Uliastai,9,Khalkha,Tengri,Wool
+720,Dorno Govi,4,Khalkha,Tengri,Livestock
+721,Setsen,5,Khalkha,Tengri,Livestock
+722,Jirem,5,Chahar,Vajrayana,Livestock
+723,Xilin Gol,6,Mongol,Vajrayana,Livestock
+724,Hulunbuir,3,Buryat,Tengri,Livestock
+725,Cicigar,10,Chahar,Tengri,Naval Supplies
+726,Shenyang,12,Manchu,Confucianism,Gems
+727,Aigun,9,Manchu,Tengri,Fur
+728,Tuwan,5,Manchu,Tengri,Livestock
+729,Bohori,6,Manchu,Tengri,Fish
+730,Girin,15,Manchu,Confucianism,Grain
+731,Ilan Hala,8,Manchu,Tengri,Naval Supplies
+732,South Hamgyeong,4,Korean,Confucianism,Fish
+733,Hwangju,6,Korean,Confucianism,Fish
+734,West Gangwon,4,Korean,Confucianism,Chinaware
+735,Hanseong,25,Korean,Confucianism,Paper
+736,Sangju,9,Korean,Confucianism,Cotton
+737,Jeonju,10,Korean,Confucianism,Chinaware
+738,Sakam,10,Polynesian,Animism,Unknown
+739,Kashgar,6,Uyghur,Sunni,Wool
+740,Chanderi,6,Malvi,Hinduism,Cloth
+741,Cumana,4,Carib,Animism,Unknown
+742,Guayana,4,Carib,Animism,Unknown
+743,Essequibo,3,Guajiro,Animism,Sugar
+744,Demerara,3,Guajiro,Animism,Unknown
+745,Suriname,3,Guajiro,Animism,Unknown
+746,Cayenne,3,Guajiro,Animism,Unknown
+747,Tucujulandia,4,Guajiro,Animism,Unknown
+748,Grao Para,4,Tupinamba,Animism,Cocoa
+749,Maranhao,7,Ge,Animism,Unknown
+750,Alpercatas,4,Ge,Animism,Unknown
+751,Ceara,6,Tupinamba,Animism,Sugar
+752,Oeiras,4,Ge,Animism,Unknown
+753,Rio Grande,7,Tupinamba,Animism,Unknown
+754,Itamaraca,7,Tupinamba,Animism,Unknown
+755,Pernambuco,10,Tupinamba,Animism,Unknown
+756,Bahia,10,Tupinamba,Animism,Unknown
+757,Ilheus,7,Tupinamba,Animism,Cocoa
+758,Goias,4,Ge,Animism,Unknown
+759,Diamentina,6,Ge,Animism,Unknown
+760,Porto Seguro,7,Ge,Animism,Unknown
+761,Espirito Santo,6,Ge,Animism,Cocoa
+762,Sao Tome,6,Tupinamba,Animism,Unknown
+763,Rio de Janeiro,10,Tupinamba,Animism,Unknown
+764,Santo Amaro,4,Tupinamba,Animism,Unknown
+765,Minas Gerais,6,Ge,Animism,Unknown
+766,Sao Vicente,6,Tupinamba,Animism,Unknown
+767,Ortelsburg,6,Prussian,Catholic,Naval Supplies
+768,Guayra,3,Guarani,Animism,Unknown
+769,Curitiba,6,Guarani,Animism,Unknown
+770,Braslaw,8,Lithuanian,Catholic,Livestock
+771,Vitebsk,5,Byelorussian,Orthodox,Grain
+772,Paysandu,4,Charruan,Animism,Unknown
+773,Banda Oriente,3,Charruan,Animism,Unknown
+774,Al Junaynahr,3,Tunjur,Fetishist,Unknown
+775,Xeres,3,Guarani,Animism,Unknown
+776,Itenines,3,Guarani,Animism,Unknown
+777,Parana,4,Guarani,Animism,Unknown
+778,Rio de la Plata,7,Charruan,Animism,Grain
+779,Serranos,3,Het,Animism,Unknown
+780,Tehuelmapu,3,Patagonian,Animism,Unknown
+781,Patagonia Oriental,3,Patagonian,Animism,Unknown
+782,Tierra del Fuego,3,Patagonian,Animism,Unknown
+783,Patagonia Occidental,3,Patagonian,Animism,Unknown
+784,Huillimapu,3,Mapuche,Animism,Fish
+785,Pehuenmapu,3,Mapuche,Animism,Unknown
+786,Salinas Grande,3,Het,Animism,Unknown
+787,Pincunmapu,4,Mapuche,Animism,Unknown
+788,Angoche,7,Swahili,Sunni,Ivory
+789,Mtetwa,3,Nguni,Fetishist,Unknown
+790,Chaco Austral,3,Chacoan,Animism,Unknown
+791,Catamarca,5,Diaguita,Animism,Unknown
+792,Copiapo,4,Mapuche,Animism,Unknown
+793,Atacama,4,Diaguita,Animism,Unknown
+794,Jujuy,7,Diaguita,Inti,Wool
+795,Potosi,10,Aimara,Inti,Gold
+796,Arica,5,Aimara,Inti,Unknown
+797,Caracara,6,Aimara,Inti,Copper
+798,Nsoyo,5,Mbundu,Fetishist,Grain
+799,Chaco Boreal,3,Chacoan,Animism,Unknown
+800,Chiquitos,3,Maipurean,Animism,Unknown
+801,Caranga,4,Guarani,Animism,Unknown
+802,Chuquiabo,9,Aimara,Inti,Cloth
+803,Moxos,3,Guarani,Animism,Unknown
+804,Puno,6,Aimara,Inti,Gold
+805,Arequipa,5,Aimara,Inti,Grain
+806,Nazca,3,Inca,Inti,Fish
+807,Huamanga,8,Inca,Inti,Grain
+808,Cuzco,14,Inca,Inti,Gold
+809,Lima,6,Inca,Inti,Cloth
+810,Huancavelica,5,Inca,Inti,Gold
+811,Tarma,6,Inca,Inti,Wool
+812,Chanchan,10,Chimuan,Inti,Cocoa
+813,Cajamarca,8,Inca,Inti,Cocoa
+814,Huanuco,5,Inca,Inti,Grain
+815,Maynas,3,Jivaro,Animism,Unknown
+816,Tumbes,5,Chimuan,Inti,Grain
+817,Cuenca,8,Cara,Inti,Wool
+818,Canelos,4,Jivaro,Animism,Unknown
+819,Guayaquil,6,Cara,Inti,Fish
+820,Quito,14,Cara,Inti,Cloth
+821,Quijos,3,Jivaro,Animism,Unknown
+822,Caqueta,3,Jivaro,Animism,Unknown
+823,Cauca,5,Guajiro,Animism,Unknown
+824,Mariquita,5,Guajiro,Animism,Unknown
+825,Bogota,14,Muisca,Inti,Gems
+826,Choco,3,Guajiro,Animism,Unknown
+827,Antioquia,7,Muisca,Animism,Unknown
+828,Cartagena,8,Guajiro,Animism,Unknown
+829,Magdalena,3,Muisca,Animism,Coffee
+830,Maracaibo,4,Guajiro,Animism,Unknown
+831,Caracas,4,Carib,Animism,Unknown
+832,Chiancon,12,Muisca,Inti,Salt
+833,GraaffReinet,5,Nguni,Fetishist,Unknown
+834,Barinas,3,Guajiro,Animism,Unknown
+835,Panama,3,Muisca,Animism,Unknown
+836,Chorotega,3,Muisca,Animism,Unknown
+837,Nicaragua,3,Miskito,Animism,Unknown
+838,Mosquito,3,Miskito,Animism,Coffee
+839,Pipil,3,Highland Mayan,Mayan,Cocoa
+840,Honduras,3,Miskito,Animism,Unknown
+841,Guatemala,7,Highland Mayan,Mayan,Cocoa
+842,Peten,5,Putun,Mayan,Cocoa
+843,Belize,9,Yucatec,Mayan,Sugar
+844,Zapotec,5,Zapotek,Nahuatl,Sugar
+845,Campeche,9,Yucatec,Mayan,Sugar
+846,Yucatan,9,Yucatec,Mayan,Fish
+847,Mixtec,7,Mixtec,Nahuatl,Grain
+848,Tohancapan,5,Totonac,Nahuatl,Spices
+849,Tlapanec,9,Tlapanec,Nahuatl,Gold
+850,Tlaxcala,9,Aztek,Nahuatl,Sugar
+851,Tarasco,7,Tlapanec,Nahuatl,Fish
+852,Mexico,16,Aztek,Nahuatl,Gold
+853,Huastec,7,Aztek,Nahuatl,Cotton
+854,Sayultecas,11,Tepic,Nahuatl,Grain
+855,Huichol,4,Tepic,Nahuatl,Unknown
+856,Zacatecas,3,Chichimecan,Animism,Gold
+857,Guachichil,3,Chichimecan,Animism,Gold
+858,Tamaulipas,3,Wastek,Mayan,Sugar
+859,Sinaloa,3,Piman,Totemism,Unknown
+860,Tepehuan,3,Chichimecan,Animism,Unknown
+861,Coahuila,3,Chichimecan,Animism,Unknown
+862,Yaqui,3,Piman,Totemism,Unknown
+863,Suma,3,Mescalero,Totemism,Unknown
+864,Concho,3,Mescalero,Totemism,Unknown
+865,Cochimi,3,Piman,Animism,Unknown
+866,Guaycura,3,Piman,Animism,Unknown
+867,Mojave,3,Piman,Totemism,Unknown
+868,Chumash,5,Piman,Totemism,Unknown
+869,Salinan,4,Piman,Totemism,Unknown
+870,Yorkuts,3,Yokuts,Totemism,Unknown
+871,Pomo,3,Chinook,Totemism,Unknown
+872,Kalapuya,5,Chinook,Totemism,Unknown
+873,Chinook,5,Chinook,Totemism,Fur
+874,Salish,5,Salish,Totemism,Fur
+875,Canyon,3,Navajo,Totemism,Salt
+876,Yavapai,3,Piman,Totemism,Unknown
+877,Pima,3,Piman,Totemism,Salt
+878,Navajo,4,Navajo,Totemism,Salt
+879,Apache,3,Apache,Totemism,Salt
+880,Pueblo,5,Pueblo,Totemism,Salt
+881,Piro,5,Mescalero,Totemism,Grain
+882,Mescalero,3,Mescalero,Totemism,Wool
+883,Lipan,3,Lipan,Totemism,Grain
+884,Karankawa,3,Caddo,Totemism,Unknown
+885,Comanche,3,Mescalero,Totemism,Unknown
+886,Waco,3,Wichita,Totemism,Grain
+887,Tonkawa,3,Caddo,Totemism,Unknown
+888,Atakapa,3,Caddo,Totemism,Unknown
+889,Arapaho,3,Wichita,Totemism,Unknown
+890,Kiowa,3,Pawnee,Totemism,Unknown
+891,Jicarilla,3,Pawnee,Totemism,Unknown
+892,Wichita,3,Wichita,Totemism,Unknown
+893,Chitimacha,10,Natchez,Totemism,Unknown
+894,Caddo,3,Caddo,Totemism,Cotton
+895,Arkansas,5,Yoron,Totemism,Unknown
+896,Ozark,3,Wichita,Totemism,Unknown
+897,Quapaw,3,Yoron,Totemism,Unknown
+898,Kansas,3,Pawnee,Totemism,Unknown
+899,Osage,3,Yoron,Totemism,Grain
+900,Tamaroa,5,Illini,Totemism,Unknown
+901,Pawnee,4,Pawnee,Totemism,Grain
+902,Missouri,3,Pawnee,Totemism,Unknown
+903,Omaha,3,Pawnee,Totemism,Unknown
+904,Nakota,3,Chiwere,Totemism,Unknown
+905,Iowa,3,Chiwere,Totemism,Unknown
+906,Lakota,3,Dakota,Totemism,Unknown
+907,Dakota,3,Dakota,Totemism,Unknown
+908,Minnesota,3,Dakota,Totemism,Fur
+909,Mandan,3,Arapaho,Totemism,Unknown
+910,Chippewa,3,Anishinabe,Totemism,Unknown
+911,Menominee,4,Anishinabe,Totemism,Unknown
+912,Sauk,3,Chiwere,Totemism,Unknown
+913,Fox,6,Chiwere,Totemism,Fur
+914,Winnebago,6,Chiwere,Totemism,Unknown
+915,Illinois,3,Illini,Totemism,Grain
+916,Kaskaskia,5,Illini,Totemism,Fur
+917,Cahokia,6,Illini,Totemism,Grain
+918,Tennessee,5,Chickasaw,Totemism,Unknown
+919,Chickasaw,5,Chickasaw,Totemism,Grain
+920,Choctaw,5,Choctaw,Totemism,Cotton
+921,Bayougoula,5,Natchez,Totemism,Unknown
+922,Mobile,5,Choctaw,Totemism,Unknown
+923,Pensacola,3,Choctaw,Totemism,Unknown
+924,Alabama,4,Choctaw,Totemism,Unknown
+925,Tuskegee,6,Creek,Totemism,Cotton
+926,Seminole,3,Yamasee,Totemism,Unknown
+927,Timucua,3,Yamasee,Totemism,Unknown
+928,Apalachee,4,Creek,Totemism,Unknown
+929,Muskogee,6,Yamasee,Totemism,Unknown
+930,Yamasee,5,Creek,Totemism,Cotton
+931,Chiaha,5,Creek,Totemism,Fur
+932,Santee,6,Catawba,Totemism,Unknown
+933,Catawba,5,Catawba,Totemism,Tobacco
+934,Shawnee,3,Yuchi,Totemism,Grain
+935,Cherokee,5,Yuchi,Totemism,Naval Supplies
+936,Cheraw,5,Catawba,Totemism,Tobacco
+937,Tuscarora,5,Iroquois,Totemism,Tobacco
+938,Pamlico,5,Powhatan,Totemism,Unknown
+939,Pennyrile,5,Shawnee,Totemism,Unknown
+940,Kentucky,5,Shawnee,Totemism,Unknown
+941,Cumberland,3,Yuchi,Totemism,Fur
+942,Wea,3,Miami,Totemism,Unknown
+943,Miami,3,Miami,Totemism,Fur
+944,Potawatomi,6,Mesquakie,Totemism,Fur
+945,Michigan,4,Anishinabe,Totemism,Fur
+946,Wyandot,3,Miami,Totemism,Unknown
+947,Erie,7,Tionontate,Totemism,Unknown
+948,Ohio,3,Shawnee,Totemism,Unknown
+949,Monacan,3,Yuchi,Totemism,Unknown
+950,Powhatan,10,Powhatan,Totemism,Unknown
+951,Kanawha,3,Shawnee,Totemism,Unknown
+952,Powhatan,5,Powhatan,Totemism,Tobacco
+953,Conoy,6,Powhatan,Totemism,Unknown
+954,Allegheny,5,Tionontate,Totemism,Fur
+955,Susquehanna,6,Susquehannock,Totemism,Unknown
+956,Lenape,5,Delaware,Totemism,Fur
+957,Delaware,10,Delaware,Totemism,Unknown
+958,Seneca,4,Iroquois,Totemism,Fur
+959,Cayuga,5,Iroquois,Totemism,Fur
+960,Onondaga,8,Iroquois,Totemism,Fur
+961,Oneida,5,Iroquois,Totemism,Fur
+962,Unami,5,Delaware,Totemism,Unknown
+963,Mahican,5,Mahican,Totemism,Unknown
+964,Mohawk,6,Iroquois,Totemism,Fur
+965,Manhattan,5,Delaware,Totemism,Unknown
+966,Nipmuc,5,Massachusset,Totemism,Unknown
+967,Narraganset,6,Pequot,Totemism,Unknown
+968,Massachusetts,10,Massachusset,Totemism,Unknown
+969,Pocumtuk,7,Mahican,Totemism,Naval Supplies
+970,Pennacook,5,Massachusset,Totemism,Unknown
+971,Abnaki,5,Abenaki,Totemism,Naval Supplies
+972,Nootka,3,Aleutian,Totemism,Unknown
+973,Squamish,5,Salish,Totemism,Unknown
+974,Kwakiutl,3,Aleutian,Totemism,Unknown
+975,Tsimshian,3,Chinook,Totemism,Unknown
+976,Tlingit,3,Haida,Totemism,Unknown
+977,Yakutat,3,Aleutian,Totemism,Unknown
+978,Alaska,3,Aleutian,Totemism,Unknown
+979,Aleut,3,Aleutian,Totemism,Unknown
+980,Beothuk,4,Innu,Totemism,Unknown
+981,Taqamkuk,4,Innu,Totemism,Unknown
+982,Unamakik,3,Mikmaq,Totemism,Unknown
+983,Epekwitk,3,Mikmaq,Totemism,Unknown
+984,Acadia,5,Mikmaq,Totemism,Unknown
+985,Micmac,5,Mikmaq,Totemism,Unknown
+986,Kespek,3,Mikmaq,Totemism,Unknown
+987,Niagara,6,Tionontate,Totemism,Fur
+988,Huron,8,Huron,Totemism,Fur
+989,Ontario,6,Huron,Totemism,Grain
+990,Kwedech,6,Laurentian,Totemism,Unknown
+991,Ottawa,5,Algonquin,Totemism,Unknown
+992,Algonquin,6,Algonquin,Totemism,Fur
+993,Hochelega,5,Laurentian,Totemism,Fur
+994,Stadacona,10,Laurentian,Totemism,Fish
+995,Atiamekw,5,Innu,Totemism,Unknown
+996,Innu,3,Innu,Totemism,Unknown
+997,Labrador,3,Innu,Totemism,Unknown
+998,Ungava,4,Inuit,Totemism,Unknown
+999,Nunavik,4,Cree,Totemism,Unknown
+1000,Cree,4,Cree,Totemism,Unknown
+1001,Sault,5,Anishinabe,Totemism,Unknown
+1002,Abitbi,3,Algonquin,Totemism,Unknown
+1003,Moose Cree,4,Cree,Totemism,Unknown
+1004,Attawapiskat,4,Cree,Totemism,Unknown
+1005,Swampy Cree,4,Cree,Totemism,Unknown
+1006,Chipewyan,4,Inuit,Totemism,Unknown
+1007,Ojibwa,3,Anishinabe,Totemism,Unknown
+1008,Winnipeg,3,Bungi,Totemism,Unknown
+1009,Atikaki,3,Bungi,Totemism,Unknown
+1010,Manitoba,3,Chipewyan,Totemism,Unknown
+1011,Woods Cree,3,Plains Cree,Totemism,Unknown
+1012,Satsuma,9,Kyushuan,Shinto,Iron
+1013,Cheongju,8,Korean,Confucianism,Grain
+1014,Bungo,9,Kyushuan,Shinto,Tropical Wood
+1015,Okinawa,5,Kyushuan,Animism,Chinaware
+1016,Ha Tinh,11,Vietnamese,Mahayana,Fish
+1017,Suo,9,Japanese,Shinto,Silk
+1018,Izumo,8,Japanese,Shinto,Iron
+1019,Harima,8,Japanese,Shinto,Grain
+1020,Yamashiro,13,Japanese,Shinto,Silk
+1021,Settsu,15,Japanese,Shinto,Chinaware
+1022,Indrapura,10,Cham,Hinduism,Incense
+1023,Echizen,9,Japanese,Shinto,Paper
+1024,Echigo,11,Togoku,Shinto,Grain
+1025,Dewa,7,Togoku,Shinto,Grain
+1026,Rikuzen,9,Togoku,Shinto,Grain
+1027,Hitachi,6,Togoku,Shinto,Fish
+1028,Musashi,15,Togoku,Shinto,Fish
+1029,Kai,9,Togoku,Shinto,Livestock
+1030,Owari,10,Togoku,Shinto,Dyes
+1031,Kamikawa,3,Ainu,Animism,Fish
+1032,Kurils,3,Ainu,Animism,Fish
+1033,Sakhalin,3,Ainu,Animism,Fish
+1034,Kamchatka,3,Kamchatkan,Tengri,Fish
+1035,Penchisky,3,Kamchatkan,Tengri,Fish
+1036,Podzhiversk,3,Yukagyr,Tengri,Unknown
+1037,Nizhe-Kolymsk,3,Yukagyr,Tengri,Unknown
+1038,Anadyrsk,3,Yukagyr,Tengri,Fur
+1039,Verkhoyansk,3,Yukagyr,Tengri,Unknown
+1040,Suntar Khayat,3,Yukagyr,Tengri,Unknown
+1041,Gizhiga,3,Kamchatkan,Tengri,Unknown
+1042,Kamnuskoye,3,Yakut,Tengri,Unknown
+1043,Okhotsk,3,Yakut,Tengri,Unknown
+1044,Tauisk,3,Kamchatkan,Tengri,Unknown
+1045,Yakutsk,3,Yakut,Tengri,Unknown
+1046,Butalsk,3,Yakut,Tengri,Unknown
+1047,Jugjur,3,Yakut,Tengri,Unknown
+1048,Udskoye,6,Nivkh,Tengri,Fur
+1049,Hailanboo,6,Evenk,Tengri,Fur
+1050,Deren,11,Nivkh,Tengri,Fur
+1051,Uchurskoye,3,Yakut,Tengri,Unknown
+1052,Verkohzehkoye,4,Yakut,Tengri,Unknown
+1053,Hinggan,7,Evenk,Tengri,Fur
+1054,Ilimsk,3,Tungus,Tengri,Unknown
+1055,Verkne-Angarsky,6,Buryat,Tengri,Unknown
+1056,Barguzinsky,9,Buryat,Tengri,Unknown
+1057,Udinsky,8,Buryat,Tengri,Unknown
+1058,Nerchinsky,3,Buryat,Tengri,Fur
+1059,Bratsk,3,Tungus,Tengri,Unknown
+1060,Irkutsk,3,Buryat,Tengri,Unknown
+1061,Yeniseysk,3,Tungus,Tengri,Unknown
+1062,Kachinsk,3,Buryat,Tengri,Unknown
+1063,Sayan,3,Buryat,Tengri,Unknown
+1064,Tomsk,3,Ostyaki,Tengri,Unknown
+1065,Kuznetsk,3,Kirgiz,Tengri,Unknown
+1066,Altai,3,Buryat,Tengri,Fur
+1067,Narym,3,Samoyed,Tengri,Unknown
+1068,Pegaya Orda,3,Ostyaki,Tengri,Unknown
+1069,Surgut,3,Samoyed,Tengri,Unknown
+1070,Koda,3,Samoyed,Tengri,Unknown
+1071,Tara,6,Siberian,Sunni,Fur
+1072,Obdorsk,3,Samoyed,Tengri,Unknown
+1073,Berezov,3,Samoyed,Tengri,Unknown
+1074,Sibir,6,Ostyaki,Sunni,Fur
+1075,Tyumen,12,Siberian,Sunni,Fur
+1076,Kurgan,9,Siberian,Sunni,Fur
+1077,Solikamsk,9,Uralic,Tengri,Salt
+1078,Middle Urals,3,Uralic,Tengri,Unknown
+1079,Viatka,10,Russian,Orthodox,Copper
+1080,North Urals,3,Uralic,Tengri,Unknown
+1081,Simbirsk,3,Kazani,Sunni,Iron
+1082,Kazan,15,Kazani,Sunni,Grain
+1083,Zavolochye,8,Russian,Orthodox,Grain
+1084,Wadjuk,9,Nyoongah,Dreamtime,Livestock
+1085,Paredarerme,6,Palawa,Dreamtime,Fish
+1086,Kaurna,7,Yura,Dreamtime,Fish
+1087,Wurundjeri,11,Kulin,Dreamtime,Livestock
+1088,Wergaia,3,Kulin,Dreamtime,Unknown
+1089,Wiradjuri,8,Gamilaraay,Dreamtime,Unknown
+1090,Eora,11,Aboriginal,Dreamtime,Fish
+1091,Kamilaroi,3,Gamilaraay,Dreamtime,Unknown
+1092,Bundjalung,8,Aboriginal,Dreamtime,Unknown
+1093,Barunggam,3,Gamilaraay,Dreamtime,Unknown
+1094,Turrbal,5,Gamilaraay,Dreamtime,Naval Supplies
+1095,Falklands,3,Cosmopolitan French,Catholic,Unknown
+1096,Cape Verde,3,Portugese,Catholic,Unknown
+1097,Fernando Po,5,Yorumba,Fetishist,Unknown
+1098,St. Helena,3,No Culture,No Religion,Unknown
+1099,Socotra,4,Mahri Culture,Coptic,Fish
+1100,Mahe,5,Cosmopolitan French,Catholic,Unknown
+1101,Diego Garcia,3,Cosmopolitan French,Catholic,Unknown
+1102,Mauritius,11,No Culture,No Religion,Unknown
+1103,Bourbon,11,Cosmopolitan French,Catholic,Unknown
+1104,Eiriksfjord,3,Inuit,Totemism,Unknown
+1105,Vestbygden,3,Inuit,Totemism,Unknown
+1106,Te Tai Tokerau,10,Maori,Animism,Tropical Wood
+1107,Taranaki,10,Maori,Animism,Salt
+1108,Te Moana a Toi,10,Maori,Animism,Fish
+1109,Timaru,3,Maori,Animism,Naval Supplies
+1110,Rio de Oro,8,Berber,Sunni,Sugar
+1111,Arguin,3,Berber,Sunni,Unknown
+1112,Trarza,3,Senegambian,Sunni,Salt
+1113,Cayor,8,Senegambian,Fetishist,Slaves
+1114,Gabu,8,Senegambian,Fetishist,Ivory
+1115,Brakna,3,Fulani,Fetishist,Unknown
+1116,Wolof,8,Senegambian,Fetishist,Slaves
+1117,Futa Jallon,9,Fulani,Fetishist,Ivory
+1118,Sierra Leone,3,Dyola,Fetishist,Unknown
+1119,Grain Coast,3,Dyola,Fetishist,Unknown
+1120,Bambuk,14,Soninke,Fetishist,Gold
+1121,Bure,14,Mali,Fetishist,Gold
+1122,Bagoe,3,Dyola,Fetishist,Dyes
+1123,Segu,12,Bambara,Fetishist,Grain
+1124,Wasuju,16,Mali,Sunni,Grain
+1125,Kong,6,Dyola,Fetishist,Ivory
+1126,Ivory Coast,3,Aka,Fetishist,Unknown
+1127,Tuat,3,Tuareg,Sunni,Unknown
+1128,Taodeni,3,Tuareg,Sunni,Salt
+1129,Azawadd,3,Tuareg,Sunni,Salt
+1130,Tadmekka,3,Tuareg,Sunni,Wool
+1131,Massina,9,Bambara,Fetishist,Grain
+1132,Timbuktu,18,Tuareg,Sunni,Cloth
+1133,Gao,16,Songhai,Sunni,Cloth
+1134,Jenne,17,Bozo,Fetishist,Cloth
+1135,Yatenga,8,Mossi,Fetishist,Livestock
+1136,Gurma,3,Mossi,Fetishist,Ivory
+1137,Wagadugi,9,Mossi,Fetishist,Grain
+1138,Kumasi,9,Aka,Fetishist,Gold
+1139,Gold Coast,5,Aka,Fetishist,Unknown
+1140,Abomey,3,Fon,Fetishist,Slaves
+1141,Whydah,3,Fon,Fetishist,Unknown
+1142,Dendi,7,Songhai,Sunni,Grain
+1143,Borgu,3,Dagomba,Fetishist,Grain
+1144,Oyo,7,Yorumba,Fetishist,Grain
+1145,Nupe,6,Nupe,Fetishist,Coffee
+1146,Ife,8,Yorumba,Fetishist,Glass
+1147,Benin,11,Yorumba,Fetishist,Ivory
+1148,Gobir,9,Hausa,Sunni,Iron
+1149,Katsina,15,Hausa,Sunni,Cloth
+1150,Zamfara,7,Hausa,Fetishist,Grain
+1151,Bonny,4,Sawabantu,Fetishist,Slaves
+1152,Idah,3,Nupe,Fetishist,Ivory
+1153,Pindinga,3,Nupe,Fetishist,Livestock
+1154,Zazzau,9,Hausa,Fetishist,Slaves
+1155,Kano,15,Hausa,Sunni,Dyes
+1156,Damagaram,3,Tuareg,Sunni,Livestock
+1157,Borno,9,Kanuri,Sunni,Grain
+1158,Kanem,8,Kanuri,Sunni,Paper
+1159,Bagirmi,7,Bilala,Fetishist,Ivory
+1160,Mandara,3,Kanuri,Fetishist,Tropical Wood
+1161,Bauchi,3,Jukun,Fetishist,Unknown
+1162,Wukari,3,Jukun,Fetishist,Unknown
+1163,Calabar,3,Sawabantu,Fetishist,Slaves
+1164,Cameroon,3,Sawabantu,Fetishist,Unknown
+1165,Gabon,5,Kongolese,Fetishist,Unknown
+1166,Loango,9,Kongolese,Fetishist,Gems
+1167,Luanda,5,Mbundu,Fetishist,Unknown
+1168,Kisarna,5,Kongolese,Fetishist,Slaves
+1169,Mayombe,6,Kongolese,Fetishist,Copper
+1170,Kongo,15,Kongolese,Fetishist,Iron
+1171,Ndongo,7,Mbundu,Fetishist,Slaves
+1172,Benguela,10,Mbundu,Fetishist,Unknown
+1173,Damaraland,0,a,a,a
+1174,Walvis Bay,3,Khoisan,Fetishist,Unknown
+1175,Lesser Namaqualand,3,Khoisan,Fetishist,Unknown
+1176,Roggeveld,3,Khoisan,Fetishist,Unknown
+1177,Cape,15,Khoisan,Fetishist,Unknown
+1178,Great Karoo,7,Khoisan,Fetishist,Unknown
+1179,Little Karoo,6,Khoisan,Fetishist,Unknown
+1180,Transkei,3,Nguni,Fetishist,Unknown
+1181,Natal,5,Nguni,Fetishist,Unknown
+1182,Delagoa Bay,9,Nguni,Fetishist,Unknown
+1183,Inhambane,9,Nguni,Fetishist,Unknown
+1184,Zimbabwe,14,Shona,Fetishist,Gold
+1185,Buha,7,Shona,Fetishist,Gold
+1186,Sofala,9,Nguni,Sunni,Gold
+1187,Sena,6,Shona,Fetishist,Ivory
+1188,Masapa,5,Shona,Fetishist,Gold
+1189,Shangwe,5,Shona,Fetishist,Livestock
+1190,Zumbo,5,Shona,Fetishist,Ivory
+1191,Tete,5,Shona,Fetishist,Ivory
+1192,Quelimane,7,Nyasa,Sunni,Ivory
+1193,Menabe,9,Madagasque,Fetishist,Slaves
+1194,Boina,5,Madagasque,Fetishist,Fish
+1195,Mozambique,6,Swahili,Sunni,Ivory
+1196,Kilwa,10,Swahili,Sunni,Gold
+1197,Mzizima,3,Swahili,Fetishist,Gems
+1198,Lindi,5,Swahili,Sunni,Fish
+1199,Bagamoyo,3,Swahili,Fetishist,Ivory
+1200,Tanga,6,Swahili,Fetishist,Ivory
+1201,Zanzibar,5,Swahili,Ibadi,Slaves
+1202,Mombasa,12,Swahili,Sunni,Ivory
+1203,Malindi,10,Swahili,Sunni,Iron
+1204,Lamu,7,Swahili,Sunni,Ivory
+1205,Mogadishu,10,Somali,Sunni,Ivory
+1206,Qardho,3,Somali,Sunni,Incense
+1207,Ogaden,3,Somali,Sunni,Incense
+1208,Degehabur,3,Somali,Sunni,Livestock
+1209,Berbera,10,Somali,Sunni,Slaves
+1210,Dawaro,3,Harari,Sunni,Grain
+1211,Harer,16,Harari,Sunni,Coffee
+1212,Zeila,13,Somali,Sunni,Incense
+1213,Shoa,9,Amhara,Sunni,Grain
+1214,Awsa,6,Amhara,Coptic,Grain
+1215,Tajura,6,Afar,Sunni,Livestock
+1216,Dar Nuba,3,Nubian,Fetishist,Unknown
+1217,Fazughli,4,Nubian,Fetishist,Unknown
+1218,Kefa,6,Sidamo,Fetishist,Coffee
+1219,Kordofan,3,Tunjur,Fetishist,Unknown
+1220,Dar Jaal,4,Nubian,Sunni,Livestock
+1221,Taqali,3,Nubian,Fetishist,Unknown
+1222,Gezira,4,Nubian,Coptic,Grain
+1223,Gojjam,6,Amhara,Coptic,Coffee
+1224,Gonder,10,Amhara,Coptic,Grain
+1225,Butana,3,Nubian,Sunni,Ivory
+1226,Taka,4,Beja,Sunni,Livestock
+1227,Tigre,7,Tigray,Coptic,Grain
+1228,Dongola,5,Nubian,Shiite,Grain
+1229,Berber,4,Beja,Sunni,Unknown
+1230,Massawa,5,Tigray,Coptic,Gems
+1231,Aswan,5,Al Misr Arabic,Sunni,Livestock
+1232,Suakin,3,Beja,Sunni,Slaves
+1233,Kharga,3,Al Misr Arabic,Sunni,Livestock
+1234,Qasr Ibrim,6,Nubian,Sunni,Livestock
+1235,Guam,3,Polynesian,Animism,Unknown
+1236,Rabaul,3,Papuan,Animism,Unknown
+1237,Hanuabada,3,Papuan,Animism,Unknown
+1238,Solomon Islands,3,Melanesian,Animism,Unknown
+1239,Vanuatu,3,Melanesian,Animism,Unknown
+1240,Hawaii,7,Polynesian,Animism,Livestock
+1241,Kiribati,3,Polynesian,Animism,Unknown
+1242,Fiji,7,Melanesian,Animism,Livestock
+1243,Samoa,8,Polynesian,Animism,Cloth
+1244,Tahiti,7,Polynesian,Animism,Unknown
+1245,Manokwari,3,Papuan,Animism,Unknown
+1246,Ata Whenua,3,Maori,Animism,Gems
+1247,Corsica,8,Sardinian,Catholic,Naval Supplies
+1248,Maldives,5,Malayalam,Sunni,Gems
+1249,Yola,3,Jukun,Fetishist,Unknown
+1250,Vanern,0,a,a,a
+1251,Vattern,0,a,a,a
+1252,Gulf of Bothnia,0,a,a,a
+1253,Alands Hav,0,a,a,a
+1254,Gulf of Finland,0,a,a,a
+1255,Western Baltic Sea,0,a,a,a
+1256,Gulf of Riga,0,a,a,a
+1257,Southern Baltic Sea,0,a,a,a
+1258,Oresund,0,a,a,a
+1259,Kattegat,0,a,a,a
+1260,Peipsi Jarv,0,a,a,a
+1261,Ladoga,0,a,a,a
+1262,Onega,0,a,a,a
+1263,White Sea,0,a,a,a
+1264,Lofoten Sea,0,a,a,a
+1265,Northern Norwegian Sea,0,a,a,a
+1266,Southern Norwegian Sea,0,a,a,a
+1267,Skagerrack,0,a,a,a
+1268,Helgoland Bight,0,a,a,a
+1269,Coast of Holland,0,a,a,a
+1270,Dogger Bank,0,a,a,a
+1271,Straits of Dover,0,a,a,a
+1272,The Channel,0,a,a,a
+1273,Taveta,3,Bantu,Fetishist,Unknown
+1274,Coast of Britanny,0,a,a,a
+1275,Quiberon Bay,0,a,a,a
+1276,Cote D'Argent,0,a,a,a
+1277,Bay of Biscay,0,a,a,a
+1278,Cantabrian Sea,0,a,a,a
+1279,Tyne,0,a,a,a
+1280,Firth of Forth,0,a,a,a
+1281,The North Sea,0,a,a,a
+1282,Moray Firth,0,a,a,a
+1283,North Channel,0,a,a,a
+1284,Irish Sea,0,a,a,a
+1285,St. George's Channel,0,a,a,a
+1286,Donegal Bay,0,a,a,a
+1287,Dingle Bay,0,a,a,a
+1288,Celtic Sea,0,a,a,a
+1289,Western Approaches,0,a,a,a
+1290,Finisterre Bay,0,a,a,a
+1291,Lusitanian Sea,0,a,a,a
+1292,Gulf of Cadiz,0,a,a,a
+1293,Straits of Gibraltar,0,a,a,a
+1294,Gulf of Almeira,0,a,a,a
+1295,Gulf of Valencia,0,a,a,a
+1296,Gulf of Lion,0,a,a,a
+1297,Cote D'Azur,0,a,a,a
+1298,Ligurian Sea,0,a,a,a
+1299,Coast of the Faroes,0,a,a,a
+1300,Western Mediterranean,0,a,a,a
+1301,Barbary Coast,0,a,a,a
+1302,Cape Bon,0,a,a,a
+1303,Tyrrenean Sea,0,a,a,a
+1304,Bay of Naples,0,a,a,a
+1305,Gulf of Gabes,0,a,a,a
+1306,Sao Tomel,3,Yorumba,Fetishist,Unknown
+1307,Straits of Messina,0,a,a,a
+1308,Gulf of Venice,0,a,a,a
+1309,Adriatic Sea,0,a,a,a
+1310,Straits of Otranto,0,a,a,a
+1311,Gulf of Taranto,0,a,a,a
+1312,Ionian Sea,0,a,a,a
+1313,Gulf of Sirte,0,a,a,a
+1314,Gulf of Tobruk,0,a,a,a
+1315,Bay of Alexandrian,0,a,a,a
+1316,Palestinian Coast,0,a,a,a
+1317,Gulf of Cyprus,0,a,a,a
+1318,Spis,9,Slovak,Catholic,Copper
+1319,Aegean Sea,0,a,a,a
+1320,Sea of Marmara,0,a,a,a
+1321,Gulf of Varna,0,a,a,a
+1322,Gulf of Odessa,0,a,a,a
+1323,Sea of Azov,0,a,a,a
+1324,Eastern Black Sea,0,a,a,a
+1325,Lake Balaton,0,a,a,a
+1326,Caspian Sea,0,a,a,a
+1327,Aral Sea,0,a,a,a
+1328,Gulf of Suez,0,a,a,a
+1329,Red Sea,0,a,a,a
+1330,Straits of Obokk,0,a,a,a
+1331,Bal el Mandeb,0,a,a,a
+1332,Coast of Mascate,0,a,a,a
+1333,Mascate Coast,0,a,a,a
+1334,Straits of Hormuz,0,a,a,a
+1335,Persian Gulf,0,a,a,a
+1336,Gulf of Indus,0,a,a,a
+1337,Gulf of Gujarat,0,a,a,a
+1338,Laquedive Islands,0,a,a,a
+1339,Coast of Malabar,0,a,a,a
+1340,Comorin Cape,0,a,a,a
+1341,Coast of Caramandel,0,a,a,a
+1342,Coast of Orissa,0,a,a,a
+1343,Ganges Delta,0,a,a,a
+1344,Akyab Bay,0,a,a,a
+1345,Irrawady Delta,0,a,a,a
+1346,Andaman Sea,0,a,a,a
+1347,Mergui Archipelago,0,a,a,a
+1348,Straits of Malacca,0,a,a,a
+1349,Nicobar Isles,0,a,a,a
+1350,Coast of Atjeh,0,a,a,a
+1351,Coast of Sumatra,0,a,a,a
+1352,Christmas Island,0,a,a,a
+1353,Coast of Java,0,a,a,a
+1354,Coast of Surabaya,0,a,a,a
+1355,Straits of Lombok,0,a,a,a
+1356,Timor Sea,0,a,a,a
+1357,The Moluccas,0,a,a,a
+1358,Java Sea,0,a,a,a
+1359,Straits of Makassar,0,a,a,a
+1360,Karimata Strait,0,a,a,a
+1361,Straits of Johore,0,a,a,a
+1362,Malayan Sea,0,a,a,a
+1363,Coast of Sarawk,0,a,a,a
+1364,Mekong Delta,0,a,a,a
+1365,Gulf of Siam,0,a,a,a
+1366,Cam Rah Bay,0,a,a,a
+1367,South China Sea,0,a,a,a
+1368,Coast of Brunei,0,a,a,a
+1369,Coast of Annam,0,a,a,a
+1370,Gulf of Tonkin,0,a,a,a
+1371,Guanghou Bay,0,a,a,a
+1372,Taiwan Strait,0,a,a,a
+1373,Yang Tse Delta,0,a,a,a
+1374,Yellow Sea,0,a,a,a
+1375,Korea Bay,0,a,a,a
+1376,South Korean Sea,0,a,a,a
+1377,North Korean Sea,0,a,a,a
+1378,Coast of Olga,0,a,a,a
+1379,Tatar Straits,0,a,a,a
+1380,Amur Delta,0,a,a,a
+1381,Baj of Ayan,0,a,a,a
+1382,Bay of Komenskoie,0,a,a,a
+1383,Coast of Kamchatska,0,a,a,a
+1384,Oktothsk Sea,0,a,a,a
+1385,Coast Sahkalin,0,a,a,a
+1386,Soya Strait,0,a,a,a
+1387,Tsugaru Strait,0,a,a,a
+1388,Sea of Japan,0,a,a,a
+1389,Amakusa Sea,0,a,a,a
+1390,Setto Inland Sea,0,a,a,a
+1391,Tokai Sea,0,a,a,a
+1392,Ryukyu Islands,0,a,a,a
+1393,Luzon Strait,0,a,a,a
+1394,Paracel Islands,0,a,a,a
+1395,Manila Bay,0,a,a,a
+1396,Coast of Luzon,0,a,a,a
+1397,Gulf of Leyte,0,a,a,a
+1398,Sulu Sea,0,a,a,a
+1399,Sea of Celebes,0,a,a,a
+1400,Sea of Ternete,0,a,a,a
+1401,Sea of Banda,0,a,a,a
+1402,Philipine Sea,0,a,a,a
+1403,Palau Islands,0,a,a,a
+1404,Biak Bay,0,a,a,a
+1405,Vilian Strait,0,a,a,a
+1406,Trobrian Islands,0,a,a,a
+1407,Torres Strait,0,a,a,a
+1408,Arafuam Sea,0,a,a,a
+1409,Kolepom Bay,0,a,a,a
+1410,Gulf of Carpentaria,0,a,a,a
+1411,Great Barrier Reef,0,a,a,a
+1412,Capricorn Bay,0,a,a,a
+1413,Cape Howe,0,a,a,a
+1414,Bass Strait,0,a,a,a
+1415,Kangaroo Island,0,a,a,a
+1416,Great Australian Bight,0,a,a,a
+1417,Cape Leuwiin,0,a,a,a
+1418,Shark Bay,0,a,a,a
+1419,Northwest Cape,0,a,a,a
+1420,King Sound,0,a,a,a
+1421,Tasman Sea,0,a,a,a
+1422,Southern Tasman Sea,0,a,a,a
+1423,Cook Strait,0,a,a,a
+1424,Northern Tasman Sea,0,a,a,a
+1425,Cape Farwell,0,a,a,a
+1426,Coast of New Zealand,0,a,a,a
+1427,Cantebury Bight,0,a,a,a
+1428,Sea of Antarctica,0,a,a,a
+1429,New Caledonian Sea,0,a,a,a
+1430,Coral Sea,0,a,a,a
+1431,Gilbert Sea,0,a,a,a
+1432,Solomon Sea,0,a,a,a
+1433,Nauru Island,0,a,a,a
+1434,Melanesia Sea,0,a,a,a
+1435,Micronesia Sea,0,a,a,a
+1436,Yap Islands,0,a,a,a
+1437,Mariana Islands,0,a,a,a
+1438,Tinian Sea,0,a,a,a
+1439,Iwo Jima Sea,0,a,a,a
+1440,Taihei Ocean,0,a,a,a
+1441,The Kuriles,0,a,a,a
+1442,Bay of Uka,0,a,a,a
+1443,Bay of Oljut,0,a,a,a
+1444,Bay of Anadyr,0,a,a,a
+1445,Bering Sea,0,a,a,a
+1446,Horn of Africa,0,a,a,a
+1447,Coast of Pepper,0,a,a,a
+1448,Zanzibar Strait,0,a,a,a
+1449,Mozambique Channel,0,a,a,a
+1450,Diego Suarez Bay,0,a,a,a
+1451,Western Arabian Sea,0,a,a,a
+1452,Eastern Arabian Sea,0,a,a,a
+1453,The Seychelles,0,a,a,a
+1454,Coast of Tamatave,0,a,a,a
+1455,The Mascareignes,0,a,a,a
+1456,Gulf of Zambeze,0,a,a,a
+1457,Coast of Natal,0,a,a,a
+1458,Coast of Transkei,0,a,a,a
+1459,Coast of Ciskei,0,a,a,a
+1460,Cape of Good Hope,0,a,a,a
+1461,Coast of Namibia,0,a,a,a
+1462,Coast of Angola,0,a,a,a
+1463,Gulf of Kongo,0,a,a,a
+1464,Coast of Cameroon,0,a,a,a
+1465,Gulf of Nigeria,0,a,a,a
+1466,Ivory Coast,0,a,a,a
+1467,Gold Coast,0,a,a,a
+1468,Coast of Gamvia,0,a,a,a
+1469,Coast of Guinea,0,a,a,a
+1470,Maueretanian Coast,0,a,a,a
+1471,Canarian Sea,0,a,a,a
+1472,Coast of Morocco,0,a,a,a
+1473,Jan Mayen Sea,0,a,a,a
+1474,Spitzberg Sea,0,a,a,a
+1475,Icelandic Sea,0,a,a,a
+1476,Shetland Straits,0,a,a,a
+1477,Coast of Iceland,0,a,a,a
+1478,Northeastern Atlantic,0,a,a,a
+1479,Rockall,0,a,a,a
+1480,Denmark Strait,0,a,a,a
+1481,Eastern Coast of Greenland,0,a,a,a
+1482,Western Coast of Greenland,0,a,a,a
+1483,Labrador Strait,0,a,a,a
+1484,Baffin Bay,0,a,a,a
+1485,Hudson Straits,0,a,a,a
+1486,James Bay,0,a,a,a
+1487,Western Hudson Bay,0,a,a,a
+1488,Eastern Hudson Bay,0,a,a,a
+1489,Foxe Bassin,0,a,a,a
+1490,Gulf of St. Lawrence,0,a,a,a
+1491,Cabot Strait,0,a,a,a
+1492,Bay of Fundy,0,a,a,a
+1493,Strait of Belle Isle,0,a,a,a
+1494,Fortune Bay,0,a,a,a
+1495,Notre Dame Bay,0,a,a,a
+1496,Labrador Sea,0,a,a,a
+1497,Greenland Sea,0,a,a,a
+1498,Northern Atlantic,0,a,a,a
+1499,Masschusetts Bay,0,a,a,a
+1500,Chesapaeake Bay,0,a,a,a
+1501,Cape Hatteras,0,a,a,a
+1502,Coast of Carolina,0,a,a,a
+1503,Coast of Florida,0,a,a,a
+1504,Sea of Sargassos,0,a,a,a
+1505,Florida Straits,0,a,a,a
+1506,Apalachee Bay,0,a,a,a
+1507,Mobile Bay,0,a,a,a
+1508,Galveston Bay,0,a,a,a
+1509,Tampico Bay,0,a,a,a
+1510,Yucatan Sea,0,a,a,a
+1511,Gulf of Mexico,0,a,a,a
+1512,Yucatan Channel,0,a,a,a
+1513,Belize Bay,0,a,a,a
+1514,Moscitos Coast,0,a,a,a
+1515,Gulf of Darien,0,a,a,a
+1516,Jamica Channel,0,a,a,a
+1517,Central Carribean,0,a,a,a
+1518,Northwestern Carribean,0,a,a,a
+1519,Venezualan Gulf,0,a,a,a
+1520,Venezuelan Sea,0,a,a,a
+1521,Eastern Carribean,0,a,a,a
+1522,Windward Islands,0,a,a,a
+1523,Lesser Antilles,0,a,a,a
+1524,Turks & Caicos Sea,0,a,a,a
+1525,Coast of Cuba,0,a,a,a
+1526,Coast of Hispaniola,0,a,a,a
+1527,Guyana Coast,0,a,a,a
+1528,Bay of Belem,0,a,a,a
+1529,Amazonas Gulf,0,a,a,a
+1530,Coast of Brazil,0,a,a,a
+1531,Coast of Recife,0,a,a,a
+1532,Coast of Pernambuc,0,a,a,a
+1533,Todos Santos Bay,0,a,a,a
+1534,Rio De Janeiro,0,a,a,a
+1535,Baia Parangua,0,a,a,a
+1536,Rio De La Plata,0,a,a,a
+1537,Bahia Blanca,0,a,a,a
+1538,Coast of Patagonia,0,a,a,a
+1539,Magellan Strait,0,a,a,a
+1540,South Chilean Coast,0,a,a,a
+1541,Coast of Chile,0,a,a,a
+1542,Atacama Coast,0,a,a,a
+1543,Arica Gulf,0,a,a,a
+1544,Arequipa Bay,0,a,a,a
+1545,Coast of Peru,0,a,a,a
+1546,Guayaguil Bay,0,a,a,a
+1547,Coast of Ecuador,0,a,a,a
+1548,Gulf of Panama,0,a,a,a
+1549,Bay of Costa Rica,0,a,a,a
+1550,Acapulco Bay,0,a,a,a
+1551,Manzazilla Bay,0,a,a,a
+1552,Mazatlan Bay,0,a,a,a
+1553,Gulf of California,0,a,a,a
+1554,Coast of Baja,0,a,a,a
+1555,Coast of California,0,a,a,a
+1556,Santa Catalina Islands,0,a,a,a
+1557,Coast of Oregon,0,a,a,a
+1558,Coast of Columbia,0,a,a,a
+1559,Hecate Strait,0,a,a,a
+1560,Gulf of Alaska,0,a,a,a
+1561,Coast of Alaska,0,a,a,a
+1562,Kuskowim Bay,0,a,a,a
+1563,Hatton Bank,0,a,a,a
+1564,Eastern Gibbs Fracture,0,a,a,a
+1565,Western Gibbs Fracture,0,a,a,a
+1566,Iberian Shelf,0,a,a,a
+1567,Sea of Azores,0,a,a,a
+1568,Corner Seamounts,0,a,a,a
+1569,New England Seamounts,0,a,a,a
+1570,Sable Island Bank,0,a,a,a
+1571,Blake Plataeu,0,a,a,a
+1572,West Bermuda Sea,0,a,a,a
+1573,East Bermuda Sea,0,a,a,a
+1574,Some Funny Seaname,0,a,a,a
+1575,Northern Guiana Basin,0,a,a,a
+1576,Guiana Basin,0,a,a,a
+1577,Southern Guiana Basin,0,a,a,a
+1578,Canary Approach,0,a,a,a
+1579,Cap Verde Approach,0,a,a,a
+1580,Central Atlantic 1,0,a,a,a
+1581,Central Atlantic 2,0,a,a,a
+1582,Central Atlantic 3,0,a,a,a
+1583,Central Atlantic 4,0,a,a,a
+1584,Romanche Gap,0,a,a,a
+1585,East Guinea Basin,0,a,a,a
+1586,West Guinea Basin,0,a,a,a
+1587,Coast of Falklands,0,a,a,a
+1588,New Georgia Islands,0,a,a,a
+1589,Western Atlantic 1,0,a,a,a
+1590,Western Atlantic 2,0,a,a,a
+1591,Western Atlantic 3,0,a,a,a
+1592,Western Atlantic 4,0,a,a,a
+1593,Western Atlantic 5,0,a,a,a
+1594,Western Atlantic 6,0,a,a,a
+1595,East of Magellans,0,a,a,a
+1596,Central Atlantic 5,0,a,a,a
+1597,Central Atlantic 6,0,a,a,a
+1598,Central Atlantic 7,0,a,a,a
+1599,Central Atlantic 8,0,a,a,a
+1600,Eastern Atlantic 1,0,a,a,a
+1601,Eastern Atlantic 2,0,a,a,a
+1602,Eastern Atlantic 3,0,a,a,a
+1603,Eastern Atlantic 4,0,a,a,a
+1604,Eastern Atlantic 5,0,a,a,a
+1605,Eastern Atlantic 6,0,a,a,a
+1606,Southern Atlantic 1,0,a,a,a
+1607,Southern Atlantic 2,0,a,a,a
+1608,Southern Atlantic 3,0,a,a,a
+1609,Southern Atlantic 4,0,a,a,a
+1610,Cape of Storms,0,a,a,a
+1611,Gulf of Bengal,0,a,a,a
+1612,Northen Bay of Bengal,0,a,a,a
+1613,Southern Bay of Bengal,0,a,a,a
+1614,Ceylon Sea,0,a,a,a
+1615,Coast of Maldives,0,a,a,a
+1616,Indian Ocean 1,0,a,a,a
+1617,Indian Ocean 2,0,a,a,a
+1618,Indian Ocean 3,0,a,a,a
+1619,Indian Ocean 4,0,a,a,a
+1620,Indian Ocean 5,0,a,a,a
+1621,Indian Ocean 6,0,a,a,a
+1622,Indian Ocean 7,0,a,a,a
+1623,Indian Ocean 8,0,a,a,a
+1624,Indian Ocean 9,0,a,a,a
+1625,Indian Ocean 10,0,a,a,a
+1626,Indian Ocean 11,0,a,a,a
+1627,Indian Ocean 12,0,a,a,a
+1628,Indian Ocean 13,0,a,a,a
+1629,Indian Ocean 14,0,a,a,a
+1630,Indian Ocean 15,0,a,a,a
+1631,Indian Ocean 16,0,a,a,a
+1632,Indian Ocean 17,0,a,a,a
+1633,Indian Ocean 18,0,a,a,a
+1634,Indian Ocean 19,0,a,a,a
+1635,Indian Ocean 20,0,a,a,a
+1636,Indian Ocean 21,0,a,a,a
+1637,Indian Ocean 22,0,a,a,a
+1638,Indian Ocean 23,0,a,a,a
+1639,Indian Ocean 24,0,a,a,a
+1640,Indian Ocean 25,0,a,a,a
+1641,Indian Ocean 26,0,a,a,a
+1642,Indian Ocean 27,0,a,a,a
+1643,Indian Ocean 28,0,a,a,a
+1644,Indian Ocean 29,0,a,a,a
+1645,Indian Ocean 30,0,a,a,a
+1646,Indian Ocean 31,0,a,a,a
+1647,Indian Ocean 32,0,a,a,a
+1648,Lake Tchad,0,a,a,a
+1649,Lake Victoria,0,a,a,a
+1650,Lake Tangayika,0,a,a,a
+1651,Lake Malawi,0,a,a,a
+1652,Lake Kama,0,a,a,a
+1653,Lake Balchasj,0,a,a,a
+1654,Lake Bajkal,0,a,a,a
+1655,Poyang Lake,0,a,a,a
+1656,Lake Titicaca,0,a,a,a
+1657,Lake Nicaragua,0,a,a,a
+1658,Everglades,0,a,a,a
+1659,Lake Ontario,0,a,a,a
+1660,Lake Erie,0,a,a,a
+1661,Lake Huron,0,a,a,a
+1662,Lake Michigan,0,a,a,a
+1663,Lake Superior,0,a,a,a
+1664,Lake Nipigon,0,a,a,a
+1665,Lake Winnipeg,0,a,a,a
+1666,Western Pacific 1,0,a,a,a
+1667,Western Pacific 2,0,a,a,a
+1668,Western Pacific 3,0,a,a,a
+1669,Western Pacific 4,0,a,a,a
+1670,Western Pacific 5,0,a,a,a
+1671,Western Pacific 6,0,a,a,a
+1672,Western Pacific 7,0,a,a,a
+1673,Western Pacific 8,0,a,a,a
+1674,Western Pacific 9,0,a,a,a
+1675,Western Pacific 10,0,a,a,a
+1676,Western Pacific 11,0,a,a,a
+1677,Northern Pacific 1,0,a,a,a
+1678,Northern Pacific 2,0,a,a,a
+1679,Northern Pacific 3,0,a,a,a
+1680,Northern Pacific 4,0,a,a,a
+1681,Northern Pacific 5,0,a,a,a
+1682,Northern Pacific 6,0,a,a,a
+1683,Northern Pacific 7,0,a,a,a
+1684,Northern Pacific 8,0,a,a,a
+1685,Northern Pacific 9,0,a,a,a
+1686,Northern Pacific 10,0,a,a,a
+1687,Central Pacific 1,0,a,a,a
+1688,Central Pacific 2,0,a,a,a
+1689,Central Pacific 3,0,a,a,a
+1690,Central Pacific 4,0,a,a,a
+1691,Central Pacific 5,0,a,a,a
+1692,Central Pacific 6,0,a,a,a
+1693,Central Pacific 7,0,a,a,a
+1694,Central Pacific 8,0,a,a,a
+1695,Central Pacific 9,0,a,a,a
+1696,Central Pacific 10,0,a,a,a
+1697,Coast of Hawaii,0,a,a,a
+1698,Central Pacific 11,0,a,a,a
+1699,Central Pacific 12,0,a,a,a
+1700,Eastern Pacific 1,0,a,a,a
+1701,Eastern Pacific 2,0,a,a,a
+1702,Eastern Pacific 3,0,a,a,a
+1703,Eastern Pacific 4,0,a,a,a
+1704,Eastern Pacific 5,0,a,a,a
+1705,Eastern Pacific 6,0,a,a,a
+1706,Eastern Pacific 7,0,a,a,a
+1707,Eastern Pacific 8,0,a,a,a
+1708,Eastern Pacific 9,0,a,a,a
+1709,Eastern Pacific 10,0,a,a,a
+1710,Eastern Pacific 11,0,a,a,a
+1711,Eastern Pacific 12,0,a,a,a
+1712,Eastern Pacific 13,0,a,a,a
+1713,Eastern Pacific 14,0,a,a,a
+1714,Eastern Pacific 15,0,a,a,a
+1715,Eastern Pacific 16,0,a,a,a
+1716,Eastern Pacific 17,0,a,a,a
+1717,Southern Pacific 1,0,a,a,a
+1718,Southern Pacific 2,0,a,a,a
+1719,Southern Pacific 3,0,a,a,a
+1720,Southern Pacific 4,0,a,a,a
+1721,Southern Pacific 5,0,a,a,a
+1722,Southern Pacific 6,0,a,a,a
+1723,Southern Pacific 7,0,a,a,a
+1724,Southern Pacific 8,0,a,a,a
+1725,Southern Pacific 9,0,a,a,a
+1726,Southern Pacific 10,0,a,a,a
+1727,Southern Pacific 11,0,a,a,a
+1728,Southern Pacific 12,0,a,a,a
+1729,Southern Pacific 13,0,a,a,a
+1730,Southern Pacific 14,0,a,a,a
+1731,Southern Pacific 15,0,a,a,a
+1732,Southern Pacific 16,0,a,a,a
+1733,Southern Pacific 17,0,a,a,a
+1734,Southern Pacific 18,0,a,a,a
+1735,Southern Pacific 19,0,a,a,a
+1736,Southern Pacific 20,0,a,a,a
+1737,Southern Pacific 22,0,a,a,a
+1738,Southern Pacific 23,0,a,a,a
+1739,Southern Pacific 24,0,a,a,a
+1740,Southern Pacific 25,0,a,a,a
+1741,Southern Pacific 26,0,a,a,a
+1742,Limburg,14,Flemish,Catholic,Cloth
+1743,Cambray,12,Wallonian,Catholic,Grain
+1744,Antwerpen,19,Flemish,Catholic,Glass
+1745,Cantabria,9,Castillian,Catholic,Naval Supplies
+1746,Burgos,8,Castillian,Catholic,Cloth
+1747,Caceres,6,Leonese,Catholic,Wool
+1748,La Mancha,9,Andalucian,Catholic,Wool
+1749,Cadiz,12,Andalucian,Catholic,Naval Supplies
+1750,Alicante,9,Catalan,Catholic,Salt
+1751,Ceuta,7,Moroccan,Sunni,Fish
+1752,Rzhev,13,Russian,Orthodox,Grain
+1753,Kostroma,9,Russian,Orthodox,Cloth
+1754,Orel,12,Russian,Orthodox,Grain
+1755,Ustyug,5,Russian,Orthodox,Fur
+1756,Budjak,11,Romanian,Orthodox,Wool
+1757,Oberpfalz,9,Bavarian,Catholic,Iron
+1758,Hannover,12,Lower Saxon,Catholic,Cloth
+1759,Potsdam,8,Saxon,Catholic,Wool
+1760,Koblenz,10,Hessian,Catholic,Grain
+1761,Pfalz,10,Hessian,Catholic,Wine
+1762,Kassel,13,Hessian,Catholic,Glass
+1763,Niederlausitz,5,Sorbian,Catholic,Livestock
+1764,Burgas,5,Bulgarian,Orthodox,Salt
+1765,Nis,10,Bulgarian,Orthodox,Iron
+1766,Kosovo,8,Serbian,Orthodox,Gold
+1767,Veroce,6,Croatian,Catholic,Livestock
+1768,Lienz,9,Austrian,Catholic,Iron
+1769,Gorz,10,Slovene,Catholic,Iron
+1770,Ostmarch,10,Austrian,Catholic,Wine
+1771,Erz,11,Czech,Catholic,Glass
+1772,Pozsony,13,Slovak,Catholic,Grain
+1773,Achaea,6,Greek,Orthodox,Wine
+1774,Treviso,18,Venetian,Catholic,Paper
+1775,Holstein,10,Lower Saxon,Catholic,Livestock
+1776,Karelia,3,Karelian,Orthodox,Salt
+1777,Kola,3,Sapmi,Orthodox,Fur
+1778,Kasimov,13,Mishary,Sunni,Livestock
+1779,Rub al Khali,0,a,a,a
+1780,Komi,5,Samoyed,Tengri,Fur
+1781,Western Siberia,0,a,a,a
+1782,Central Siberia,0,a,a,a
+1783,Eastern Siberia,0,a,a,a
+1784,Tiam Shan,0,a,a,a
+1785,Karakoram,0,a,a,a
+1786,Takla Makan,0,a,a,a
+1787,Himalaya,0,a,a,a
+1788,Arunachal,0,a,a,a
+1789,Papua,0,a,a,a
+1790,Outback,0,a,a,a
+1791,Outback,0,a,a,a
+1792,Antananarivo,8,Madagasque,Fetishist,Grain
+1793,El Djouf,0,a,a,a
+1794,Central Sahara,0,a,a,a
+1795,East Sahara,0,a,a,a
+1795,East Sahara,0,a,a,a
+1797,Northern Congo Basin,0,a,a,a
+1798,Uganda,0,a,a,a
+1799,Malawi,0,a,a,a
+1800,Limpopo,3,Nguni,Fetishist,Unknown
+1801,Kalahari,0,a,a,a
+1802,Western Amazonas,0,a,a,a
+1803,Eastern Amazonas,0,a,a,a
+1804,Greenland,0,a,a,a
+1805,Quebec,0,a,a,a
+1806,Weagamow,0,a,a,a
+1807,Baffin,0,a,a,a
+1808,Great Basin,0,a,a,a
+1809,Cheyenne,3,Shoshone,Totemism,Unknown
+1810,Alaska,0,a,a,a
+1811,Nunavut,0,a,a,a
+1812,Northwest Terretories,0,a,a,a
+1813,Saskatchewan,3,Plains Cree,Totemism,Unknown
+1814,Columbia,0,a,a,a
+1815,Pathein,8,Mon,Buddhism,Grain
+1816,Beijing,31,Chihan,Confucianism,Grain
+1817,Nan,8,Northern Thai,Buddhism,Ivory
+1818,Chikuzen,10,Kyushuan,Shinto,Chinaware
+1819,Tosa,7,Japanese,Shinto,Naval Supplies
+1820,Awa,8,Japanese,Shinto,Fish
+1821,Nanjing,33,Jianghuai,Confucianism,Silk
+1822,Suzhou,20,Wu,Confucianism,Silk
+1823,Stung Treng,8,Khmer,Animism,Grain
+1824,Wenzhou,8,Wu,Confucianism,Chinaware
+1825,Aki,11,Japanese,Shinto,Grain
+1826,Lika,6,Croatian,Catholic,Fish
+1827,Raska,7,Serbian,Orthodox,Livestock
+1828,Donji Krajii,5,Bosnian,Catholic,Livestock
+1829,Quanzhou,19,Chimin,Confucianism,Tea
+1830,Tajima,6,Japanese,Shinto,Grain
+1831,Travunia,7,Bosnian,Orthodox,Wool
+1832,Yamato,9,Japanese,Shinto,Tea
+1833,Ji'an,10,Gan,Confucianism,Cloth
+1834,Dorpat,8,Estonian,Catholic,Naval Supplies
+1835,Mino,11,Togoku,Shinto,Paper
+1836,Luoyang,13,Zhongyuan,Confucianism,Chinaware
+1837,Etchu,9,Togoku,Shinto,Grain
+1838,Hefei,11,Jianghuai,Confucianism,Grain
+1839,Suruga,11,Togoku,Shinto,Tea
+1840,Guilin,6,Zhuang,Confucianism,Silk
+1841,Marienburg,11,Prussian,Catholic,Naval Supplies
+1842,Narva,5,Estonian,Catholic,Grain
+1843,Kozuke,7,Togoku,Shinto,Livestock
+1844,Xiankhouang,6,Lao,Buddhism,Grain
+1845,South Pyongan,9,Korean,Confucianism,Grain
+1846,Amasya,11,Turkish,Sunni,Paper
+1847,Shiribeshi,3,Ainu,Animism,Fish
+1848,Hamid,8,Turkish,Sunni,Grain
+1849,Hama,10,Al Suryah Arabic,Sunni,Cotton
+1850,Yaran,9,Manchu,Tengri,Fish
+1851,Ribatejo,11,Portugese,Catholic,Grain
+1852,Tokachi,3,Ainu,Animism,Fish
+1853,Kastoria,7,Greek,Orthodox,Wine
+1854,Nablus,9,Al Suryah Arabic,Sunni,Sugar
+1855,Sidon,13,Al Suryah Arabic,Shiite,Naval Supplies
+1856,Abkhazia,6,Georgian,Orthodox,Wine
+1857,Lauenburg,5,Lower Saxon,Catholic,Salt
+1858,Stettin,12,Pommeranian,Catholic,Naval Supplies
+1859,Torun,10,Polish,Catholic,Grain
+1860,Norfolk,10,English,Catholic,Iron
+1861,Derby,6,English,Catholic,Iron
+1862,Cremona,15,Lombard,Catholic,Grain
+1863,Graz,13,Austrian,Catholic,Grain
+1864,Somogy,8,Hungarian,Catholic,Livestock
+1865,Ghent,13,Flemish,Catholic,Cloth
+1866,Namur,17,Wallonian,Catholic,Iron
+1867,Freiburg,8,Swiss,Catholic,Livestock
+1868,Augsburg,17,Swabian,Catholic,Cloth
+1869,Zurich,10,Swiss,Catholic,Wool
+1870,St Gallen,10,Swiss,Catholic,Livestock
+1871,Wallis,6,Swiss,Catholic,Livestock
+1872,Ulm,15,Swabian,Catholic,Cloth
+1873,Chur,7,Swiss,Catholic,Livestock
+1874,Bremen,16,Lower Saxon,Catholic,Fish
+1875,Turin,12,Piedmontese,Catholic,Grain
+1876,Frankfurt,18,Hessian,Catholic,Paper
+1877,Charolais,11,Burgundian,Catholic,Salt
+1878,Aachen,14,Hessian,Catholic,Grain
+1879,Alencon,11,Cosmopolitan French,Catholic,Livestock
+1880,Sundgau,9,Swabian,Catholic,Iron
+1881,St. Martin,10,Arawak,Animism,Unknown
+1882,Bone,5,Berber,Sunni,Naval Supplies
+1883,Western Finish Lakes,0,a,a,a
+1884,East Finish Lakes,0,a,a,a
+1885,Central Finish Lakes,0,a,a,a
+1886,Storavan,0,a,a,a
+1887,Storsjon,0,a,a,a
+1888,Kara Sea,0,a,a,a
+1889,Lake Geneva,0,a,a,a
+1890,Bodensee,0,a,a,a
+1891,Tuz Gola,0,a,a,a
+1892,Lake Van,0,a,a,a
+1893,Lake Daryacheh,0,a,a,a
+1894,Sevan Lake,0,a,a,a
+1895,Lake Taihu,0,a,a,a
+1896,Lake Hongze,0,a,a,a
+1897,Dongting,0,a,a,a
+1898,Tonie Sap Lake,0,a,a,a
+1899,Tana Lake,0,a,a,a
+1900,Lake Turkana,0,a,a,a
+1901,Lake Volta,6,Kongolese,Fetishist,Copper
+1902,Lake Poopo,0,a,a,a
+1903,Lake Champlain,0,a,a,a
+1904,Lac Saint Jean,0,a,a,a
+1905,Lac Manicouagan,0,a,a,a
+1906,Lac Michikamau,0,a,a,a
+1907,Lac Bienville,0,a,a,a
+1908,Lac Al Eau Claire,0,a,a,a
+1909,Lac Minto,0,a,a,a
+1910,La Grande Riviere,0,a,a,a
+1911,Lake Island,0,a,a,a
+1912,Lake Reindeer,0,a,a,a
+1913,Wollaston Lake,0,a,a,a
+1914,Great Slave Lake,0,a,a,a
+1915,Lake Athabasca,0,a,a,a
+1916,Dubawni Lake,0,a,a,a
+1917,Yathkyed Lake,0,a,a,a
+1918,Kasba Lake,0,a,a,a
+1919,Nueltin Lake,0,a,a,a
+1920,Wholdaia Lake,0,a,a,a
+1921,Peter Pond Lake,0,a,a,a
+1922,Great Salt Lake,0,a,a,a
+1923,Williston Lake,0,a,a,a
+1924,Greenland Tip,0,a,a,a
+1925,Tana,3,Bantu,Fetishist,Unknown
+1926,Northern Baltic Sea,0,a,a,a
+1927,Eastern Baltic Sea,0,a,a,a
+1928,Western Alands Sea,0,a,a,a
+1929,Western Norwegian Sea,0,a,a,a
+1930,Aland,3,Swedish,Catholic,Fish
+1931,East Frisia,7,Frisian,Catholic,Salt
+1932,Gulf of Satalia,0,a,a,a
+1933,Bari,8,Neapolitan,Catholic,Wine
+1934,Lucania,5,Neapolitan,Catholic,Livestock
+1935,Semigallia,6,Latvian,Catholic,Naval Supplies
+1936,Kovno,7,Lithuanian,Catholic,Livestock
+1937,Grodno,5,Byelorussian,Orthodox,Livestock
+1938,Wizna,5,Polish,Catholic,Naval Supplies
+1939,Leczyca,7,Polish,Catholic,Grain
+1940,Belz,9,Ruthenian,Orthodox,Livestock
+1941,Turov,3,Byelorussian,Orthodox,Wool
+1942,Zhytomyr,4,Ruthenian,Orthodox,Grain
+1943,Bratslav,7,Ruthenian,Orthodox,Livestock
+1944,Cherkasy,3,Ruthenian,Orthodox,Livestock
+1945,Novgorod-Seversky,4,Ryazanian,Orthodox,Iron
+1946,Desh,8,Marathi,Hinduism,Naval Supplies
+1947,Gingee,8,Tamil,Hinduism,Cloth
+1948,Bidar,13,Kannada,Hinduism,Silk
+1949,Rayalaseema,8,Telegu,Hinduism,Cotton
+1950,Meghalaya,0,a,a,a
+1951,Hunyad,8,Transylvanian,Orthodox,Iron
+1952,Maramaros,5,Ruthenian,Orthodox,Naval Supplies
+1953,Szabolcs,8,Hungarian,Catholic,Livestock
+1954,Torontal,8,Hungarian,Catholic,Livestock
+1955,Kholmogory,5,Novgorodian,Orthodox,Fur
+1956,Suzdal,11,Russian,Orthodox,Grain
+1957,Galich,11,Russian,Orthodox,Salt
+1958,Kargopol,7,Novgorodian,Orthodox,Naval Supplies
+1959,Torzhok,7,Novgorodian,Orthodox,Naval Supplies
+1960,Ostrov,6,Novgorodian,Orthodox,Naval Supplies
+1961,Ladoga,10,Novgorodian,Orthodox,Fur
+1962,Kudymkar,3,Uralic,Tengri,Fur
+1963,Cherdyn,8,Uralic,Tengri,Salt
+1964,Ust-Sysolsk,3,Uralic,Orthodox,Fur
+1965,Buzuluk,6,Nogaybak,Sunni,Iron
+1966,Chelyaba,9,Bashkir,Sunni,Fur
+1967,Khujand,7,Uzbehk,Sunni,Silk
+1968,Kulob,7,Uzbehk,Sunni,Wool
+1969,Sozak,3,Khazak,Sunni,Salt
+1970,Syghnak,6,Khazak,Sunni,Livestock
+1971,Tsaritsyn,8,Mishary,Sunni,Livestock
+1972,Udmurtia,6,Uralic,Tengri,Grain
+1973,Urgench,12,Uzbehk,Sunni,Grain
+1974,Yedishkul,10,Crimean,Sunni,Salt
+1975,Sea of Jutland,0,a,a,a
+1976,Dead Sea,0,a,a,a
+1977,Malaren,0,a,a,a
+1978,Shetlands,3,Norwegian,Catholic,Fish
+1979,Faroes,3,Icelandic,Catholic,Fish
+1980,Sea of Japan,0,a,a,a
+1981,Bornholm,3,Danish,Catholic,Fish
+1982,Blekinge,5,Danish,Catholic,Naval Supplies
+1983,Lolland,8,Danish,Catholic,Fish
+1984,Nordjylland,7,Danish,Catholic,Fish
+1985,Narke,6,Swedish,Catholic,Iron
+1986,New Caledonia,3,Melanesian,Animism,Unknown
+1987,Society Islands,3,Polynesian,Animism,Unknown
+1988,Rapa Nui,3,Polynesian,Animism,Unknown
+1989,Tonga,8,Polynesian,Animism,Naval Supplies
+1990,Tuvalu,3,Polynesian,Animism,Unknown
+1991,Gilbert Islands,3,Polynesian,Animism,Unknown
+1992,Nauru,3,Polynesian,Animism,Unknown
+1993,Masrshall Islands,3,Polynesian,Animism,Unknown
+1994,Wake,3,Polynesian,Animism,Unknown
+1995,Micronesia,3,Polynesian,Animism,Unknown
+1795,Palau,3,Polynesian,Animisn,Unknown
+1997,Midway,3,Polynesian,Animism,Unknown
+1998,Christmas Island,3,a,a,Unknown
+1999,Cocos Island,3,a,a,Unknown
+2000,Qinghai Lake,0,a,a,a
+2001,Siling Lake,0,a,a,a
+2002,Galapagos Islands,3,Cara,Animism,Unknown
+2003,Ktunaxa,4,Shoshone,Totemism,Unknown
+2004,Niitsitapi,3,Blackfoot,Totemism,Fur
+2005,Asinaan,3,Blackfoot,Totemism,Unknown
+2006,Apsaalooke,3,Blackfoot,Totemism,Fur
+2007,Arikara,3,Pawnee,Totemism,Unknown
+2008,Yankton,3,Pawnee,Totemism,Unknown
+2009,Teton,3,Pawnee,Totemism,Unknown
+2010,Connecticut,6,Pequot,Totemism,Fish
+2011,Shenandoah,5,Powhatan,Totemism,Unknown
+2012,Arsigantegok,6,Abenaki,Totemism,Unknown
+2013,Kennebec,10,Abenaki,Totemism,Unknown
+2014,Natchitoches,5,Caddo,Totemism,Unknown
+2015,Nipigon,3,Anishinabe,Totemism,Fur
+2016,Bungi,3,Nakota,Totemism,Fur
+2017,Nehiyawewin,3,Chipewyan,Totemism,Unknown
+2018,Tsuutina,3,Athabascan,Totemism,Unknown
+2019,Nimiipu,3,Chinook,Totemism,Unknown
+2020,Bannock,3,Shoshone,Totemism,Fur
+2021,Miwok,4,Yokuts,Totemism,Unknown
+2022,Haida,3,Haida,Totemism,Fish
+2023,Munsee,6,Delaware,Totemism,Unknown
+2024,Ajuuran,3,Somali,Sunni,Fish
+2025,South Georgia,3,a,a,Unknown
+2026,Tanjore,10,Tamil,Hinduism,Cloth
+2027,Arcot,8,Tamil,Hinduism,Iron
+2028,Mahur,5,Telegu,Hinduism,Tropical Wood
+2029,South Kanara,8,Kannada,Hinduism,Tropical Wood
+2030,Goa,9,Marathi,Hinduism,Spices
+2031,Morasanadu,8,Kannada,Hinduism,Grain
+2032,Malenadu,6,Kannada,Hinduism,Coffee
+2033,Savanaur,11,Kannada,Hinduism,Cotton
+2034,Pune,11,Marathi,Hinduism,Grain
+2035,Gulbarga,9,Kannada,Hinduism,Grain
+2036,Baglana,6,Marathi,Hinduism,Grain
+2037,Warangal,6,Telegu,Hinduism,Cotton
+2038,Midnapore,11,Bengali,Hinduism,Spices
+2039,Sunderbans,3,Bengali,Hinduism,Grain
+2040,Sadiya,6,Assamese,Hinduism,Tea
+2041,Manipur,5,Chin,Animism,Cloth
+2042,Koch Hajo,6,Assamese,Hinduism,Cotton
+2043,Balasore,10,Oriya,Hinduism,Cloth
+2044,Bhagalpur,8,Bengali,Hinduism,Silk
+2045,Barind,10,Kochi,Hinduism,Cloth
+2046,Nasirabad,8,Bengali,Hinduism,Cotton
+2047,Tirhut,13,Bihari,Hinduism,Dyes
+2048,Garjat,3,Garjati,Hinduism,Tropical Wood
+2049,Khurda,5,Garjati,Hinduism,Grain
+2050,Chanda,5,Gondi,Hinduism,Tropical Wood
+2051,Bhavnagar,8,Saurashtri,Hinduism,Salt
+2052,Navanagar,5,Saurashtri,Hinduism,Gems
+2053,Patan,7,Gujarati,Hinduism,Cloth
+2054,Ahmadabad,11,Gujarati,Hinduism,Paper
+2055,Gorakhpur,8,Bihari,Hinduism,Grain
+2056,Rewa Kantha,6,Gujarati,Hinduism,Wool
+2057,Bhelsa,10,Malvi,Hinduism,Cloth
+2058,Mewar,9,Rajput,Hinduism,Gold
+2059,Kalpi,9,Vindhyan,Hinduism,Cloth
+2060,Upper Doab,16,Kanauji,Hinduism,Cloth
+2061,Katehar,8,Kanauji,Hinduism,Cotton
+2062,Panipat,13,Kanauji,Hinduism,Cotton
+2063,Etawah,13,Kanauji,Hinduism,Dyes
+2064,Shekhawati,5,Rajput,Hinduism,Copper
+2065,Bhattiana,7,Rajput,Hinduism,Livestock
+2066,Nagaur,5,Rajput,Hinduism,Livestock
+2067,Gorwar,9,Rajput,Hinduism,Cotton
+2068,Siwistan,3,Baluchi,Sunni,Wool
+2069,Kumaon,3,Pahari,Hinduism,Naval Supplies
+2070,Chaubisi Rajya,8,Nepali,Hinduism,Naval Supplies
+2071,Limbuwan,4,Nepali,Vajrayana,Wool
+2072,Bhakkar,6,Sindhi,Sunni,Cotton
+2073,Baltistan,3,Kashmiri,Buddhism,Wool
+2074,Ladakh,3,Tibetan,Vajrayana,Wool
+2075,Doaba,16,Panjabi,Hinduism,Dyes
+2076,Sialkot,10,Panjabi,Hinduism,Paper
+2077,Margalla,7,Panjabi,Hinduism,Iron
+2078,Sind Sagar,5,Panjabi,Sunni,Livestock
+2079,Derajat,7,Panjabi,Sunni,Wool
+2080,Srikakulam,5,Oriya,Hinduism,Sugar
+2081,Lakhnor,8,Bengali,Hinduism,Naval Supplies
+2082,Raipur,7,Gondi,Hinduism,Grain
+2083,Kosta,8,Telegu,Hinduism,Cotton
+2084,Konaseema,11,Telegu,Hinduism,Cloth
+2085,Tiruchirapalli,8,Tamil,Hinduism,Cotton
+2086,Cholistan,5,Panjabi,Sunni,Livestock
+2087,Ajmer,8,Rajput,Hinduism,Salt
+2088,Umarkot,3,Sindhi,Sunni,Wool
+2089,Chaul,10,Marathi,Hinduism,Cloth
+2090,Kurnool,5,Telegu,Hinduism,Iron
+2091,Tripura,3,Chin,Hinduism,Tropical Wood
+2092,Mahadeo,3,Gondi,Hinduism,Tropical Wood
+2093,Mandsaur,8,Malvi,Hinduism,Spices
+2094,Bahreich,9,Avadhi,Hinduism,Cotton
+2095,Varanasi,10,Bihari,a,Silk
+2096,Damin,3,Jharkhandi,Hinduism,Ivory
+2097,Bagelkhand,5,Vindhyan,Hinduism,Naval Supplies
+2098,Surguja,3,Jharkhandi,Hinduism,Cotton
+2099,Kandy,7,Sinhala,Buddhism,Gems
+2100,Vanni,6,Tamil,Hinduism,Gems
+2101,Tirunelveli,8,Tamil,Hinduism,Gems
+2102,Urkan,5,Evenk,Tengri,Fur
+2103,Udi,3,Manchu,Tengri,Fur
+2104,Birija,3,Manchu,Tengri,Fur
+2105,Kuru,4,Manchu,Tengri,Naval Supplies
+2106,Furdan,15,Manchu,Tengri,Naval Supplies
+2107,Ningguta,7,Manchu,Confucianism,Iron
+2108,Huncun,15,Manchu,Confucianism,Naval Supplies
+2109,Boduna,9,Chahar,Vajrayana,Iron
+2110,Yehe,9,Manchu,Confucianism,Fur
+2111,Hetu Ala,13,Manchu,Confucianism,Iron
+2112,Andong,5,Manchu,Confucianism,Grain
+2113,Gaizhou,7,Shandong Culture,Confucianism,Fish
+2114,Ereen,7,Mongol,Vajrayana,Livestock
+2115,Chahar,7,Mongol,Vajrayana,Livestock
+2116,Ih Huree,7,Khalkha,Tengri,Fur
+2117,Zasagt,4,Khalkha,Tengri,Livestock
+2118,Urzhar,3,Oirats,Sunni,Salt
+2119,Chuguchak,4,Oirats,Sunni,Fur
+2120,Ili,7,Uyghur,Sunni,Grain
+2121,Kuqa,7,Uyghur,Sunni,Gold
+2122,Hami,8,Oirats,Vajrayana,Grain
+2123,Qakilik,4,Oirats,Vajrayana,Livestock
+2124,Yarkand,7,Uyghur,Sunni,Wool
+2125,Kochkor,7,Kirgiz,Sunni,Wool
+2126,Chuy,4,Kirgiz,Sunni,Wool
+2127,Yashilkul,4,Uzbehk,Shiite,Livestock
+2128,Ngari,3,Tibetan,Vajrayana,Gold
+2129,Changtang,0,a,a,a
+2130,Nyingchi,4,Tibetan,Vajrayana,Grain
+2131,Qamdo,4,Tibetan,Vajrayana,Spices
+2132,Markam,4,Tibetan,Vajrayana,Livestock
+2133,Dege,4,Tibetan,Vajrayana,Wool
+2134,Rebgong,4,Tibetan,Vajrayana,Livestock
+2135,Garze,4,Tibetan,Vajrayana,Grain
+2136,Xuanhua,8,Jin,Confucianism,Grain
+2137,Daming,8,Chihan,Confucianism,Grain
+2138,Wuding,11,Shandong Culture,Confucianism,Grain
+2139,Laizhou,8,Shandong Culture,Confucianism,Fish
+2140,Yanzhou,9,Zhongyuan,Confucianism,Grain
+2141,Xuzhou,15,Zhongyuan,Confucianism,Iron
+2142,Huai'an,6,Jianghuai,Confucianism,Fish
+2143,Fengyang,4,Zhongyuan,Confucianism,Silk
+2144,Fuyang,5,Zhongyuan,Confucianism,Grain
+2145,Zhenjiang,12,Jianghuai,Confucianism,Naval Supplies
+2146,Ningguo,9,Wu,Confucianism,Paper
+2147,Huizhou,12,Wu,Confucianism,Paper
+2148,Shaoxin,14,Wu,Confucianism,Paper
+2149,Ningbo,16,Wu,Confucianism,Naval Supplies
+2150,Jinhua,8,Wu,Confucianism,Grain
+2151,Poyang,8,Gan,Confucianism,Chinaware
+2152,Jianning,6,Chimin,Confucianism,Tea
+2153,Tingzhou,5,Hakka,Confucianism,Paper
+2154,Kelang,5,Polynesian,Animism,Unknown
+2155,Middag,7,Polynesian,Animism,Unknown
+2156,Chaochow,14,Chimin,Confucianism,Chinaware
+2157,Waichow,17,Hakka,Confucianism,Grain
+2158,Shiukwan,10,Hakka,Confucianism,Iron
+2159,Leichow,8,Chimin,Confucianism,Sugar
+2160,Ngaichow,3,Chimin,Confucianism,Incense
+2161,Limchow,7,Cantonese,Confucianism,Incense
+2162,Wuchow,4,Cantonese,Confucianism,Copper
+2163,Liuzhou,8,Zhuang,Confucianism,Salt
+2164,Namnig,4,Zhuang,Confucianism,Grain
+2165,Pu'er,6,Bai,Buddhism,Tea
+2166,Dehong,4,Shan,Buddhism,Tropical Wood
+2167,Lijiang,3,Bai,Buddhism,Tea
+2168,Bozhou,6,Yi,Animism,Grain
+2169,Langzhong,5,Sichuanese,Confucianism,Grain
+2170,Songqu,3,Tibetan,Vajrayana,Livestock
+2171,Xiangyang,11,Hubei,Confucianism,Gems
+2172,Jingzhou,8,Hubei,Confucianism,Grain
+2173,Yuanling,8,Miao,Animism,Tea
+2174,Hengyang,9,Xiang,Animism,Gold
+2175,Runing,8,Zhongyuan,Confucianism,Cloth
+2176,Shangqiu,12,Zhongyuan,Confucianism,Cloth
+2177,Ningwu,4,Jin,Confucianism,Grain
+2178,Lu'an,7,Jin,Confucianism,Iron
+2179,Yan'an,8,Jin,Confucianism,Grain
+2180,Tianshui,5,Xibei,Confucianism,Grain
+2181,Pingliang,6,Xibei,Confucianism,Livestock
+2182,Liangzhou,8,Xibei,Confucianism,Livestock
+2183,Taozhou,6,Tibetan,Vajrayana,Chinaware
+2184,Xining,8,Xibei,Vajrayana,Salt
+2185,Mergen,10,Manchu,Tengri,Naval Supplies
+2186,Iman,7,Manchu,Tengri,Naval Supplies
+2187,Sartu,7,Chahar,Tengri,Livestock
+2188,Alchuka,11,Manchu,Tengri,Grain
+2189,Tsetserleg,6,Khalkha,Tengri,Fur
+2190,Qaraqorum,5,Khalkha,Tengri,Livestock
+2191,Ejin,4,Oirats,Vajrayana,Livestock
+2192,Korla,4,Uyghur,Vajrayana,Grain
+2193,Govi,3,Khalkha,Tengri,Livestock
+2194,Kunlun,0,a,a,a
+2195,Adyghe,6,Circassian,Orthodox,Livestock
+2196,Guria,8,Georgian,Orthodox,Fish
+2197,Kabardia,4,Circassian,Orthodox,Wool
+2198,Khundzia,7,Dagestani,Sunni,Livestock
+2199,Tarki,7,Dagestani,Sunni,Fish
+2200,Suleiman Range,0,a,a,a
+2201,Alania,3,Circassian,Orthodox,Wool
+2202,Melikates,9,Armenian,Coptic,Livestock
+2203,Kahketi,9,Georgian,Orthodox,Wine
+2204,Kars,8,Georgian,Orthodox,Wine
+2205,Nakhchivan,6,Armenian,Coptic,Wine
+2206,Urmia,8,Kurdish,Sunni,Wine
+2207,Maragheh,6,Azerbaijani,Shiite,Wool
+2208,Terek,9,Dagestani,Sunni,Livestock
+2209,Ilam,5,Kurdish,Shiite,Wool
+2210,Kirmanshah,5,Luri,Sunni,Cloth
+2211,Ardalan,7,Kurdish,Sunni,Cloth
+2212,Zanjan,7,Azerbaijani,Sunni,Spices
+2213,Markazi,8,Persian,Shiite,Cloth
+2214,Golestan,7,Mazandarani,Shiite,Tea
+2215,Qazvin,8,Azerbaijani,Sunni,Silk
+2216,Semnan,6,Persian,Sunni,Gems
+2217,Yasuj,3,Luri,Shiite,Cloth
+2218,Shiraz,14,Persian,Shiite,Wine
+2219,Bandar Langeh,6,Persian,Sunni,Spices
+2220,Bam,3,Baluchi,Sunni,Cotton
+2221,Mashhad,9,Khorasani,Shiite,Copper
+2222,Ardakan,5,Persian,Sunni,Incense
+2223,Larestan,6,Persian,Sunni,Iron
+2224,Ferah,4,Khorasani,Sunni,Livestock
+2225,Bamyan,6,Afghani,Shiite,Dyes
+2226,Jalalabad,11,Afghani,Sunni,Livestock
+2227,Kunduz,4,Afghani,Sunni,Cotton
+2228,Maymana,8,Afghani,Sunni,Cotton
+2229,Bust,5,Afghani,Sunni,Livestock
+2230,Chakhansur,3,Khorasani,Sunni,Livestock
+2231,Bela,5,Baluchi,Sunni,Fish
+2232,Kharan,4,Baluchi,Sunni,Livestock
+2233,Western Makran,3,Baluchi,Sunni,Fish
+2234,Rafsanjan,5,Persian,Sunni,Copper
+2235,Sabzevar,5,Khorasani,Sunni,Wool
+2236,Bojnord,5,Khorasani,Sunni,Wool
+2237,Tekrur,7,Fulani,Fetishist,Unknown
+2238,Kantor,3,Senegambian,Fetishist,Ivory
+2239,Siine,5,Senegambian,Fetishist,Slaves
+2240,Galam,7,Fulani,Fetishist,Unknown
+2241,Beafada,3,Senegambian,Fetishist,Slaves
+2242,Karou,3,Dyola,Fetishist,Unknown
+2243,Termes,3,Soninke,Sunni,Livestock
+2244,Tagant,3,Fulani,Fetishist,Unknown
+2245,Wagadu,5,Soninke,Fetishist,Wool
+2246,Baghena,5,Soninke,Sunni,Wool
+2247,Hodh,5,Tuareg,Sunni,Wool
+2248,Do,9,Mali,Fetishist,Livestock
+2249,Sibiridugu,5,Mali,Fetishist,Spices
+2250,Bendugu,7,Bozo,Fetishist,Iron
+2251,Bagoe,0,a,a,a
+2252,Lobi,5,Dyola,Fetishist,Gold
+2253,Gwiriko,3,Dyola,Fetishist,Grain
+2254,Bonoman,7,Aka,Fetishist,Tropical Wood
+2255,Gyaaman,5,Aka,Fetishist,Coffee
+2256,Dagbon,3,Dagomba,Fetishist,Dyes
+2257,Denkyira,5,Aka,Fetishist,Coffee
+2258,Cape Coast,5,Aka,Fetishist,Unknown
+2259,Bara,7,Bambara,Fetishist,Grain
+2260,Mema,5,Bambara,Sunni,Grain
+2261,Kala,9,Bozo,Fetishist,Fish
+2262,Karabara,7,Songhai,Sunni,Fish
+2263,Haayre,3,Bozo,Fetishist,Ivory
+2264,Hombori,3,Songhai,Fetishist,Livestock
+2265,Liptako,3,Mossi,Fetishist,Livestock
+2266,Bilanga,3,Mossi,Fetishist,Grain
+2267,Tenkodogo,7,Mossi,Fetishist,Livestock
+2268,Aribanda,7,Songhai,Sunni,Grain
+2269,Zarmaganda,5,Songhai,Sunni,Wool
+2270,Dallol,5,Songhai,Fetishist,Grain
+2271,Azawagh,3,Tuareg,Sunni,Livestock
+2272,Azbin,3,Tuareg,Sunni,Salt
+2273,Ader,3,Tuareg,Sunni,Livestock
+2274,Air,9,Tuareg,Sunni,Iron
+2275,Tenere,3,Tuareg,Sunni,Livestock
+2276,Itesan,3,Tuareg,Sunni,Livestock
+2277,Kawar,3,Tuareg,Sunni,Salt
+2278,Kebbi,5,Hausa,Fetishist,Grain
+2279,Daura,7,Hausa,Sunni,Dyes
+2280,Biram,5,Hausa,Sunni,Dyes
+2281,Rano,5,Hausa,Sunni,Dyes
+2282,Muniyo,5,Kanuri,Sunni,Grain
+2283,Bedde,3,Kanuri,Sunni,Grain
+2284,Manga,5,Kanuri,Sunni,Livestock
+2285,Marghi,3,Kanuri,Fetishist,Grain
+2286,Logone,5,Kanuri,Fetishist,Ivory
+2287,Kotoko,7,Kanuri,Sunni,Grain
+2288,Yao,7,Bilala,Sunni,Grain
+2289,Ondo,5,Yorumba,Fetishist,Coffee
+2290,Ijebu,5,Yorumba,Fetishist,Slaves
+2291,Ketu,5,Yorumba,Fetishist,Slaves
+2292,Moshi,3,Yorumba,Fetishist,Tropical Wood
+2293,Yawuri,3,Hausa,Fetishist,Coffee
+2294,Warri,3,Yorumba,Fetishist,Slaves
+2295,Atakora,3,Dagomba,Fetishist,Tropical Wood
+2296,Biga,11,Turkish,Sunni,Naval Supplies
+2297,Saruhan,8,Turkish,Sunni,Cotton
+2298,Tekke,8,Turkish,Sunni,Cotton
+2299,Bolu,6,Turkish,Sunni,Fish
+2300,Bozok,8,Turkish,Sunni,Grain
+2301,Kayseri,8,Turkish,Sunni,Iron
+2302,Icel,6,Turkish,Sunni,Naval Supplies
+2303,Malatya,6,Turkish,Shiite,Cloth
+2304,Canik,6,Pontic Greek,Orthodox,Wine
+2305,Erzincan,8,Armenian,Coptic,Copper
+2306,Mush,9,Armenian,Coptic,Wool
+2307,Van,8,Armenian,Coptic,Wool
+2308,Urfa,8,Kurdish,Sunni,Wool
+2309,Sinjar,6,Al Iraqiya Arabic,Sunni,Sugar
+2310,Tikrit,8,Al Iraqiya Arabic,Sunni,Livestock
+2311,Samawah,8,Al Iraqiya Arabic,Shiite,Spices
+2312,Wasit,8,Al Iraqiya Arabic,Sunni,Grain
+2313,Antioch,11,Al Suryah Arabic,Sunni,Cloth
+2314,Rahba,3,Al Iraqiya Arabic,Sunni,Grain
+2315,Suez,5,Al Misr Arabic,Sunni,Livestock
+2316,Al Gharbia,12,Al Misr Arabic,Sunni,Grain
+2317,Minya,8,Al Misr Arabic,Sunni,Sugar
+2318,Bahiriya,4,Al Misr Arabic,Sunni,Livestock
+2319,Manfalut,5,Al Misr Arabic,Sunni,Cotton
+2320,Ras Gharib,3,Al Misr Arabic,Sunni,Fish
+2321,Queseer,3,Al Misr Arabic,Sunni,Livestock
+2322,Wadi Halfa,3,Nubian,Coptic,Livestock
+2323,Sahra an Nubyah,3,Nubian,Coptic,Slaves
+2324,Halaib,3,Beja,Sunni,Slaves
+2325,Tarrana,3,Al Misr Arabic,Sunni,Fish
+2326,Bardiyah,3,Al Misr Arabic,Sunni,Livestock
+2327,Maan,5,Bedouin Arabic,Sunni,Livestock
+2328,Al Ula,3,Bedouin Arabic,Sunni,Salt
+2329,Yanbu,3,Hejazi Culture,Sunni,Cloth
+2330,Ma'din Sulaym,3,Hejazi Culture,Sunni,Livestock
+2331,Jeddah,6,Hejazi Culture,Sunni,Incense
+2332,Turubah,3,Hejazi Culture,Sunni,Livestock
+2333,Abd al-Qays,3,Gulf Arabic,Shiite,Fish
+2334,Badiyat ash Sham,0,a,a,a
+2335,Dawasir,4,Bedouin Arabic,Sunni,Wool
+2336,Aflaj,3,Bedouin Arabic,Sunni,Livestock
+2337,Buraydeh,3,Bedouin Arabic,Sunni,Livestock
+2338,Hafar,3,Bedouin Arabic,Sunni,Livestock
+2339,Yabrin,3,Bedouin Arabic,Sunni,Grain
+2340,Grane,3,Gulf Arabic,Sunni,Fish
+2341,Sharqiyah,3,Omani Culture,Ibadi,Copper
+2342,Wusta,3,Mahri Culture,Sunni,Incense
+2343,Kathiri,4,Yemeni Culture,Sunni,Livestock
+2344,Marib,3,Yemeni Culture,Shiite,Livestock
+2345,Beihan,6,Yemeni Culture,Shiite,Livestock
+2346,Jazan,7,Hejazi Culture,Shiite,Fish
+2347,Hofuf,4,Gulf Arabic,Shiite,Spices
+2348,Chios,5,Greek,Orthodox,Wine
+2349,Kizil-Su,3,Turkmeni,Sunni,Fish
+2350,Konjikala,3,Turkmeni,Sunni,Copper
+2351,Shekty,3,Khazak,Sunni,Livestock
+2352,Alty-Kuduk,9,Khazak,Sunni,Fish
+2353,Tortkara,3,Khazak,Sunni,Naval Supplies
+2354,Shegendyk,6,Khazak,Sunni,Iron
+2355,Narym,3,Khazak,Sunni,Fish
+2356,Shymkent,3,Uzbehk,Sunni,Tea
+2357,Aksary,3,Khazak,Sunni,Naval Supplies
+2358,Altyn,6,Khazak,Sunni,Livestock
+2359,Baganaly,3,Khazak,Sunni,Grain
+2360,Tobykty,3,Khazak,Sunni,Wool
+2361,Dzhaman-Kuduk,3,Khazak,Sunni,Grain
+2362,Gurganj,3,Turkmeni,Sunni,Wool
+2363,Atakent,3,Khazak,Sunni,Livestock
+2364,Talas,6,Kirgiz,Sunni,Iron
+2365,Orda,3,Nogaybak,Sunni,Livestock
+2366,Utva,3,Nogaybak,Sunni,Livestock
+2367,Lower Yik,6,Nogaybak,Sunni,Livestock
+2368,Karamegdan,6,Khazak,Sunni,Wool
+2369,Lower Ishim,3,Khazak,Sunni,Iron
+2370,Kungirot,3,Nogaybak,Sunni,Livestock
+2371,Song La,6,Lao,Animism,Tea
+2372,Hai Phong,13,Vietnamese,Mahayana,Naval Supplies
+2373,Hue,13,Vietnamese,Mahayana,Incense
+2374,Kauthara,10,Cham,Hinduism,Incense
+2375,Tay Nguyen,6,Cham,Animism,Tea
+2376,Prek Russey,9,Khmer,Hinduism,Grain
+2377,Teuk Khmao,10,Khmer,Hinduism,Fish
+2378,Kratie,5,Khmer,Animism,Grain
+2379,Battambang,6,Khmer,Buddhism,Ivory
+2380,Phnom Penh,13,Khmer,Buddhism,Iron
+2381,Luang Namtha,6,Lao,Animism,Tea
+2382,Savanh Nakhone,8,Lao,Animism,Copper
+2383,Khukhanor Surin,6,Khmer,Buddhism,Grain
+2384,Nong Khai,5,Lao,Buddhism,Silk
+2385,Nongbua Lamphu,6,Lao,Buddhism,Grain
+2386,Chaiyaphum,5,Khmer,Buddhism,Grain
+2387,Phetchaburi,9,Central Thai,Buddhism,Tropical Wood
+2388,Phitsanulok,11,Central Thai,Buddhism,Livestock
+2389,Phra Bang,13,Central Thai,Buddhism,Tropical Wood
+2390,Chaiya,7,Central Thai,Buddhism,Fish
+2391,Thalang,10,Malayan,Sunni,Fish
+2392,Selangor,8,Malayan,Sunni,Grain
+2393,Terengganu,5,Malayan,Sunni,Fish
+2394,Kedah,10,Malayan,Sunni,Grain
+2395,Hkamti Long,5,Kachin,Animism,Grain
+2396,Mong Kawng,7,Kachin,Buddhism,Gems
+2397,Tamanthi,4,Shan,Animism,Tea
+2398,Thaungdut,5,Chin,Animism,Grain
+2399,Pagan,11,Burmese,Buddhism,Tropical Wood
+2400,Hsipaw,8,Shan,Buddhism,Grain
+2401,Mong Pai,6,Karen,Animism,Tropical Wood
+2402,Sandoway,10,Arakanese,Buddhism,Iron
+2403,Martaban,8,Mon,Buddhism,Chinaware
+2404,Mergui,10,Mon,Buddhism,Chinaware
+2405,Bendery,7,Romanian,Orthodox,Wine
+2406,Ingil,3,Crimean,Sunni,Wine
+2407,Pereyaslav,5,Ruthenian,Orthodox,Grain
+2408,Lipetsk,7,Mishary,Sunni,Livestock
+2409,Bahmut,5,Mishary,Sunni,Iron
+2410,Theodoro,9,Goths,Orthodox,Wine
+2411,Mansur,8,Crimean,Sunni,Livestock
+2412,Kyzyl-Yar,11,Crimean,Sunni,Salt
+2413,Tyn,8,Crimean,Sunni,Livestock
+2414,Azaraba,9,Crimean,Sunni,Livestock
+2415,Etkara,8,Mishary,Sunni,Livestock
+2416,Majar,8,Astrakhani,Sunni,Livestock
+2417,Kuma,6,Astrakhani,Sunni,Iron
+2418,Ukek,7,Astrakhani,Sunni,Iron
+2419,Kanadey,6,Kazani,Sunni,Livestock
+2420,Agyidel,11,Bashkir,Sunni,Iron
+2421,Juketau,6,Kazani,Sunni,Grain
+2422,Veda-Suvar,9,Kazani,Sunni,Grain
+2423,Alatyr,8,Russian,Orthodox,Grain
+2424,Peremyshl,7,Ruthenian,Orthodox,Livestock
+2425,Naryan-Mar,0,a,a,a
+2426,Yamal,0,a,a,a
+2427,Ostyaki,9,Ostyaki,Tengri,Fur
+2428,Yugan,3,Ostyaki,Sunni,Fur
+2429,Agan,3,Ostyaki,Sunni,Fur
+2430,Baykha,3,Samoyed,Tengri,Unknown
+2431,Uchamin,3,Tungus,Tengri,Unknown
+2432,Chulym,3,Tungus,Tengri,Unknown
+2433,Vah,6,Ostyaki,Tengri,Fur
+2434,Barnaul,3,Kirgiz,Tengri,Unknown
+2435,Nukhtui,3,Yakut,Tengri,Unknown
+2436,Chuna,3,Tungus,Tengri,Unknown
+2437,Seganka,3,Tungus,Tengri,Unknown
+2438,Kharya,3,Yakut,Tengri,Unknown
+2439,Yarmanka,3,Yukagyr,Tengri,Unknown
+2440,Kagyrgyn,3,Kamchatkan,Tengri,Fish
+2441,Iglino,8,Siberian,Tengri,Fur
+2442,Ust-Kut,3,Buryat,Tengri,Unknown
+2443,Kan,3,Buryat,Tengri,Unknown
+2444,Bashgird,6,Bashkir,Sunni,Gold
+2445,Mangazea,7,Samoyed,Tengri,Fur
+2446,Chara,9,Buryat,Tengri,Unknown
+2447,Mantrega,5,Pontic Greek,Orthodox,Livestock
+2448,Fezzan,3,Tunisian,Sunni,Ivory
+2449,Jufra,3,Tunisian,Sunni,Livestock
+2450,Ghadames,3,Tunisian,Sunni,Spices
+2451,Thubaqt,3,Tunisian,Sunni,Cloth
+2452,Zuwarah,3,Tunisian,Ibadi,Fish
+2453,Sfax,7,Tunisian,Sunni,Sugar
+2454,Kairouan,5,Tunisian,Sunni,Wool
+2455,Bizerte,9,Tunisian,Sunni,Grain
+2456,Touggourt,3,Algerian,Sunni,Spices
+2457,Mzab,3,Berber,Ibadi,Livestock
+2458,Kabylia,3,Algerian,Sunni,Salt
+2459,Titteri,3,Algerian,Sunni,Grain
+2460,Saoura,3,Moroccan,Sunni,Livestock
+2461,Dahra,8,Algerian,Sunni,Grain
+2462,Ouarsenis,5,Berber,Sunni,Livestock
+2463,Maaskar,3,Berber,Sunni,Livestock
+2464,Ouarzazate,5,Berber,Sunni,Grain
+2465,Oudja,7,Berber,Sunni,Wool
+2466,Draa,10,Moroccan,Sunni,Spices
+2467,Meknes,10,Moroccan,Sunni,Cloth
+2468,Tadla,7,Moroccan,Sunni,Copper
+2469,Dukkala,5,Moroccan,Sunni,Grain
+2470,Haha,5,Berber,Sunni,Grain
+2471,Chott el-Jerid,0,a,a,a
+2472,Ouargla,3,Berber,Ibadi,Slaves
+2473,Souss,12,Tunisian,Sunni,Sugar
+2474,Tajhari,3,Tuareg,Sunni,Unknown
+2475,Djado,3,Tuareg,Sunni,Unknown
+2476,Kumeyaay,6,Piman,Totemism,Unknown
+2477,Yuki,3,Chinook,Totemism,Unknown
+2478,Tachi,3,Yokuts,Totemism,Unknown
+2479,Maidu,3,Yokuts,Totemism,Unknown
+2480,Shasta,3,Chinook,Totemism,Unknown
+2481,Klamath,3,Chinook,Totemism,Unknown
+2482,Kalapuya,3,Chinook,Totemism,Unknown
+2483,Umatilla,3,Chinook,Totemism,Unknown
+2484,Quileute,3,Salish,Totemism,Unknown
+2485,Chehalis,3,Salish,Totemism,Unknown
+2486,Yakima,3,Salish,Totemism,Unknown
+2487,Spokane,3,Salish,Totemism,Unknown
+2488,Palus,3,Salish,Totemism,Unknown
+2489,Bohogue,3,Shoshone,Totemism,Unknown
+2490,Goshute,3,Shoshone,Totemism,Unknown
+2491,Hualapai,3,Piman,Totemism,Unknown
+2492,Chiricahua,3,Apache,Totemism,Unknown
+2493,Hopi,3,Pueblo,Totemism,Unknown
+2494,Zuni,3,Pueblo,Totemism,Wool
+2495,Acoma,5,Pueblo,Totemism,Grain
+2496,Jicarilla,3,Mescalero,Totemism,Unknown
+2497,Lipiyanes,3,Lipan,Totemism,Unknown
+2498,Jumao,3,Mescalero,Totemism,Unknown
+2499,Coahuilteco,3,Lipan,Totemism,Unknown
+2500,Querecho,3,Lipan,Totemism,Unknown
+2501,Piegan,3,Blackfoot,Totemism,Unknown
+2502,Haaninin,3,Blackfoot,Totemism,Fur
+2503,Ashshipite,3,Kiowa,Totemism,Unknown
+2504,Eelalapito,3,Blackfoot,Totemism,Unknown
+2505,Tsitsistas,3,Pawnee,Totemism,Unknown
+2506,Kuccuntikka,3,Shoshone,Totemism,Unknown
+2507,Baachinena,3,Wichita,Totemism,Unknown
+2508,Skiri,3,Pawnee,Totemism,Unknown
+2509,Utsehta,3,Wichita,Totemism,Unknown
+2510,Mandan,3,Arapaho,Totemism,Unknown
+2511,Itscheabine,3,Nakota,Totemism,Fur
+2512,Wahpekute,3,Dakota,Totemism,Unknown
+2513,Moingwena,3,Illini,Totemism,Unknown
+2514,Michigamea,3,Illini,Totemism,Unknown
+2515,Satuskhdin,3,Yoron,Totemism,Unknown
+2516,Adai,4,Caddo,Totemism,Unknown
+2517,Mdewakanton,3,Dakota,Totemism,Fur
+2518,Noquet,3,Anishinabe,Totemism,Unknown
+2519,Kilatika,3,Miami,Totemism,Unknown
+2520,Mengkonkia,3,Miami,Totemism,Unknown
+2521,Okouara,4,Anishinabe,Totemism,Unknown
+2522,Mascouten,3,Mesquakie,Totemism,Unknown
+2523,Piankeshaw,3,Miami,Totemism,Unknown
+2524,Wabash,3,Osage,Totemism,Grain
+2525,Chillicothe,3,Shawnee,Totemism,Fur
+2526,Shatteras,3,Shawnee,Totemism,Fur
+2527,Chickamauga,3,Creek,Totemism,Fur
+2528,Yazoo,5,Natchez,Totemism,Cotton
+2529,Natchez,3,Natchez,Totemism,Cotton
+2530,Biloxi,5,Choctaw,Totemism,Unknown
+2531,Napochi,3,Creek,Totemism,Tobacco
+2532,Tohome,5,Choctaw,Totemism,Grain
+2533,Chatot,3,Creek,Totemism,Unknown
+2534,Yustaga,3,Yamasee,Totemism,Unknown
+2535,Calusa,3,Yamasee,Totemism,Unknown
+2536,Mayaimi,3,Arawak,Totemism,Unknown
+2537,Hitchiti,3,Yamasee,Totemism,Cotton
+2538,Yamasee,3,Yamasee,Totemism,Cotton
+2539,Mocama,3,Yamasee,Totemism,Unknown
+2540,Coweta,3,Creek,Totemism,Tobacco
+2541,Saluda,5,Catawba,Totemism,Unknown
+2542,Cusabo,5,Catawba,Totemism,Unknown
+2543,Waccamaw,5,Catawba,Totemism,Unknown
+2544,Yadkin,5,Catawba,Totemism,Unknown
+2545,Waxhaw,3,Catawba,Totemism,Unknown
+2546,Chicora,5,Catawba,Totemism,Unknown
+2547,Roanoke,5,Powhatan,Totemism,Unknown
+2548,Tutelo,5,Yuchi,Totemism,Unknown
+2549,Moratok,3,Powhatan,Totemism,Unknown
+2550,Doeg,5,Powhatan,Totemism,Unknown
+2551,Monongahela,3,Shawnee,Totemism,Unknown
+2552,Manahoac,3,Susquehannock,Totemism,Unknown
+2553,Potomac,5,Susquehannock,Totemism,Unknown
+2554,Nanticoke,5,Powhatan,Totemism,Unknown
+2555,Honniasont,5,Tionontate,Totemism,Unknown
+2556,Juniata,3,Susquehannock,Totemism,Unknown
+2557,Atrakwaye,3,Susquehannock,Totemism,Grain
+2558,Espachomy,5,Delaware,Totemism,Unknown
+2559,Adirondack,3,Iroquois,Totemism,Unknown
+2560,Quinnipiac,5,Pequot,Totemism,Unknown
+2561,Wampanoag,6,Massachusset,Totemism,Unknown
+2562,Pennacook,5,Massachusset,Totemism,Unknown
+2563,Missiquoi,5,Abenaki,Totemism,Unknown
+2564,Sokoki,3,Abenaki,Totemism,Fur
+2565,Kennebec,3,Abenaki,Totemism,Unknown
+2566,Passamaquoddy,5,Maliseet,Totemism,Unknown
+2567,Aroostook,3,Maliseet,Totemism,Unknown
+2568,Kespukwitk,5,Mikmaq,Totemism,Unknown
+2569,Eskikewakik,5,Mikmaq,Totemism,Unknown
+2570,Wolystoq,5,Maliseet,Totemism,Unknown
+2571,Madawaska,3,Maliseet,Totemism,Unknown
+2572,Siknikt,5,Mikmaq,Totemism,Unknown
+2573,Placentia,5,Innu,Totemism,Unknown
+2574,Sikumiut,3,Inuit,Totemism,Unknown
+2575,Naskapi,3,Innu,Totemism,Unknown
+2576,Mingan,3,Innu,Totemism,Unknown
+2577,Manicouagan,3,Innu,Totemism,Unknown
+2578,Anticosti,3,Innu,Totemism,Unknown
+2579,Piekougami,3,Innu,Totemism,Fur
+2580,Atikamekw,3,Algonquin,Totemism,Unknown
+2581,Timiskaming,3,Algonquin,Totemism,Unknown
+2582,Maliseet,3,Maliseet,Totemism,Unknown
+2583,Etchemins,5,Laurentian,Totemism,Unknown
+2584,Loup,5,Laurentian,Totemism,Unknown
+2585,Kichesipi,5,Huron,Totemism,Fur
+2586,Tionontate,5,Tionontate,Totemism,Tobacco
+2587,Odawa,3,Anishinabe,Totemism,Fur
+2588,Piscatang,3,Cree,Totemism,Unknown
+2589,Kesagami,3,Cree,Totemism,Fur
+2590,Shaggami,3,Cree,Totemism,Unknown
+2591,Outoulibi,3,Cree,Totemism,Unknown
+2592,Omushkego,4,Cree,Totemism,Unknown
+2593,Wappus,3,Bungi,Totemism,Unknown
+2594,Quenebigon,3,Cree,Totemism,Unknown
+2595,Kesyehotinne,3,Chipewyan,Totemism,Unknown
+2596,Mahmikiwiniyak,3,Plains Cree,Totemism,Unknown
+2597,Sipiwininiwak,3,Chipewyan,Totemism,Unknown
+2598,Hebina,3,Blackfoot,Totemism,Unknown
+2599,Athabasca,3,Chipewyan,Totemism,Unknown
+2600,Nihithawak,3,Chipewyan,Totemism,Unknown
+2601,Danezaa,4,Athabascan,Totemism,Unknown
+2602,Siksikawa,3,Blackfoot,Totemism,Unknown
+2603,Sekani,3,Athabascan,Totemism,Unknown
+2604,Dakelh,4,Athabascan,Totemism,Unknown
+2605,Secwepemc,4,Athabascan,Totemism,Unknown
+2606,Tsilhoqotin,4,Athabascan,Totemism,Unknown
+2607,Okanagan,4,Salish,Totemism,Unknown
+2608,Rocky Mountains,0,a,a,a
+2609,Nisga'a,3,Chinook,Totemism,Unknown
+2610,Heiltsuk,5,Salish,Totemism,Unknown
+2611,Kodiak,3,Aleutian,Totemism,Unknown
+2612,Eyak,3,Haida,Totemism,Unknown
+2613,Sitka,3,Haida,Totemism,Unknown
+2614,Cotoname,3,Chichimecan,Animism,Unknown
+2615,Guamares,3,Guamares,Animism,Gold
+2616,Seri,3,Piman,Totemism,Unknown
+2617,Huichol,3,Tepic,Nahuatl,Wool
+2618,Toboso,3,Chichimecan,Animism,Unknown
+2619,Laguneros,3,Chichimecan,Animism,Unknown
+2620,Nakipa,3,Piman,Totemism,Unknown
+2621,Tizapan,7,Tepic,Nahuatl,Grain
+2622,Cuitzeo,7,Purepecha,Nahuatl,Grain
+2623,Cutzamala,7,Matlatzinca,Nahuatl,Sugar
+2624,Patzcuaro,9,Purepecha,Nahuatl,Grain
+2625,Hinonoeino,3,Wichita,Totemism,Unknown
+2626,Tulucan,7,Matlatzinca,Nahuatl,Gold
+2627,Cihuatlan,5,Tlapanec,Nahuatl,Gems
+2628,Tepeacac,5,Aztek,Nahuatl,Grain
+2629,Coyolapan,5,Mixtec,Nahuatl,Gold
+2630,Tochtepec,5,Chontales,Mayan,Fish
+2631,Zaachila,5,Chontales,Mayan,Fish
+2632,Xicallanco,5,Chontales,Mayan,Cocoa
+2633,Mani,9,Yucatec,Mayan,Cocoa
+2634,Uaymil,7,Yucatec,Mayan,Cocoa
+2635,Chiapas,5,Lacandon,Mayan,Cocoa
+2636,Chacujal,5,Highland Mayan,Mayan,Gems
+2637,Chortli,3,Highland Mayan,Mayan,Naval Supplies
+2638,Xoconochco,7,Zapotek,Nahuatl,Cocoa
+2639,Raritan,5,Delaware,Totemism,Unknown
+2640,Lenca,3,Miskito,Animism,Unknown
+2641,Tziccoac,3,Wastek,Mayan,Sugar
+2642,Metztitlan,3,Otomi,Nahuatl,Grain
+2643,Apatzingan,5,Purepecha,Nahuatl,Grain
+2644,Cholula,9,Aztek,Nahuatl,Sugar
+2645,Teloloapan,5,Aztek,Nahuatl,Gold
+2646,Coixtlahuacan,7,Mixtec,Nahuatl,Dyes
+2647,Cuetlaxtlan,5,Totonac,Nahuatl,Sugar
+2648,Yopitzinco,7,Tlapanec,Nahuatl,Fish
+2649,Tehuantepec,5,Zapotek,Nahuatl,Fish
+2650,Champutun,7,Yucatec,Mayan,Cocoa
+2651,Ah Canul,7,Yucatec,Mayan,Cocoa
+2652,Ecab,7,Yucatec,Mayan,Fish
+2653,Iximche,7,Highland Mayan,Mayan,Gems
+2654,Baracoa,5,Arawak,Animism,Unknown
+2655,Bayamo,6,Arawak,Animism,Unknown
+2656,Camaguey,5,Arawak,Animism,Unknown
+2657,Colima,9,Tecos,Nahuatl,Fish
+2658,Maguana,5,Arawak,Animism,Unknown
+2659,Magua,4,Arawak,Animism,Unknown
+2660,Managua,3,Miskito,Animism,Unknown
+2661,Uluas,3,Miskito,Animism,Unknown
+2662,Olancho,3,Miskito,Animism,Unknown
+2663,Nicoya,3,Muisca,Animism,Unknown
+2664,Veraguas,3,Muisca,Animism,Unknown
+2665,Ais,4,Caddo,Totemism,Unknown
+2666,Tuintsunde,3,Lipan,Totemism,Unknown
+2667,Cacaxtes,3,Lipan,Totemism,Unknown
+2668,Borrado,3,Wastek,Totemism,Unknown
+2669,Hasinai,3,Caddo,Totemism,Unknown
+2670,Tkaronto,5,Huron,Totemism,Tobacco
+2671,Mississage,4,Anishinabe,Totemism,Unknown
+2672,Kitkehaki,3,Pawnee,Totemism,Unknown
+2673,Pasai,15,Acehnese,Sunni,Spices
+2674,Peureulak,11,Acehnese,Sunni,Spices
+2675,Rokan,8,Sumatran,Sunni,Fish
+2676,Indragiri,7,Sumatran,Sunni,Copper
+2677,Jambi,9,Sumatran,Sunni,Incense
+2678,Bangka,7,Sumatran,Hinduism,Unknown
+2679,Belitung,7,Sumatran,Hinduism,Unknown
+2680,Muko-Muko,6,Sumatran,Hinduism,Grain
+2681,Pagarruyung,9,Sumatran,Buddhism,Gold
+2682,Pariaman,6,Sumatran,Hinduism,Grain
+2683,Mentawai,3,Sumatran,Hinduism,Unknown
+2684,Nias,3,Sumatran,Hinduism,Unknown
+2685,Gayo,7,Acehnese,Sunni,Tropical Wood
+2686,Bintan,7,Malayan,Sunni,Naval Supplies
+2687,Pakuan,11,Sundanese,Hinduism,Grain
+2688,Sumedang,8,Sundanese,Hinduism,Spices
+2689,Pekalongan,6,Javanese,Hinduism,Naval Supplies
+2690,Pajang,13,Javanese,Hinduism,Grain
+2691,Kediri,6,Javanese,Hinduism,Fish
+2692,Madura,5,Javanese,Hinduism,Tropical Wood
+2693,Lombok,6,Nusa Tenggara,Animism,Unknown
+2694,East Gangwon,3,Korean,Confucianism,Fish
+2695,East Timor,9,Nusa Tenggara,Animism,Unknown
+2696,Yamdena,9,Moluccan,Animism,Unknown
+2697,Tondo,12,Filipino,Animism,Spices
+2698,Pangasinan,6,Filipino,Animism,Salt
+2699,Bikol,6,Filipino,Animism,Unknown
+2700,Panay,9,Filipino,Animism,Grain
+2701,Tagloc,6,Filipino,Animism,Unknown
+2702,Butuan,6,Filipino,Animism,Gems
+2703,Lehad Datu,8,Bornean,Sunni,Spices
+2704,Sibu,10,Bornean,Sunni,Spices
+2705,Sigalang,8,Bornean,Sunni,Gems
+2706,Katapang,6,Bornean,Hinduism,Unknown
+2707,Barito,6,Bornean,Hinduism,Unknown
+2708,Sampit,5,Bornean,Hinduism,Unknown
+2709,Tarakan,6,Bornean,Hinduism,Fish
+2710,Sambaliung,6,Bornean,Hinduism,Fish
+2711,Bulungan,7,Bornean,Hinduism,Tropical Wood
+2712,Samarinda,8,Bornean,Hinduism,Spices
+2713,Gorontalo,5,Sulawesi,Animism,Unknown
+2714,Palu,8,Sulawesi,Animism,Unknown
+2715,Palopo,9,Sulawesi,Animism,Iron
+2716,Buton,8,Sulawesi,Animism,Spices
+2717,Sula,5,Moluccan,Animism,Unknown
+2718,Fak-Fak,3,Papuan,Animism,Unknown
+2719,Madang,3,Papuan,Animism,Unknown
+2720,Lae,3,Papuan,Animism,Unknown
+2721,Kerema,3,Papuan,Animism,Unknown
+2722,Daru,3,Papuan,Animism,Unknown
+2723,Yos Sudarso,3,Papuan,Animism,Unknown
+2724,Asmat,3,Papuan,Animism,Unknown
+2725,Aru,3,Moluccan,Animism,Unknown
+2726,Malgana,5,Nyoongah,Dreamtime,Naval Supplies
+2727,Minang,6,Nyoongah,Dreamtime,Unknown
+2728,Tiwi,5,Gunwinyguan,Dreamtime,Fish
+2729,Yolngu,5,Gunwinyguan,Dreamtime,Cloth
+2730,Awngthim,5,Paman,Dreamtime,Tropical Wood
+2731,Guugu Yimithirr,5,Paman,Dreamtime,Unknown
+2732,Wulgurukaba,5,Paman,Dreamtime,Unknown
+2733,Baiali,8,Paman,Dreamtime,Unknown
+2734,Yuin,8,Aboriginal,Dreamtime,Unknown
+2735,Gunditjmara,5,Kulin,Dreamtime,Unknown
+2736,Nukunu,7,Yura,Dreamtime,Unknown
+2737,Wairarapa,7,Maori,Animism,Naval Supplies
+2738,Te Tau Ihu,4,Maori,Animism,Iron
+2739,Waikato,10,Maori,Animism,Fish
+2740,Borneo,0,a,a,a
+2741,Jeju,3,Korean,Confucianism,Fish
+2742,Yukjin,3,Manchu,Confucianism,Naval Supplies
+2743,North Hamgyeong,3,Manchu,Confucianism,Fur
+2744,Nyeongbyeon,6,Korean,Confucianism,Naval Supplies
+2745,Gyengju,12,Korean,Confucianism,Tea
+2746,Vidin,6,Bulgarian,Orthodox,Grain
+2747,Khara Narin Ula,3,Mongol,Vajrayana,Livestock
+2748,Jianchang,6,Yi,Animism,Grain
+2749,Tikhvin,11,Novgorodian,Orthodox,Iron
+2750,Plovdiv,9,Bulgarian,Orthodox,Grain
+2751,Cuenca,11,Castillian,Catholic,Wool
+2752,Sogn,3,Norwegian,Catholic,Fish
+2753,Narbonne,13,Occitain,Catholic,Wine
+2754,La Mancha,9,Castillian,Catholic,Gold
+2755,Soria,5,Castillian,Catholic,Wool
+2756,Welayta,6,Sidamo,Fetishist,Coffee
+2757,Kaffa,11,Sidamo,Coptic,Gold
+2758,Illubabor,7,Sidamo,Coptic,Slaves
+2759,Gambela,3,Sidamo,Fetishist,Slaves
+2760,Hadiya,8,Sidamo,Sunni,Grain
+2761,Arsi,4,Amhara,Sunni,Coffee
+2762,Damot,7,Amhara,Coptic,Gold
+2763,Asosa,6,Amhara,Coptic,Slaves
+2764,Aussa,5,Afar,Sunni,Livestock
+2765,Assab,3,Afar,Sunni,Livestock
+2766,Mendefera,6,Tigray,Coptic,Grain
+2767,Enderta,4,Tigray,Coptic,Copper
+2768,Angot,3,Afar,Sunni,Livestock
+2769,Lasta,6,Amhara,Coptic,Grain
+2770,Agew,5,Amhara,Coptic,Grain
+2771,Semien,4,Amhara,Jewish,Grain
+2772,Dembiya,6,Amhara,Jewish,Cotton
+2773,Mora,3,Harari,Sunni,Coffee
+2774,Kismayo,6,Somali,Sunni,Fish
+2775,Merca,5,Somali,Sunni,Naval Supplies
+2776,Afgooye,3,Somali,Sunni,Grain
+2777,Bardera,3,Somali,Sunni,Grain
+2778,Werder,3,Somali,Sunni,Slaves
+2779,Afder,3,Somali,Sunni,Livestock
+2780,Beledweyne,3,Somali,Sunni,Livestock
+2781,Gedo,3,Somali,Sunni,Grain
+2782,Warsheikh,5,Somali,Sunni,Livestock
+2783,Hobyo,3,Somali,Sunni,Grain
+2784,Galkayo,3,Somali,Sunni,Livestock
+2785,El Buur,3,Somali,Sunni,Iron
+2786,Bosaso,8,Somali,Sunni,Incense
+2787,Hamasien,6,Tigray,Coptic,Grain
+2788,Hafun,5,Somali,Sunni,Incense
+2789,Las Khorey,5,Somali,Sunni,Incense
+2790,Sanaag,4,Somali,Sunni,Incense
+2791,Ankober,3,Amhara,Sunni,Grain
+2792,Togdheer,3,Somali,Sunni,Slaves
+2793,Hargeisa,6,Somali,Sunni,Slaves
+2794,Barawa,5,Somali,Sunni,Livestock
+2795,Meregh,5,Somali,Sunni,Livestock
+2796,Pate,8,Swahili,Sunni,Cloth
+2797,Shendy,4,Nubian,Sunni,Grain
+2798,Soba,7,Nubian,Coptic,Grain
+2799,Sennar,4,Nubian,Coptic,Livestock
+2800,Kosti,3,Nubian,Fetishist,Unknown
+2801,Medwa,3,Tunjur,Fetishist,Unknown
+2802,Kobbe.txt,3,Tunjur,Fetishist,Unknown
+2803,Delta,4,Carib,Animism,Unknown
+2804,Guasipati,3,Carib,Animism,Unknown
+2805,Uyapari,3,Carib,Animism,Coffee
+2806,Guajira,3,Guajiro,Animism,Unknown
+2807,Altagracia,7,Carib,Animism,Unknown
+2808,Coro,3,Guajiro,Animism,Unknown
+2809,Llanos,4,Guajiro,Animism,Unknown
+2810,Apure,3,Guajiro,Animism,Unknown
+2811,Atabapo,3,Guajiro,Animism,Unknown
+2812,Pore,3,Carib,Animism,Unknown
+2813,Merida,6,Carib,Animism,Unknown
+2814,Meta,3,Carib,Animism,Unknown
+2815,Puerto Carreno,3,Guajiro,Animism,Unknown
+2816,Guavire,3,Guajiro,Animism,Unknown
+2817,Neiva,10,Muisca,Inti,Unknown
+2818,Popayan,5,Muisca,Inti,Unknown
+2819,Darien,3,Muisca,Animism,Unknown
+2820,Esmeraldas,7,Cara,Inti,Fish
+2821,Piwra,3,Chimuan,Inti,Fish
+2822,Tucume,3,Chimuan,Inti,Cloth
+2823,Moyobamba,3,Chachapoyan,Inti,Tropical Wood
+2824,Wankapampa,8,Inca,Inti,Wool
+2825,Pisqupampa,3,Inca,Inti,Grain
+2826,Chimbote,3,Chimuan,Inti,Cocoa
+2827,Huaraz,5,Inca,Inti,Grain
+2828,Camana,5,Aimara,Inti,Unknown
+2829,Ayaviri,8,Aimara,Inti,Wool
+2830,Quero,3,Inca,Inti,Wool
+2831,Tiahuanaco,8,Aimara,Inti,Grain
+2832,Exaltacion,3,Maipurean,Animism,Unknown
+2833,Madre de Dios,3,Maipurean,Animism,Unknown
+2834,Santa Cruz de la Sierra,7,Guarani,Animism,Unknown
+2835,Sucre,9,Aimara,Inti,Cloth
+2836,Tucuman,10,Diaguita,Animism,Unknown
+2837,Santa Catalina,3,Diaguita,Inti,Wool
+2838,Tarija,7,Aimara,Inti,Wool
+2839,Puna de Atacama,3,Diaguita,Animism,Unknown
+2840,Calama,3,Diaguita,Animism,Unknown
+2841,Antofagasta,3,Diaguita,Animism,Unknown
+2842,Santiago del Estero,4,Diaguita,Animism,Unknown
+2843,La Rioja,6,Huarpe,Animism,Unknown
+2844,Chepes,4,Huarpe,Animism,Unknown
+2845,San Juan,4,Huarpe,Animism,Unknown
+2846,Quisquisacate,4,Huarpe,Animism,Unknown
+2847,San Luis,4,Huarpe,Animism,Unknown
+2848,Santa Fe,4,Charruan,Animism,Unknown
+2849,Rosario,3,Charruan,Animism,Unknown
+2850,Montevideo,4,Charruan,Animism,Unknown
+2851,Colonia,3,Charruan,Animism,Unknown
+2852,Salto,3,Charruan,Animism,Unknown
+2853,Yareyu,4,Guarani,Animism,Unknown
+2854,Chaco Central,3,Chacoan,Animism,Unknown
+2855,Misiones,3,Guarani,Animism,Unknown
+2856,Highveld,5,Nguni,Fetishist,Unknown
+2857,Rio Grande do Sul,4,Guarani,Animism,Unknown
+2858,Santiago,3,Guarani,Animism,Unknown
+2859,Itapua,3,Guarani,Animism,Unknown
+2860,Querandi,3,Het,Animism,Unknown
+2861,Sauce,3,Het,Animism,Unknown
+2862,Coquimbo,4,Mapuche,Animism,Unknown
+2863,Rio Negro,3,Het,Animism,Unknown
+2864,Senqu,3,Khoisan,Fetishist,Unknown
+2865,Sergpipe,3,Het,Animism,Unknown
+2866,Jeremoabo,3,Het,Animism,Unknown
+2867,Inhambupe,3,Het,Animism,Unknown
+2868,Pambu,3,Het,Animism,Unknown
+2869,Florida Blanca,3,Patagonian,Animism,Unknown
+2870,Tehuelmapu,3,Patagonian,Animism,Unknown
+2871,Poya,3,Patagonian,Animism,Unknown
+2872,Chiquiyami,4,Huarpe,Animism,Unknown
+2873,Chiloe,3,Mapuche,Animism,Unknown
+2874,Alegoas,3,Patagonian,Animism,Unknown
+2875,Borborema,3,Patagonian,Animism,Unknown
+2876,Teush,3,Patagonian,Animism,Unknown
+2877,Mendoza,6,Huarpe,Animism,Unknown
+2878,Matara,3,Chacoan,Animism,Unknown
+2879,Santa Tecla,3,Guarani,Animism,Unknown
+2880,Griqualand,3,Khoisan,Fetishist,Unknown
+2881,Corumba,4,Maipurean,Animism,Unknown
+2882,Fuerte Borbon,3,Chacoan,Animism,Unknown
+2883,Melodia,3,Chacoan,Animism,Unknown
+2884,Povos das Missoes,3,Guarani,Animism,Tea
+2885,Barra,6,Ge,Animism,Unknown
+2886,Parnaiba,3,Ge,Animism,Unknown
+2887,Santa Catarina,3,Guarani,Animism,Unknown
+2888,Cuiaba,4,Ge,Animism,Unknown
+2889,Rio Branco,3,Carib,Animism,Unknown
+2890,Marajo,3,Tupinamba,Animism,Unknown
+2891,Santa Ana das Minas,3,Ge,Animism,Unknown
+2892,Araxas,4,Ge,Animism,Unknown
+2893,Ofaie,3,Ge,Animism,Unknown
+2894,Sao Joao del Rei,3,Tupinamba,Animism,Unknown
+2895,Castro,3,Guarani,Animism,Unknown
+2896,Campinas,3,Tupinamba,Animism,Unknown
+2897,Araraquara,3,Ge,Animism,Unknown
+2898,Serro,3,Ge,Animism,Unknown
+2899,Vila Rica,6,Ge,Animism,Unknown
+2900,Guapore,3,Maipurean,Animism,Unknown
+2901,Cerejeiras,3,Maipurean,Animism,Unknown
+2902,Vila Bela,3,Guarani,Animism,Unknown
+2903,Caceres,5,Maipurean,Animism,Unknown
+2904,Diamantino,3,Carib,Animism,Unknown
+2905,Rio Das Mortes,3,Ge,Animism,Unknown
+2906,Ipora,3,Ge,Animism,Unknown
+2907,Vila Boa,3,Ge,Animism,Unknown
+2908,Arrial dos Couros,3,Ge,Animism,Unknown
+2909,Conceicao,3,Ge,Animism,Unknown
+2910,Pontal,3,Ge,Animism,Unknown
+2911,Natividad,3,Ge,Animism,Unknown
+2912,Sergpipe,7,Tupinamba,Animism,Unknown
+2913,Jeremoabo,5,Ge,Animism,Unknown
+2914,Inhambupe,3,Ge,Animism,Unknown
+2915,Pambu,4,Ge,Animism,Unknown
+2916,Rio Contas,3,Tupinamba,Animism,Unknown
+2917,Paratinga,3,Ge,Animism,Unknown
+2918,Campo Largo,3,Ge,Animism,Unknown
+2919,Luziana,3,Ge,Animism,Unknown
+2920,Coxim,3,Ge,Animism,Unknown
+2921,Alagoas,6,Tupinamba,Animism,Unknown
+2922,Borborema,3,Ge,Animism,Unknown
+2923,Pastos Bons,3,Ge,Animism,Unknown
+2924,Timon,3,Ge,Animism,Unknown
+2925,Parnagua,3,Ge,Animism,Unknown
+2926,Grajau,3,Ge,Animism,Unknown
+2927,Alcantara,4,Ge,Animism,Unknown
+2928,Tucurui,3,Tupinamba,Animism,Unknown
+2929,Para,3,Tupinamba,Animism,Unknown
+2930,Santarem,4,Tupinamba,Animism,Unknown
+2931,Alenquer,3,Carib,Animism,Unknown
+2932,Obidos,3,Tunjur,Fetishist,Unknown
+2933,Faro,3,Carib,Animism,Unknown
+2934,Manaus,4,Tupinamba,Animism,Unknown
+2935,Muturu,3,Tupinamba,Animism,Unknown
+2936,Guyana,0,a,a,a
+2937,Suriname,3,Carib,Animism,Unknown
+2938,Oiapoque,3,Guajiro,Animism,Unknown
+2939,Zaraza,4,Carib,Animism,Unknown
+2940,Chichas,5,Aimara,Inti,Salt
+2941,Choquechaca,5,Aimara,Inti,Gold
+2942,Charcas,5,Aimara,Inti,Wool
+2943,Chachapoyas,3,Chachapoyan,Inti,Grain
+2944,Ucayali,3,Maipurean,Inti,Unknown
+2945,Yurimaguas,3,Jivaro,Animism,Unknown
+2946,Quillacas,5,Aimara,Inti,Gold
+2947,Macaya,5,Aimara,Inti,Grain
+2948,Matamba,6,Mbundu,Fetishist,Slaves
+2949,Mbata,5,Kongolese,Fetishist,Grain
+2950,Buhera,3,Shona,Fetishist,Ivory
+2951,Manikya,5,Shona,Fetishist,Ivory
+2952,Madanda,3,Shona,Fetishist,Ivory
+2953,Lake Hjalmaren,0,a,a,a
+2954,Djerba,3,Tunisian,Ibadi,Grain
+2955,Ingolstadt,13,Bavarian,Catholic,Wine
+2956,Straubing,9,Bavarian,Catholic,Glass
+2957,Regensburg,13,Bavarian,Catholic,Cloth
+2958,Osterode,5,Prussian,Catholic,Naval Supplies
+2959,Tarnow,8,Polish,Catholic,Grain
+2960,Sadecki,14,Polish,Catholic,Iron
+2961,Lwow,12,Ruthenian,Orthodox,Dyes
+2962,Rowne,3,Ruthenian,Orthodox,Livestock
+2963,Notec,3,Polish,Catholic,Livestock
+2964,Altmark,10,Saxon,Catholic,Cloth
+2965,Vogtland,7,Saxon,Catholic,Wool
+2966,Glogau,9,Schlesian,Catholic,Iron
+2967,Eger,10,Czech,Catholic,Gold
+2968,Budejovice,8,Czech,Catholic,Grain
+2969,Sternberg,7,Saxon,Catholic,Cloth
+2970,Hradecko,8,Czech,Hussite,Grain
+2971,Hoya,5,Hannoverian,Catholic,Livestock
+2972,Paderborn,5,Hannoverian,Catholic,Wool
+2973,Meppen,7,Hannoverian,Catholic,Cloth
+2974,Loon,12,Flemish,Catholic,Cloth
+2975,Kleves,14,Hessian,Catholic,Cloth
+2976,Umbria,8,Umbrian,Catholic,Wine
+2977,Urbino,12,Umbrian,Catholic,Grain
+2978,Arezzo,14,Tuscan,Catholic,Livestock
+2979,Novarra,9,Lombard,Catholic,Grain
+2980,Lucca,14,Tuscan,Catholic,Cloth
+2981,Montferrat,12,Piedmontese,Catholic,Wine
+2982,Syracuse,10,Sicilian,Catholic,Wine
+2983,Salerno,10,Neapolitan,Catholic,Fish
+2984,Costenza,5,Neapolitan,Catholic,Wine
+2985,Capitanata,7,Neapolitan,Catholic,Livestock
+2986,Cagliari,7,Sardinian,Catholic,Copper
+2987,Urgell,8,Catalan,Catholic,Wool
+2988,Tarragona,7,Catalan,Catholic,Wine
+2989,Rioja,5,Castillian,Catholic,Wine
+2990,Teruel,9,Aragonese,Catholic,Iron
+2991,Draguignan,8,Occitain,Catholic,Wool
+2992,Albenga,13,Ligurian,Catholic,Naval Supplies
+2993,Uckermark,8,Pommeranian,Catholic,Cloth
+2994,Wolgast,7,Pommeranian,Catholic,Salt
+2995,Stolp,5,Pommeranian,Catholic,Fish
+2996,Wismar,6,Pommeranian,Catholic,Cloth
+2997,Pomorskie,10,Prussian,Catholic,Grain
+2998,Buzau,10,Romanian,Orthodox,Livestock
+2999,Hormuz,7,Gulf Arabic,Sunni,Gems
+3000,Nis,7,Serbian,Orthodox,Livestock
+3001,Skopje,8,Bulgarian,Orthodox,Copper
+3002,Sarajevo,5,Bosnian,Orthodox,Grain
+3003,Euboea,8,Greek,Orthodox,Fish
+3004,189,110,a,a,a
+3005,190,110,a,a,a
+3006,191,110,a,a,a
+3007,192,110,a,a,a
+3008,193,110,a,a,a
+3009,194,110,a,a,a
+3010,195,110,a,a,a
+3011,196,110,a,a,a
+3012,197,110,a,a,a
+3013,199,110,a,a,a
+3014,200,110,a,a,a
+3015,201,110,a,a,a
+3016,202,110,a,a,a
+3017,203,110,a,a,a
+3018,204,110,a,a,a
+3019,205,110,a,a,a
+3020,206,110,a,a,a
+3021,207,110,a,a,a
+3022,207,110,a,a,a
+3023,207,110,a,a,a
+3024,207,110,a,a,a
+3025,207,110,a,a,a
+3026,207,110,a,a,a
+3027,207,110,a,a,a
+3028,207,110,a,a,a
+3029,207,110,a,a,a
+3030,207,110,a,a,a
+3031,207,110,a,a,a
+3032,207,110,a,a,a
+3033,207,110,a,a,a
+3034,207,110,a,a,a
+3035,207,110,a,a,a
+3036,207,110,a,a,a
+3037,207,110,a,a,a
+3038,207,110,a,a,a
+3039,207,110,a,a,a
+3040,207,110,a,a,a
+3041,207,110,a,a,a
+3042,207,110,a,a,a
+3043,207,110,a,a,a
+3044,207,110,a,a,a
+3045,207,110,a,a,a
+3046,207,110,a,a,a
+3047,207,110,a,a,a
+3048,207,110,a,a,a
+3049,207,110,a,a,a
+3050,207,110,a,a,a
+3051,207,110,a,a,a
+3052,208,110,a,a,a
+3053,207,110,a,a,a
+3054,207,110,a,a,a
+3055,207,110,a,a,a
+3056,207,110,a,a,a
+3057,207,110,a,a,a
+3058,207,110,a,a,a
+3059,207,110,a,a,a
+3060,207,110,a,a,a
+3061,207,110,a,a,a
+3062,207,110,a,a,a
+3063,207,110,a,a,a
+3064,207,110,a,a,a
+3065,207,110,a,a,a
+3066,207,110,a,a,a
+3067,207,110,a,a,a
+3068,207,110,a,a,a
+3069,207,110,a,a,a
+3070,207,110,a,a,a
+3071,207,110,a,a,a
+3072,207,110,a,a,a
+3073,207,110,a,a,a
+3074,207,110,a,a,a
+3075,207,110,a,a,a
+3076,207,110,a,a,a
+3077,207,110,a,a,a
+3078,207,110,a,a,a
+3079,207,110,a,a,a
+3080,207,110,a,a,a
+3081,207,110,a,a,a
+3082,207,110,a,a,a
+3083,207,110,a,a,a
+3084,207,110,a,a,a
+3085,207,110,a,a,a
+3086,207,110,a,a,a
+3087,207,110,a,a,a
+3088,207,110,a,a,a
+3089,207,110,a,a,a
+3090,207,110,a,a,a
+3091,207,110,a,a,a
+3092,207,110,a,a,a
+3093,207,110,a,a,a
+3094,207,110,a,a,a
+3095,207,110,a,a,a
+3096,207,110,a,a,a
+3097,207,110,a,a,a
+3098,207,110,a,a,a
+3099,207,110,a,a,a
+3100,207,110,a,a,a
+3101,207,110,a,a,a
+3102,207,110,a,a,a
+3103,207,110,a,a,a
+3104,207,110,a,a,a
+3105,207,110,a,a,a
+3106,207,110,a,a,a
+3107,207,110,a,a,a
+3108,207,110,a,a,a
+3109,207,110,a,a,a
+3110,207,110,a,a,a
+3111,207,110,a,a,a
+3112,207,110,a,a,a
+3113,207,110,a,a,a
+3114,207,110,a,a,a
+3115,207,110,a,a,a
+3116,207,110,a,a,a
+3117,207,110,a,a,a
+3118,207,110,a,a,a
+3119,207,110,a,a,a
+3120,207,110,a,a,a
+3121,207,110,a,a,a
+3122,207,110,a,a,a
+3123,207,110,a,a,a
+3124,207,110,a,a,a
+3125,207,110,a,a,a
+3126,207,110,a,a,a
+3127,207,110,a,a,a
+3128,207,110,a,a,a
+3129,207,110,a,a,a
+3130,207,110,a,a,a
+3131,207,110,a,a,a
+3132,207,110,a,a,a
+3133,207,110,a,a,a
+3134,207,110,a,a,a
+3135,207,110,a,a,a
+3136,207,110,a,a,a
+3137,207,110,a,a,a
+3138,207,110,a,a,a
+3139,207,110,a,a,a
+3140,207,110,a,a,a
+3141,207,110,a,a,a
+3142,207,110,a,a,a
+3143,207,110,a,a,a
+3144,207,110,a,a,a
+3145,207,110,a,a,a
+3146,207,110,a,a,a
+3147,207,110,a,a,a
+3148,207,110,a,a,a
+3149,207,110,a,a,a
+3150,207,110,a,a,a
+3151,207,110,a,a,a
+3152,207,110,a,a,a
+3153,207,110,a,a,a
+3154,207,110,a,a,a
+3155,207,110,a,a,a
+3156,207,110,a,a,a
+3157,207,110,a,a,a
+3158,207,110,a,a,a
+3159,207,110,a,a,a
+3160,207,110,a,a,a
+3161,207,110,a,a,a
+3162,207,110,a,a,a
+3163,207,110,a,a,a
+3164,207,110,a,a,a
+3165,207,110,a,a,a
+3166,207,110,a,a,a
+3167,207,110,a,a,a
+3168,207,110,a,a,a
+3169,207,110,a,a,a
+3170,207,110,a,a,a
+3171,207,110,a,a,a
+3172,207,110,a,a,a
+3173,207,110,a,a,a
+3174,207,110,a,a,a
+3175,207,110,a,a,a
+3176,207,110,a,a,a
+3177,207,110,a,a,a
+3178,207,110,a,a,a
+3179,207,110,a,a,a
+3180,207,110,a,a,a
+3181,207,140,a,a,a
+3182,207,140,a,a,a
+3183,207,140,a,a,a
+3184,207,140,a,a,a
+3185,207,140,a,a,a
+3186,207,140,a,a,a
+3187,207,140,a,a,a
+3188,207,140,a,a,a
+3189,207,140,a,a,a
+3190,219,32,a,a,a
+3191,219,32,a,a,a
+3192,219,32,a,a,a
+3193,219,32,a,a,a
+3194,219,32,a,a,a
+3195,219,32,a,a,a
+3196,219,32,a,a,a
+3197,219,32,a,a,a
+3198,219,32,a,a,a
+3199,219,32,a,a,a
+3200,219,32,a,a,a
+3201,219,32,a,a,a
+3202,219,32,a,a,a
+3203,219,32,a,a,a
+3204,219,32,a,a,a
+3205,219,32,a,a,a
+3206,219,32,a,a,a
+3207,219,32,a,a,a
+3208,219,32,a,a,a
+3209,219,32,a,a,a
+3210,219,32,a,a,a
+3211,219,32,a,a,a
+3212,219,32,a,a,a
+3213,219,32,a,a,a
+3214,219,32,a,a,a
+3215,219,32,a,a,a
+3216,219,32,a,a,a
+3217,219,32,a,a,a
+3218,219,32,a,a,a
+3219,219,32,a,a,a
+3220,219,32,a,a,a
+3221,219,32,a,a,a
+3222,219,32,a,a,a
+3223,219,32,a,a,a
+3224,219,32,a,a,a
+3225,219,32,a,a,a
+3226,219,32,a,a,a
+3227,219,32,a,a,a
+3228,219,32,a,a,a
+3229,219,32,a,a,a
+3230,219,32,a,a,a
+3231,219,32,a,a,a
+3232,219,32,a,a,a
+3233,219,32,a,a,a
+3234,219,32,a,a,a
+3235,219,32,a,a,a
+3236,219,32,a,a,a
+3237,219,32,a,a,a
+3238,219,32,a,a,a
+3239,219,32,a,a,a
+3240,219,32,a,a,a
+3241,219,32,a,a,a
+3242,219,32,a,a,a
+3243,219,32,a,a,a
+3244,219,32,a,a,a
+3245,219,32,a,a,a
+3246,219,32,a,a,a
+3247,219,32,a,a,a
+3248,219,32,a,a,a
+3249,219,32,a,a,a
+3250,219,32,a,a,a
+3251,219,32,a,a,a
+3252,219,32,a,a,a
+3253,219,32,a,a,a
+3254,219,32,a,a,a
+3255,219,32,a,a,a
+3256,219,32,a,a,a
+3257,219,32,a,a,a
+3258,219,32,a,a,a
+3259,219,32,a,a,a
+3260,219,32,a,a,a
+3261,219,32,a,a,a
+3262,219,32,a,a,a
+3263,219,32,a,a,a
+3264,219,32,a,a,a
+3265,219,32,a,a,a
+3266,219,32,a,a,a
+3267,219,32,a,a,a
+3268,219,32,a,a,a
+3269,219,32,a,a,a
+3270,219,32,a,a,a
+3271,219,32,a,a,a
+3272,219,32,a,a,a
+3273,219,32,a,a,a
+3274,219,32,a,a,a
+3275,219,32,a,a,a
+3276,219,32,a,a,a
+3277,219,32,a,a,a
+3278,219,32,a,a,a
+3279,219,32,a,a,a
+3280,219,32,a,a,a
+3281,219,32,a,a,a
+3282,219,32,a,a,a
+3283,219,32,a,a,a
+3284,219,32,a,a,a
+3285,219,32,a,a,a
+3286,219,32,a,a,a
+3287,219,32,a,a,a
+3288,219,32,a,a,a
+3289,219,32,a,a,a
+3290,219,32,a,a,a
+3291,219,32,a,a,a
+3292,219,32,a,a,a
+3293,219,32,a,a,a
+3294,219,32,a,a,a
+3295,219,32,a,a,a
+3296,219,32,a,a,a
+3297,219,32,a,a,a
+3298,219,32,a,a,a
+3299,219,32,a,a,a
+3300,219,32,a,a,a
+3301,219,32,a,a,a
+3302,219,32,a,a,a
+3303,219,32,a,a,a
+3304,219,32,a,a,a
+3305,219,32,a,a,a
+3306,219,32,a,a,a
+3307,219,32,a,a,a
+3308,219,32,a,a,a
+3309,219,32,a,a,a
+3310,219,32,a,a,a
+3311,219,32,a,a,a
+3312,219,32,a,a,a
+3313,219,32,a,a,a
+3314,219,32,a,a,a
+3315,219,32,a,a,a
+3316,219,32,a,a,a
+3317,219,32,a,a,a
+3318,219,32,a,a,a
+3319,219,32,a,a,a
+3320,219,32,a,a,a
+3321,219,32,a,a,a
+3322,219,32,a,a,a
+3323,219,32,a,a,a
+3324,219,32,a,a,a
+3325,219,32,a,a,a
+3326,219,32,a,a,a
+3327,219,32,a,a,a
+3328,219,32,a,a,a
+3329,219,32,a,a,a
+3330,219,32,a,a,a
+3331,219,32,a,a,a
+3332,219,32,a,a,a
+3333,219,32,a,a,a
+3334,219,32,a,a,a
+3335,219,32,a,a,a
+3336,219,32,a,a,a
+3337,219,32,a,a,a
+3338,219,32,a,a,a
+3339,219,32,a,a,a
+3340,219,32,a,a,a
+3341,219,32,a,a,a
+3342,219,32,a,a,a
+3343,219,32,a,a,a
+3344,219,32,a,a,a
+3345,219,32,a,a,a
+3346,219,32,a,a,a
+3347,219,32,a,a,a
+3348,219,32,a,a,a
+3349,219,32,a,a,a
+3350,219,32,a,a,a
+3351,219,32,a,a,a
+3352,219,32,a,a,a
+3353,219,32,a,a,a
+3354,219,32,a,a,a
+3355,219,32,a,a,a
+3356,219,32,a,a,a
+3357,219,32,a,a,a
+3358,219,32,a,a,a
+3359,219,32,a,a,a
+3360,219,32,a,a,a
+3361,219,32,a,a,a
+3362,219,32,a,a,a
+3363,219,32,a,a,a
+3364,219,32,a,a,a
+3365,219,32,a,a,a
+3366,219,32,a,a,a
+3367,219,32,a,a,a
+3368,219,32,a,a,a
+3369,219,32,a,a,a
+3370,219,32,a,a,a
+3371,219,32,a,a,a
+3372,219,32,a,a,a
+3373,219,32,a,a,a
+3374,219,32,a,a,a
+3375,219,32,a,a,a
+3376,219,32,a,a,a
+3377,219,32,a,a,a
+3378,219,32,a,a,a
+3379,219,32,a,a,a
+3380,219,32,a,a,a
+3381,219,32,a,a,a
+3382,219,32,a,a,a
+3383,219,32,a,a,a
+3384,219,32,a,a,a
+3385,219,32,a,a,a
+3386,219,32,a,a,a
+3387,219,32,a,a,a
+3388,219,32,a,a,a
+3389,219,32,a,a,a
+3390,219,32,a,a,a
+3391,219,32,a,a,a
+3392,219,32,a,a,a
+3393,219,32,a,a,a
+3394,219,32,a,a,a
+3395,219,32,a,a,a
+3396,219,32,a,a,a
+3397,219,32,a,a,a
+3398,219,32,a,a,a
+3399,219,32,a,a,a
+3400,219,32,a,a,a
+3401,219,32,a,a,a
+3402,219,32,a,a,a
+3403,219,32,a,a,a
+3404,219,32,a,a,a
+3405,219,32,a,a,a
+3406,219,32,a,a,a
+3407,219,32,a,a,a
+3408,219,32,a,a,a
+3409,219,32,a,a,a
+3410,219,32,a,a,a
+3411,219,32,a,a,a
+3412,219,32,a,a,a
+3413,219,32,a,a,a
+3414,219,32,a,a,a
+3415,219,32,a,a,a
+3416,219,32,a,a,a
+3417,219,32,a,a,a
+3418,219,32,a,a,a
+3419,219,32,a,a,a
+3420,219,23,a,a,a
+3421,219,23,a,a,a
+3422,219,23,a,a,a
+3423,219,23,a,a,a
+3424,219,23,a,a,a
+3425,219,23,a,a,a
+3426,219,23,a,a,a
+3427,219,23,a,a,a
+3428,219,23,a,a,a
+3429,219,23,a,a,a
+3430,219,23,a,a,a
+3431,219,23,a,a,a
+3432,219,23,a,a,a
+3433,219,23,a,a,a
+3434,219,23,a,a,a
+3435,219,23,a,a,a
+3436,219,23,a,a,a
+3437,219,23,a,a,a
+3438,219,23,a,a,a
+3439,219,23,a,a,a
+3440,219,23,a,a,a
+3441,219,23,a,a,a
+3442,219,23,a,a,a
+3443,219,23,a,a,a
+3444,219,23,a,a,a
+3445,219,23,a,a,a
+3446,219,23,a,a,a
+3447,219,23,a,a,a
+3448,219,23,a,a,a
+3449,219,23,a,a,a
+3450,219,23,a,a,a
+3451,219,23,a,a,a
+3452,219,23,a,a,a
+3453,219,23,a,a,a
+3454,219,23,a,a,a
+3455,219,23,a,a,a
+3456,219,23,a,a,a
+3457,219,23,a,a,a
+3458,219,23,a,a,a
+3459,219,23,a,a,a
+3460,219,23,a,a,a
+3461,219,23,a,a,a
+3462,219,23,a,a,a
+3463,219,23,a,a,a
+3464,219,23,a,a,a
+3465,219,23,a,a,a
+3466,219,23,a,a,a
+3467,219,23,a,a,a
+3468,219,23,a,a,a
+3469,219,23,a,a,a
+3470,219,23,a,a,a
+3471,219,23,a,a,a
+3472,219,23,a,a,a
+3473,219,23,a,a,a
+3474,219,23,a,a,a
+3475,219,23,a,a,a
+3476,219,23,a,a,a
+3477,219,23,a,a,a
+3478,219,23,a,a,a
+3479,219,23,a,a,a
+3480,219,23,a,a,a
+3481,219,23,a,a,a
+3482,219,23,a,a,a
+3483,219,23,a,a,a
+3484,219,23,a,a,a
+3485,219,23,a,a,a
+3486,219,23,a,a,a
+3487,219,23,a,a,a
+3488,219,23,a,a,a
+3489,219,23,a,a,a
+3490,219,23,a,a,a
+3491,219,23,a,a,a
+3492,219,23,a,a,a
+3493,219,23,a,a,a
+3494,219,23,a,a,a
+3495,219,23,a,a,a
+3496,219,23,a,a,a
+3497,219,23,a,a,a
+3498,219,23,a,a,a
+3499,219,23,a,a,a
+3500,219,23,a,a,a
+3501,219,23,a,a,a
+3502,219,23,a,a,a
+3503,219,23,a,a,a
+3504,219,23,a,a,a
+3505,219,23,a,a,a
+3506,219,23,a,a,a
+3507,219,23,a,a,a
+3508,219,23,a,a,a
+3509,219,24,a,a,a
+3510,219,24,a,a,a
+3511,219,24,a,a,a
+3512,219,24,a,a,a
+3513,219,24,a,a,a
+3514,219,24,a,a,a
+3515,219,24,a,a,a
+3516,219,24,a,a,a
+3517,219,24,a,a,a
+3518,219,24,a,a,a
+3519,219,24,a,a,a
+3520,219,24,a,a,a
+3521,219,24,a,a,a
+3522,219,24,a,a,a
+3523,219,24,a,a,a
+3524,219,24,a,a,a
+3525,219,24,a,a,a
+3526,219,24,a,a,a
+3527,219,24,a,a,a
+3528,219,24,a,a,a
+3529,219,24,a,a,a
+3530,219,24,a,a,a
+3531,219,24,a,a,a
+3532,219,24,a,a,a
+3533,219,24,a,a,a
+3534,219,24,a,a,a
+3535,219,24,a,a,a
+3536,219,24,a,a,a
+3537,219,24,a,a,a
+3538,219,24,a,a,a
+3539,219,24,a,a,a
+3540,219,24,a,a,a
+3541,219,24,a,a,a
+3542,219,24,a,a,a
+3543,219,24,a,a,a
+3544,219,24,a,a,a
+3545,219,24,a,a,a
+3546,219,24,a,a,a
+3547,219,24,a,a,a
+3548,219,24,a,a,a
+3549,219,24,a,a,a
+3550,219,24,a,a,a
+3551,225,25,a,a,a
+3552,225,25,a,a,a
+3553,225,25,a,a,a
+3554,225,25,a,a,a
+3555,225,25,a,a,a
+3556,225,25,a,a,a
+3557,225,25,a,a,a
+3558,225,25,a,a,a
+3559,225,25,a,a,a
+3560,225,25,a,a,a
+3561,225,25,a,a,a
+3562,225,25,a,a,a
+3563,225,25,a,a,a
+3564,225,25,a,a,a
+3565,225,25,a,a,a
+3566,225,25,a,a,a
+3567,225,25,a,a,a
+3568,225,25,a,a,a
+3569,225,25,a,a,a
+3570,225,25,a,a,a
+3571,225,25,a,a,a
+3572,225,25,a,a,a
+3573,225,25,a,a,a
+3574,225,25,a,a,a
+3575,225,25,a,a,a
+3576,225,25,a,a,a
+3577,225,25,a,a,a
+3578,225,25,a,a,a
+3579,225,25,a,a,a
+3580,225,25,a,a,a
+3581,225,25,a,a,a
+3582,225,25,a,a,a
+3583,225,25,a,a,a
+3584,225,25,a,a,a
+3585,225,25,a,a,a
+3586,225,25,a,a,a
+3587,225,25,a,a,a
+3588,225,25,a,a,a
+3589,225,25,a,a,a
+3590,225,25,a,a,a
+3591,225,25,a,a,a
+3592,225,25,a,a,a
+3593,225,25,a,a,a
+3594,225,25,a,a,a
+3595,225,25,a,a,a
+3596,225,25,a,a,a
+3597,225,25,a,a,a
+3598,225,25,a,a,a
+3599,225,25,a,a,a
+3600,225,25,a,a,a
+3601,225,25,a,a,a
+3602,225,25,a,a,a
+3603,225,25,a,a,a
+3604,225,25,a,a,a
+3605,225,25,a,a,a
+3606,225,25,a,a,a
+3607,225,25,a,a,a
+3608,225,25,a,a,a
+3609,225,25,a,a,a
+3610,225,25,a,a,a
+3611,225,25,a,a,a
+3612,225,25,a,a,a
+3613,225,25,a,a,a
+3614,225,25,a,a,a
+3615,225,25,a,a,a
+3616,225,25,a,a,a
+3617,225,25,a,a,a
+3618,225,25,a,a,a
+3619,225,25,a,a,a
+3620,100,10,a,a,a
+3621,100,10,a,a,a
+3622,100,10,a,a,a
+3623,100,10,a,a,a
+3624,100,10,a,a,a
+3625,100,10,a,a,a
+3626,100,10,a,a,a
+3627,100,10,a,a,a
+3628,100,10,a,a,a
+3629,100,10,a,a,a
+3630,100,10,a,a,a
+3631,100,10,a,a,a
+3632,100,10,a,a,a
+3633,100,10,a,a,a
+3634,100,10,a,a,a
+3635,100,10,a,a,a
+3636,100,10,a,a,a
+3637,100,10,a,a,a
+3638,100,10,a,a,a
+3639,100,10,a,a,a
+3640,100,10,a,a,a
+3641,100,10,a,a,a
+3642,100,10,a,a,a
+3643,100,10,a,a,a
+3644,100,10,a,a,a
+3645,100,10,a,a,a
+3646,100,10,a,a,a
+3647,100,10,a,a,a
+3648,100,10,a,a,a
+3649,100,10,a,a,a
+3650,100,10,a,a,a
+3651,100,10,a,a,a
+3652,100,10,a,a,a
+3653,100,10,a,a,a
+3654,100,10,a,a,a
+3655,100,10,a,a,a
+3656,100,10,a,a,a
+3657,100,10,a,a,a
+3658,100,10,a,a,a
+3659,100,10,a,a,a
+3660,100,10,a,a,a
+3661,100,10,a,a,a
+3662,100,10,a,a,a
+3663,100,10,a,a,a
+3664,100,10,a,a,a
+3665,100,10,a,a,a
+3666,100,10,a,a,a
+3667,100,10,a,a,a
+3668,100,10,a,a,a
+3669,100,10,a,a,a
+3670,100,10,a,a,a
+3671,100,10,a,a,a
+3672,100,10,a,a,a
+3673,100,10,a,a,a
+3674,100,10,a,a,a
+3675,100,10,a,a,a
+3676,100,10,a,a,a
+3677,100,10,a,a,a
+3678,100,10,a,a,a
+3679,100,10,a,a,a
+3680,100,10,a,a,a
+3681,100,10,a,a,a
+3682,100,10,a,a,a
+3683,100,10,a,a,a
+3684,100,10,a,a,a
+3685,100,10,a,a,a
+3686,100,10,a,a,a
+3687,100,10,a,a,a
+3688,100,10,a,a,a
+3689,100,10,a,a,a
+3690,100,10,a,a,a
+3691,100,10,a,a,a
+3692,100,10,a,a,a
+3693,100,10,a,a,a
+3694,100,10,a,a,a
+3695,100,10,a,a,a
+3696,100,10,a,a,a
+3697,100,10,a,a,a
+3698,100,10,a,a,a
+3699,100,10,a,a,a
+3700,100,11,a,a,a
+3701,100,11,a,a,a
+3702,100,11,a,a,a
+3703,100,11,a,a,a
+3704,100,11,a,a,a
+3705,100,11,a,a,a
+3706,100,11,a,a,a
+3707,100,11,a,a,a
+3708,100,11,a,a,a
+3709,100,11,a,a,a
+3710,100,11,a,a,a
+3711,100,11,a,a,a
+3712,100,11,a,a,a
+3713,100,11,a,a,a
+3714,100,11,a,a,a
+3715,100,11,a,a,a
+3716,100,11,a,a,a
+3717,100,11,a,a,a
+3718,100,11,a,a,a
+3719,100,11,a,a,a
+3720,100,11,a,a,a
+3721,100,11,a,a,a
+3722,100,11,a,a,a
+3723,100,11,a,a,a
+3724,100,11,a,a,a
+3725,100,11,a,a,a
+3726,100,11,a,a,a
+3727,100,11,a,a,a
+3728,100,11,a,a,a
+3729,100,11,a,a,a
+3730,100,11,a,a,a
+3731,100,11,a,a,a
+3732,100,11,a,a,a
+3733,100,11,a,a,a
+3734,100,11,a,a,a
+3735,100,11,a,a,a
+3736,100,11,a,a,a
+3737,100,11,a,a,a
+3738,100,11,a,a,a
+3739,100,11,a,a,a
+3740,100,11,a,a,a
+3741,100,11,a,a,a
+3742,100,11,a,a,a
+3743,100,11,a,a,a
+3744,100,11,a,a,a
+3745,100,11,a,a,a
+3746,100,11,a,a,a
+3747,100,11,a,a,a
+3748,100,11,a,a,a
+3749,100,11,a,a,a
+3750,100,11,a,a,a
+3751,100,11,a,a,a
+3752,100,11,a,a,a
+3753,100,11,a,a,a
+3754,100,11,a,a,a
+3755,100,11,a,a,a
+3756,100,11,a,a,a
+3757,100,11,a,a,a
+3758,100,11,a,a,a
+3759,100,11,a,a,a
+3760,100,11,a,a,a
+3761,100,11,a,a,a
+3762,100,11,a,a,a
+3763,100,11,a,a,a
+3764,100,11,a,a,a
+3765,100,11,a,a,a
+3766,100,11,a,a,a
+3767,100,11,a,a,a
+3768,100,11,a,a,a
+3769,100,11,a,a,a
+3770,100,11,a,a,a
+3771,100,11,a,a,a
+3772,100,11,a,a,a
+3773,100,11,a,a,a
+3774,100,11,a,a,a
+3775,100,11,a,a,a
+3776,100,11,a,a,a
+3777,100,11,a,a,a
+3778,100,11,a,a,a
+3779,100,11,a,a,a
+3780,100,11,a,a,a
+3781,100,11,a,a,a
+3782,100,11,a,a,a
+3783,100,11,a,a,a
+3784,100,11,a,a,a
+3785,100,11,a,a,a
+3786,100,11,a,a,a
+3787,100,11,a,a,a
+3788,100,11,a,a,a
+3789,100,11,a,a,a
+3790,100,11,a,a,a
+3791,100,11,a,a,a
+3792,100,11,a,a,a
+3793,100,11,a,a,a
+3794,100,11,a,a,a
+3795,100,11,a,a,a
+3796,100,11,a,a,a
+3797,100,11,a,a,a
+3798,100,11,a,a,a
+3799,100,11,a,a,a
+3800,100,12,a,a,a
+3801,100,12,a,a,a
+3802,100,12,a,a,a
+3803,100,12,a,a,a
+3804,100,12,a,a,a
+3805,100,12,a,a,a
+3806,100,12,a,a,a
+3807,100,12,a,a,a
+3808,100,12,a,a,a
+3809,100,12,a,a,a
+3810,100,12,a,a,a
+3811,100,12,a,a,a
+3812,100,12,a,a,a
+3813,100,12,a,a,a
+3814,100,12,a,a,a
+3815,100,12,a,a,a
+3816,100,12,a,a,a
+3817,100,12,a,a,a
+3818,100,12,a,a,a
+3819,100,12,a,a,a
+3820,100,12,a,a,a
+3821,100,12,a,a,a
+3822,100,12,a,a,a
+3823,100,12,a,a,a
+3824,100,12,a,a,a
+3825,100,12,a,a,a
+3826,100,12,a,a,a
+3827,100,12,a,a,a
+3828,100,12,a,a,a
+3829,100,12,a,a,a
+3830,100,12,a,a,a
+3831,100,12,a,a,a
+3832,100,12,a,a,a
+3833,100,12,a,a,a
+3834,100,12,a,a,a
+3835,100,12,a,a,a
+3836,100,12,a,a,a
+3837,100,12,a,a,a
+3838,100,12,a,a,a
+3839,100,12,a,a,a
+3840,100,12,a,a,a
+3841,100,12,a,a,a
+3842,100,12,a,a,a
+3843,100,12,a,a,a
+3844,100,12,a,a,a
+3845,100,12,a,a,a
+3846,100,12,a,a,a
+3847,100,12,a,a,a
+3848,100,12,a,a,a
+3849,100,12,a,a,a
+3850,100,12,a,a,a
+3851,100,12,a,a,a
+3852,100,12,a,a,a
+3853,100,12,a,a,a
+3854,100,12,a,a,a
+3855,100,12,a,a,a
+3856,100,12,a,a,a
+3857,100,12,a,a,a
+3858,100,12,a,a,a
+3859,100,12,a,a,a
+3860,100,12,a,a,a
+3861,100,12,a,a,a
+3862,100,12,a,a,a
+3863,100,12,a,a,a
+3864,100,12,a,a,a
+3865,100,12,a,a,a
+3866,100,12,a,a,a
+3867,100,12,a,a,a
+3868,100,12,a,a,a
+3869,100,12,a,a,a
+3870,100,12,a,a,a
+3871,100,12,a,a,a
+3872,100,12,a,a,a
+3873,100,12,a,a,a
+3874,100,12,a,a,a
+3875,100,12,a,a,a
+3876,100,12,a,a,a
+3877,100,12,a,a,a
+3878,100,12,a,a,a
+3879,100,12,a,a,a
+3880,100,12,a,a,a
+3881,100,12,a,a,a
+3882,100,12,a,a,a
+3883,100,12,a,a,a
+3884,100,12,a,a,a
+3885,100,12,a,a,a
+3886,100,12,a,a,a
+3887,100,12,a,a,a
+3888,100,12,a,a,a
+3889,100,12,a,a,a
+3890,100,12,a,a,a
+3891,100,12,a,a,a
+3892,100,12,a,a,a
+3893,100,12,a,a,a
+3894,100,12,a,a,a
+3895,100,12,a,a,a
+3896,100,12,a,a,a
+3897,100,12,a,a,a
+3898,100,12,a,a,a
+3899,100,12,a,a,a
+3900,100,13,a,a,a
+3901,100,13,a,a,a
+3902,100,13,a,a,a
+3903,100,13,a,a,a
+3904,100,13,a,a,a
+3905,100,13,a,a,a
+3906,100,13,a,a,a
+3907,100,13,a,a,a
+3908,100,13,a,a,a
+3909,100,13,a,a,a
+3910,100,13,a,a,a
+3911,100,13,a,a,a
+3912,100,13,a,a,a
+3913,100,13,a,a,a
+3914,100,13,a,a,a
+3915,100,13,a,a,a
+3916,100,13,a,a,a
+3917,100,13,a,a,a
+3918,100,13,a,a,a
+3919,100,13,a,a,a
+3920,100,13,a,a,a
+3921,100,13,a,a,a
+3922,100,13,a,a,a
+3923,100,13,a,a,a
+3924,100,13,a,a,a
+3925,100,13,a,a,a
+3926,100,13,a,a,a
+3927,100,13,a,a,a
+3928,100,13,a,a,a
+3929,100,13,a,a,a
+3930,100,13,a,a,a
+3931,100,13,a,a,a
+3932,100,13,a,a,a
+3933,100,13,a,a,a
+3934,100,13,a,a,a
+3935,100,13,a,a,a
+3936,100,13,a,a,a
+3937,100,13,a,a,a
+3938,100,13,a,a,a
+3939,100,13,a,a,a
+3940,100,13,a,a,a
+3941,100,13,a,a,a
+3942,100,13,a,a,a
+3943,100,13,a,a,a
+3944,100,13,a,a,a
+3945,100,13,a,a,a
+3946,100,13,a,a,a
+3947,100,13,a,a,a
+3948,100,13,a,a,a
+3949,100,13,a,a,a
+3950,100,13,a,a,a
+3951,100,13,a,a,a
+3952,100,13,a,a,a
+3953,100,13,a,a,a
+3954,100,13,a,a,a
+3955,100,13,a,a,a
+3956,100,13,a,a,a
+3957,100,13,a,a,a
+3958,100,13,a,a,a
+3959,100,13,a,a,a
+3960,100,13,a,a,a
+3961,100,13,a,a,a
+3962,100,13,a,a,a
+3963,100,13,a,a,a
+3964,100,13,a,a,a
+3965,100,13,a,a,a
+3966,100,13,a,a,a
+3967,100,13,a,a,a
+3968,100,13,a,a,a
+3969,100,13,a,a,a
+3970,100,13,a,a,a
+3971,100,13,a,a,a
+3972,100,13,a,a,a
+3973,100,13,a,a,a
+3974,100,13,a,a,a
+3975,100,13,a,a,a
+3976,100,13,a,a,a
+3977,100,13,a,a,a
+3978,100,13,a,a,a
+3979,100,13,a,a,a
+3980,100,13,a,a,a
+3981,100,13,a,a,a
+3982,100,13,a,a,a
+3983,100,13,a,a,a
+3984,100,13,a,a,a
+3985,100,13,a,a,a
+3986,100,13,a,a,a
+3987,100,13,a,a,a
+3988,100,13,a,a,a
+3989,100,13,a,a,a
+3990,100,13,a,a,a
+3991,100,13,a,a,a
+3992,100,13,a,a,a
+3993,100,13,a,a,a
+3994,100,13,a,a,a
+3995,100,13,a,a,a
+3996,100,13,a,a,a
+3997,100,13,a,a,a
+3998,100,13,a,a,a
+3999,100,13,a,a,a
+4000,100,14,a,a,a
+4001,100,14,a,a,a
+4002,100,14,a,a,a
+4003,100,14,a,a,a
+4004,100,14,a,a,a
+4005,100,14,a,a,a
+4006,100,14,a,a,a
+4007,100,14,a,a,a
+4008,100,14,a,a,a
+4009,100,14,a,a,a
+4010,100,14,a,a,a
+4011,100,14,a,a,a
+4012,100,14,a,a,a
+4013,100,14,a,a,a
+4014,100,14,a,a,a
+4015,100,14,a,a,a
+4016,100,14,a,a,a
+4017,100,14,a,a,a
+4018,100,14,a,a,a
+4019,100,14,a,a,a
+4020,Comoros,3,Madagasque,Sunni,Unknown
+4021,Antankara,4,Madagasque,Fetishist,Slaves
+4022,Iboina,5,Madagasque,Fetishist,Slaves
+4023,Tsimihety,3,Madagasque,Fetishist,Slaves
+4024,Maroantsetra,5,Madagasque,Fetishist,Slaves
+4025,Vatomandry,7,Madagasque,Fetishist,Slaves
+4026,Antemoro,6,Madagasque,Sunni,Slaves
+4027,Betsileo,5,Madagasque,Fetishist,Slaves
+4028,Mahafaly,6,Madagasque,Fetishist,Slaves
+4029,Antanosy,5,Madagasque,Sunni,Slaves
+4030,Bara,3,Madagasque,Fetishist,Grain
+4031,Antsalova,4,Madagasque,Fetishist,Slaves
+4032,Fiherana,5,Madagasque,Fetishist,Fish
+4033,Al Qadirif,3,Nubian,Sunni,Ivory
+4034,Makua,4,Makua,Fetishist,Ivory
+4035,Ngindo,3,Makua,Fetishist,Unknown
+4036,Wayao,3,Makua,Fetishist,Unknown
+4037,Katsekera,7,Nyasa,Fetishist,Ivory
+4038,Lolo,3,Nyasa,Fetishist,Ivory
+4039,Lundu,9,Nyasa,Fetishist,Cloth
+4040,Kalonga,10,Nyasa,Fetishist,Iron
+4041,Kinga,3,Bena,Fetishist,Unknown
+4042,Makonde,3,Makua,Fetishist,Unknown
+4043,Phangwa,3,Nyasa,Fetishist,Unknown
+4044,Ngonde,5,Nyasa,Fetishist,Ivory
+4045,Tumbuka,6,Nyasa,Fetishist,Gems
+4046,Lala,3,Bemba,Fetishist,Unknown
+4047,Nsenga,4,Nyasa,Fetishist,Livestock
+4048,Lomwe,3,Makua,Fetishist,Ivory
+4049,Ibo,5,Swahili,Sunni,Ivory
+4050,Luangwa,3,Bemba,Fetishist,Unknown
+4051,Ewaso Ngiro,3,Somali,Sunni,Unknown
+4052,Dawa,3,Somali,Sunni,Unknown
+4053,Turkana,3,Acholi,Fetishist,Unknown
+4054,Kuria,5,Masaba,Fetishist,Unknown
+4055,Shamba,3,Swahili,Fetishist,Unknown
+4056,Gogo,3,Takama,Fetishist,Unknown
+4057,Nyatura,3,Takama,Fetishist,Unknown
+4058,Zigua,3,Swahili,Fetishist,Unknown
+4059,Shaga,5,Masaba,Fetishist,Unknown
+4060,Kikuyu,3,Bantu,Fetishist,Unknown
+4061,Buzinza,6,Takama,Fetishist,Iron
+4062,Basoga,9,Masaba,Fetishist,Fish
+4063,Karagwe,8,Ganda,Fetishist,Iron
+4064,Buganda,12,Ganda,Fetishist,Salt
+4065,Bunyoro,10,Ganda,Fetishist,Salt
+4066,Ndorwe,8,Ganda,Fetishist,Grain
+4067,Nduga,11,Rwandan,Fetishist,Iron
+4068,Buzozo,7,Rwandan,Fetishist,Grain
+4069,Bushubi,9,Rwandan,Fetishist,Grain
+4070,Nkoma,9,Rwandan,Fetishist,Iron
+4071,Buyogoma,5,Rwandan,Fetishist,Grain
+4072,Ruguru,6,Rwandan,Fetishist,Salt
+4073,Hehe,3,Bena,Fetishist,Unknown
+4074,Pubungo,4,Acholi,Fetishist,Livestock
+4075,Lango,3,Acholi,Fetishist,Unknown
+4076,Muhambwe,6,Takama,Fetishist,Unknown
+4077,Rukwa,5,Bena,Fetishist,Unknown
+4078,Mayumba,5,Kongolese,Fetishist,Ivory
+4079,Ngoyo,7,Kongolese,Fetishist,Ivory
+4080,Soyo,11,Kongolese,Fetishist,Slaves
+4081,Tyo,3,Kongolese,Fetishist,Spices
+4082,Kasanje,6,Mbangala,Fetishist,Slaves
+4083,Shinje,7,Mbangala,Fetishist,Slaves
+4084,Malem,3,Mbangala,Fetishist,Slaves
+4085,Yaka,8,Yaka,Fetishist,Slaves
+4086,Nunu,4,Kuba,Fetishist,Tropical Wood
+4087,Kumbana,5,Yaka,Fetishist,Slaves
+4088,Munene,6,Kuba,Fetishist,Spices
+4089,Kuba,6,Kuba,Fetishist,Cloth
+4090,Songye,3,Luba,Fetishist,Grain
+4091,Mpasu,6,Lunda,Fetishist,Spices
+4092,Rund,9,Lunda,Fetishist,Ivory
+4093,Lwena,5,Lunda,Fetishist,Ivory
+4094,Chokwe,4,Chokwe,Fetishist,Ivory
+4095,Ishindi,5,Chokwe,Fetishist,Ivory
+4096,Kalundwe,6,Luba,Fetishist,Livestock
+4097,Luba,9,Luba,Fetishist,Iron
+4098,Upemba,5,Luba,Fetishist,Salt
+4099,Hemba,7,Luba,Fetishist,Iron
+4100,Luapala,8,Luba,Fetishist,Copper
+4101,Lualaba,7,Luba,Fetishist,Salt
+4102,Bemba,3,Bemba,Fetishist,Unknown
+4103,Tabwa,6,Luba,Fetishist,Copper
+4104,Lamba,3,Bemba,Fetishist,Unknown
+4105,Kusu,6,Luba,Fetishist,Livestock
+4106,Lenje,3,Bemba,Fetishist,Unknown
+4107,Kanongesha,5,Luba,Fetishist,Copper
+4108,Kaonde,3,Bemba,Fetishist,Unknown
+4109,Lega,6,Luba,Fetishist,Unknown
+4110,Sutherland,6,Highland Scottish,Catholic,Grain
+4111,Saintonge,10,Cosmopolitan French,Catholic,Grain
+4112,Cahors,9,Gascon,Catholic,Wine
+4113,Rovaniemi,3,Finnish,Catholic,Fur
+4114,Northern Lappmarks,3,Sapmi,Catholic,Unknown
+4115,Mazyr,6,Byelorussian,Orthodox,Grain
+4116,Upper Oka,9,Ryazanian,Orthodox,Grain
+4117,Bezhetsk,5,Novgorodian,Orthodox,Naval Supplies
+4118,Desmond,6,Irish,Catholic,Copper
+4119,Sligo,8,Irish,Catholic,Naval Supplies
+4120,Kildare,9,Irish,Catholic,Grain
+4121,Ulster,8,Irish,Catholic,Grain
+4122,Shenkursk,3,Novgorodian,Orthodox,Fur
+4123,Birkaland,3,Finnish,Catholic,Fur
+4124,Kovero,3,Karelian,Orthodox,Fur
+4125,Szolnok,8,Hungarian,Catholic,Livestock
+4126,Bacs,5,Hungarian,Catholic,Livestock
+4127,Turda,6,Transylvanian,Orthodox,Salt
+4128,Kiralyfold,8,Transylvanian,Catholic,Cloth
+4129,UstVym,3,Uralic,Orthodox,Fur
+4130,Somerset,5,English,Catholic,Wool
+4131,Mutsu,8,Togoku,Shinto,Livestock
+4132,Mweru,0,a,a,a
+4133,Kivu,0,a,a,a
+4134,Rutanzige,0,a,a,a
+4135,Albert,0,a,a,a
+4136,Zaysan,0,a,a,a
+4137,Alakol,0,a,a,a
+4138,Issyk Kul,0,a,a,a
+4139,Oulujarvi,0,a,a,a
+4140,Saimaa,0,a,a,a
+4141,Ditmarschen,8,Lower Saxon,Catholic,Grain
+4142,Aarhus,11,Danish,Catholic,Naval Supplies
+4143,Smalenene,8,Norwegian,Catholic,Naval Supplies
+4144,Bratsberg,5,Norwegian,Catholic,Naval Supplies
+4145,Agdesiden,4,Norwegian,Catholic,Iron
+4146,Jotenheimen,0,a,a,a
+4147,Rostov,8,Russian,Orthodox,Grain
+4148,Luki,4,Novgorodian,Orthodox,Naval Supplies
+4149,Kolding,8,Danish,Catholic,Livestock
+4150,Evora,7,Portugese,Catholic,Wine
+4151,Inari,3,Sapmi,Catholic,Fur
+4152,Kajaani,3,Sapmi,Catholic,Fur
+4153,The Skands,0,a,a,a
+4154,The Pyrenees,0,a,a,a
+4155,The Carpathians,0,a,a,a
+4156,The Caucasus,0,a,a,a
+4157,The Alps,0,a,a,a
+4158,Janjero,4,Sidamo,Fetishist,Slaves
+4159,The Alps2,0,a,a,a
+4160,The Alps3,0,a,a,a
+4161,The Alps4,0,a,a,a
+4162,The Alps5,0,a,a,a
+4163,Elfsborg,4,Swedish,Catholic,Grain
+4164,Dal,3,Swedish,Catholic,Naval Supplies
+4165,Goinge,9,Danish,Catholic,Livestock
+4166,Tioharad,3,Swedish,Catholic,Naval Supplies
+4167,High Atlas,0,a,a,a
+4168,High Atlas2,0,a,a,a
+4169,Aures,0,a,a,a
+4170,Zagros,0,a,a,a
+4171,Abarquh,3,Persian,Sunni,Livestock
+4172,Zagros2,0,a,a,a
+4173,Syrmia,5,Serbian,Orthodox,Grain
+4174,Durres,5,Albanian,Orthodox,Salt
+4175,Lezhe,6,Albanian,Orthodox,Wool
+4176,Branicevo,7,Serbian,Orthodox,Livestock
+4177,Elburz,0,a,a,a
+4178,Pontic Mountains,0,a,a,a
+4179,Armenian Highlands,0,a,a,a
+4180,Hyuga,7,Kyushuan,Shinto,Livestock
+4181,Higo,8,Kyushuan,Shinto,Fish
+4182,Hizen,9,Kyushuan,Shinto,Naval Supplies
+4183,Iwami,8,Japanese,Shinto,Fish
+4184,Bizen,7,Japanese,Shinto,Iron
+4185,Tango,7,Japanese,Shinto,Fish
+4186,Iyo,7,Japanese,Shinto,Copper
+4187,Kii,7,Japanese,Shinto,Naval Supplies
+4188,Shinano,6,Togoku,Shinto,Livestock
+4189,Sagami,8,Togoku,Shinto,Iron
+4190,Shimousa,5,Togoku,Shinto,Fish
+4191,Shimotsuke,6,Togoku,Shinto,Grain
+4192,Ugo,6,Togoku,Shinto,Fish
+4193,Oshima,3,Togoku,Shinto,Fish
+4194,Yongping,8,Chihan,Confucianism,Grain
+4195,Zhending,6,Chihan,Confucianism,Grain
+4196,Haizhou,8,Jianghuai,Confucianism,Fish
+4197,Huangzhou,5,Hubei,Confucianism,Grain
+4198,Fengxiang,5,Xibei,Confucianism,Grain
+4199,Tongren,3,Miao,Animism,Tea
+4200,Hulan,5,Manchu,Tengri,Livestock
+4201,Jianzhou,10,Manchu,Confucianism,Fur
+4202,Taining,5,Chahar,Vajrayana,Livestock
+4203,Ju Ud,7,Mongol,Vajrayana,Livestock
+4204,Anding,4,Oirats,Vajrayana,Livestock
+4205,Nagchu,3,Tibetan,Vajrayana,Livestock
+4206,Balikul,3,Oirats,Tengri,Livestock
+4207,Turpan,8,Uyghur,Tengri,Wine
+4208,Qurqara-usu,5,Uyghur,Sunni,Grain
+4209,Maralbexi,5,Uyghur,Sunni,Wool
+4210,Yangi Hissar,5,Uyghur,Sunni,Wool
+4211,Dazhou,5,Sichuanese,Confucianism,Grain
+4212,Jiazhou,7,Sichuanese,Confucianism,Tea
+4213,Luzhou,6,Sichuanese,Confucianism,Grain
+4214,Kalar,3,Nivkh,Tengri,Fur
+4215,Fudali,3,Manchu,Tengri,Naval Supplies
+4216,Ulch,3,Manchu,Tengri,Fish
+4217,Pijin,6,Manchu,Tengri,Naval Supplies
+4218,Buteha,3,Chahar,Tengri,Livestock
+4219,Bayan Tumen,4,Khalkha,Tengri,Livestock
+4220,Khiagt,7,Khalkha,Tengri,Fur
+4221,Dundgovi,3,Khalkha,Tengri,Livestock
+4222,Ulaangom,4,Oirats,Tengri,Livestock
+4223,Hetao,4,Mongol,Vajrayana,Livestock
+4224,Tokai Sea,0,a,a,a
+4225,Hokkaido Coast,0,a,a,a
+4226,Japan Basin,0,a,a,a
+4227,Daegu,9,Korean,Confucianism,Paper
+4228,Naju,8,Korean,Confucianism,Paper
+4229,Chungju,6,Korean,Confucianism,Cotton
+4230,Suwon,7,Korean,Confucianism,Chinaware
+4231,Haeju,5,Korean,Confucianism,Naval Supplies
+4232,Ganggye,5,Korean,Confucianism,Fur
+4233,Bohai Sea,0,a,a,a
+4234,Western Yellow Sea,0,a,a,a
+4235,Vistula Lagoon,0,a,a,a
+4236,Trencin,6,Slovak,Catholic,Iron
+4237,Olomouc,8,Czech,Hussite,Grain
+4238,Leignitz,10,Schlesian,Catholic,Glass
+4239,Belgrade,10,Serbian,Orthodox,Cloth
+4240,Fejer,8,Hungarian,Catholic,Livestock
+4241,Wenden,6,Latvian,Catholic,Livestock
+4242,Ula,5,Byelorussian,Orthodox,Iron
+4243,Toropets,5,Byelorussian,Orthodox,Grain
+4244,Starodub,5,Ryazanian,Orthodox,Grain
+4245,Vyazma,5,Ryazanian,Orthodox,Cloth
+4246,Mstislav,3,Byelorussian,Orthodox,Wool
+4247,Owrucz,4,Ruthenian,Orthodox,Grain
+4248,Kashin,7,Russian,Orthodox,Livestock
+4249,Zubtsov,5,Russian,Orthodox,Grain
+4250,Mologa,6,Russian,Orthodox,Livestock
+4251,Mozhaisk,8,Russian,Orthodox,Grain
+4252,Kolomna,6,Russian,Orthodox,Livestock
+4253,Yuriev,8,Russian,Orthodox,Salt
+4254,Starodub,7,Russian,Orthodox,Grain
+4255,Pronsk,6,Ryazanian,Orthodox,Iron
+4256,Solvychegodsk,3,Novgorodian,Orthodox,Fur
+4257,Mezen,3,Novgorodian,Orthodox,Fish
+4258,Onega,3,Novgorodian,Orthodox,Fur
+4259,Velsk,3,Russian,Orthodox,Fur
+4260,Vyshny Volochyok,6,Novgorodian,Orthodox,Naval Supplies
+4261,Ustyuzhna,5,Novgorodian,Orthodox,Naval Supplies
+4262,Totma,3,Russian,Orthodox,Fur
+4263,Sol Galitskaya,3,Russian,Orthodox,Grain
+4264,Tetyushi,6,Kazani,Sunni,Grain
+4265,Ar Chally,6,Kazani,Sunni,Grain
+4266,Izhkar,5,Uralic,Tengri,Iron
+4267,Bolgar,6,Kazani,Sunni,Iron
+4268,Aqaba,3,Bedouin Arabic,Sunni,Fish
+4269,Al Wajh,3,Bedouin Arabic,Sunni,Fish
+4270,Azraq,4,Bedouin Arabic,Sunni,Livestock
+4271,Suwaida,3,Bedouin Arabic,Shiite,Livestock
+4272,Jawf,4,Bedouin Arabic,Sunni,Livestock
+4273,Karaitan,3,Bedouin Arabic,Sunni,Livestock
+4274,Sudayr,5,Bedouin Arabic,Sunni,Grain
+4275,Yamamah,4,Bedouin Arabic,Sunni,Livestock
+4276,Tubaiq,0,a,a,a
+4277,Taif,7,Hejazi Culture,Sunni,Wool
+4278,Qunfudah,6,Hejazi Culture,Shiite,Incense
+4279,Zabid,8,Yemeni Culture,Sunni,Coffee
+4280,Taiz,10,Yemeni Culture,Shiite,Coffee
+4281,Dhamar,11,Yemeni Culture,Shiite,Livestock
+4282,Sahda,6,Yemeni Culture,Shiite,Coffee
+4283,Shihr,6,Yemeni Culture,Sunni,Incense
+4284,Al Ghayda,3,Mahri Culture,Sunni,Fish
+4285,Baraimi,5,Omani Culture,Ibadi,Livestock
+4286,Sur,5,Omani Culture,Ibadi,Spices
+4287,Ibra,6,Omani Culture,Ibadi,Grain
+4288,Shatt,7,Al Iraqiya Arabic,Sunni,Spices
+4289,Shushtar,6,Persian,Shiite,Silk
+4290,Hoveyzeh,8,Al Iraqiya Arabic,Shiite,Grain
+4291,Qazania,7,Al Iraqiya Arabic,Sunni,Cotton
+4292,Mardin,7,Kurdish,Sunni,Wool
+4293,Arbil,6,Kurdish,Sunni,Cloth
+4294,Sulimaniyeh,6,Kurdish,Sunni,Wool
+4295,Hisn Kayfa,6,Kurdish,Sunni,Wool
+4296,Bitlis,6,Kurdish,Sunni,Wool
+4297,Homs,5,Al Suryah Arabic,Sunni,Cotton
+4298,Ayntab,5,Turkish,Sunni,Wool
+4299,Shamakhi,6,Azerbaijani,Sunni,Wool
+4300,Mianeh,5,Azerbaijani,Sunni,Paper
+4301,Kartli,10,Georgian,Orthodox,Silk
+4302,Bayazid,5,Armenian,Coptic,Wool
+4303,Oltu,8,Georgian,Orthodox,Livestock
+4304,Khoy,5,Azerbaijani,Sunni,Wool
+4305,Shaki,5,Azerbaijani,Sunni,Wool
+4306,Lakia,9,Dagestani,Sunni,Iron
+4307,Aksaray,6,Turkish,Sunni,Livestock
+4308,Denizli,6,Turkish,Sunni,Cloth
+4309,Aydin,6,Turkish,Sunni,Salt
+4310,Divrigi,6,Turkish,Shiite,Wool
+4311,Karahisar,6,Turkish,Sunni,Livestock
+4312,Eskesehir,10,Turkish,Sunni,Cloth
+4313,Cangiri,5,Turkish,Sunni,Wool
+4314,Kirsehir,6,Turkish,Sunni,Wool
+4315,Tokat,8,Turkish,Sunni,Cloth
+4316,Mansura,13,Al Misr Arabic,Sunni,Grain
+4317,Buhaira,6,Al Misr Arabic,Sunni,Salt
+4318,Atfih,7,Al Misr Arabic,Sunni,Paper
+4319,Isna,5,Al Misr Arabic,Sunni,Livestock
+4320,Girga,9,Al Misr Arabic,Sunni,Grain
+4321,Egyptian Desert,0,a,a,a
+4322,Egyptian Desert,0,a,a,a
+4323,Farafreh,3,Al Misr Arabic,Sunni,Livestock
+4324,Ghuriyan,3,Khorasani,Sunni,Livestock
+4325,Sarakhs,5,Khorasani,Sunni,Wool
+4326,Nishapur,6,Khorasani,Sunni,Gems
+4327,Jask,3,Gulf Arabic,Sunni,Fish
+4328,Chagai,0,a,a,a
+4329,Fasa,9,Persian,Sunni,Silk
+4330,Darab,5,Persian,Shiite,Spices
+4331,Kazerun,7,Luri,Sunni,Wine
+4332,Siraf,3,Persian,Shiite,Spices
+4333,Dahlek Archipelago,0,a,a,a
+4334,Tabas,3,Khorasani,Sunni,Wool
+4335,Kashan,7,Persian,Shiite,Silk
+4336,Tus,3,Khorasani,Sunni,Spices
+4337,Savah,6,Persian,Sunni,Grain
+4338,Soltanieh,7,Azerbaijani,Sunni,Wine
+4339,Rasht,10,Mazandarani,Sunni,Silk
+4340,Astara,3,Azerbaijani,Shiite,Fish
+4341,Sari,13,Mazandarani,Shiite,Silk
+4342,Malamir,3,Luri,Shiite,Wool
+4343,Termez,4,Uzbehk,Sunni,Livestock
+4344,Kish,6,Uzbehk,Sunni,Wool
+4345,Saidabad,3,Persian,Shiite,Livestock
+4346,Qamr Bay,0,a,a,a
+4347,Pirate Coast,0,a,a,a
+4348,Ifugao,3,Filipino,Animism,Unknown
+4349,Laguna,7,Filipino,Animism,Grain
+4350,Mindoro,5,Filipino,Mahayana,Gems
+4351,Buglas,5,Filipino,Animism,Sugar
+4352,Cebu,6,Filipino,Hinduism,Gems
+4353,Leyte,5,Filipino,Animism,Unknown
+4354,Zamboanga,5,Filipino,Animism,Unknown
+4355,Caraga,3,Filipino,Animism,Unknown
+4356,Taytay,5,Filipino,Animism,Unknown
+4357,Cuyu Arcihpelago,0,a,a,a
+4358,Philippine Trench,0,a,a,a
+4359,Ise,6,Japanese,Shinto,Fish
+4360,Mikawa,7,Togoku,Shinto,Grain
+4361,East March,5,Scottish,Catholic,Iron
+4362,West March,8,Scottish,Catholic,Wool
+4363,Argyll,8,Highland Scottish,Catholic,Iron
+4364,Inner Hebrides,3,Highland Scottish,Catholic,Grain
+4365,Mann,3,Highland Scottish,Catholic,Fish
+4366,Montgomery,3,Welsh,Catholic,Iron
+4367,Hull,7,English,Catholic,Naval Supplies
+4368,Scarborough,5,English,Catholic,Wool
+4369,Carmarthen,3,Welsh,Catholic,Livestock
+4370,Cambridgeshire,8,English,Catholic,Cloth
+4371,Sussex,10,English,Catholic,Grain
+4372,Coventry,8,English,Catholic,Iron
+4373,Devon,6,English,Catholic,Wool
+4374,Dorset,6,English,Catholic,Livestock
+4375,Chester,5,English,Catholic,Salt
+4376,Leicester,6,English,Catholic,Cloth
+4377,Ormond,7,Irish,Catholic,Livestock
+4378,Kinsale,4,Irish,Catholic,Fish
+4379,Middlands,5,Irish,Catholic,Livestock
+4380,Donegal,5,Irish,Catholic,Fish
+4381,Oversticht,8,Dutch,Catholic,Livestock
+4382,Ommeland,10,Frisian,Catholic,Cloth
+4383,Haag,15,Dutch,Catholic,Cloth
+4384,Rennes,12,Breton,Catholic,Cloth
+4385,Cotentin,10,Normand,Catholic,Naval Supplies
+4386,Vendee,9,Cosmopolitan French,Catholic,Salt
+4387,Angouleme,8,Cosmopolitan French,Catholic,Livestock
+4388,Chartres,16,Cosmopolitan French,Catholic,Cloth
+4389,Touraine,11,Cosmopolitan French,Catholic,Cloth
+4390,Troyes,13,Cosmopolitan French,Catholic,Iron
+4391,Vivarais,10,Occitain,Catholic,Wine
+4392,Auxerrois,11,Burgundian,Catholic,Wine
+4393,Tabayin,6,Burmese,Buddhism,Cotton
+4394,Salin,8,Burmese,Buddhism,Grain
+4395,Yamthin,7,Burmese,Buddhism,Ivory
+4396,Prome,11,Burmese,Buddhism,Ivory
+4397,Yawnghwe,6,Shan,Buddhism,Cotton
+4398,Mawkmai,5,Shan,Animism,Grain
+4399,Dagon,11,Mon,Buddhism,Grain
+4400,Naga Hills,0,a,a,a
+4401,Arakan Mountains,0,a,a,a
+4402,Gaoligong Mountains,0,a,a,a
+4403,Shan Highlands,0,a,a,a
+4404,Minsin,3,Kachin,Animism,Grain
+4405,Katha,6,Shan,Buddhism,Tea
+4406,Mong Kung,5,Shan,Buddhism,Tropical Wood
+4407,Ruhunu,6,Sinhala,Buddhism,Gems
+4408,Salavata,6,Sinhala,Buddhism,Spices
+4409,Trincomale,5,Sinhala,Buddhism,Spices
+4410,Kumari,7,Malayalam,Hinduism,Spices
+4411,Samana,7,Panjabi,Hinduism,Cloth
+4412,Dindigul,8,Tamil,Hinduism,Naval Supplies
+4413,Cannanore,7,Malayalam,Hinduism,Spices
+4414,Salem,7,Tamil,Hinduism,Cotton
+4415,Negapattam,9,Tamil,Hinduism,Cloth
+4416,Tranqebar,7,Tamil,Hinduism,Cloth
+4417,Kanchipuram,9,Tamil,Hinduism,Cloth
+4418,Nelore,10,Telegu,Hinduism,Cotton
+4419,Adanki,7,Telegu,Hinduism,Cotton
+4420,Chandragiri,9,Telegu,Hinduism,Cotton
+4421,Seringapatam,11,Kannada,Hinduism,Cotton
+4422,Sira,9,Kannada,Hinduism,Grain
+4423,Gutti,6,Telegu,Hinduism,Iron
+4424,Adavani,5,Telegu,Hinduism,Grain
+4425,Kondavidu,5,Telegu,Hinduism,Gems
+4426,Chitaldurg,7,Kannada,Hinduism,Cotton
+4427,Honnavara,5,Kannada,Hinduism,Spices
+4428,Mudgal,11,Kannada,Hinduism,Cloth
+4429,Rajapur,5,Marathi,Hinduism,Spices
+4430,Daman,9,Marathi,Zoroastrian,Cloth
+4431,Kolhapur,10,Marathi,Hinduism,Naval Supplies
+4432,Junir,7,Marathi,Hinduism,Cotton
+4433,Nasik,5,Marathi,Hinduism,Paper
+4434,Dharangaon,7,Marathi,Hinduism,Cotton
+4435,Sholapur,7,Marathi,Hinduism,Cotton
+4436,Rachakonda,8,Telegu,Hinduism,Iron
+4437,Paithre,8,Marathi,Hinduism,Cloth
+4438,Nander,5,Marathi,Hinduism,Silk
+4439,Kamammet,6,Telegu,Hinduism,Dyes
+4440,Narayanpur,7,Assamese,Hinduism,Tea
+4441,Ganjam,8,Oriya,Hinduism,Salt
+4442,Washim,7,Marathi,Hinduism,Cloth
+4443,Karanja,7,Marathi,Hinduism,Cotton
+4444,Manidurg,3,Telegu,Hinduism,Tropical Wood
+4445,Kanker,3,Gondi,Hinduism,Tropical Wood
+4446,Kalahandi,3,Garjati,Hinduism,Tropical Wood
+4447,Patna,4,Garjati,Hinduism,Cotton
+4448,Parlakhimedi,3,Garjati,Hinduism,Tropical Wood
+4449,Jammu,5,Kashmiri,Hinduism,Silk
+4450,Mayurbhanj,4,Garjati,Hinduism,Iron
+4451,Sonpur,4,Garjati,Hinduism,Naval Supplies
+4452,Ratanpur,5,Gondi,Hinduism,Grain
+4453,Thalner,7,Marathi,Hinduism,Cotton
+4454,Porbandar,5,Saurashtri,Hinduism,Cotton
+4455,Diu,5,Saurashtri,Hinduism,Sugar
+4456,Jhalavad,5,Saurashtri,Hinduism,Cotton
+4457,Cambay,11,Gujarati,Hinduism,Cloth
+4458,Narbada,3,Gondi,Hinduism,Tropical Wood
+4459,Saugor,4,Gondi,Hinduism,Grain
+4460,Handia,5,Malvi,Hinduism,Cotton
+4461,Ujjain,11,Malvi,Hinduism,Spices
+4462,Vagad,5,Rajput,Hinduism,Copper
+4463,Bhatnair,8,Rajput,Hinduism,Livestock
+4464,Bundi,5,Rajput,Hinduism,Cotton
+4465,Ranthambore,5,Rajput,Hinduism,Dyes
+4466,Mahoba,5,Vindhyan,Hinduism,Grain
+4467,Kalinjar,5,Vindhyan,Hinduism,Gems
+4468,Bandogarh,5,Vindhyan,Hinduism,Grain
+4469,Rohtas,8,Bihari,Hinduism,Salt
+4470,Soumelpur,4,Jharkhandi,Hinduism,Iron
+4471,Bishnupur,8,Bengali,Hinduism,Naval Supplies
+4472,Monghyr,7,Bihari,Hinduism,Silk
+4473,Chakla,5,Chin,Hinduism,Tropical Wood
+4474,Sonargaon,10,Bengali,Hinduism,Cloth
+4475,Fathabad,7,Bengali,Hinduism,Grain
+4476,Nadia,17,Bengali,Hinduism,Silk
+4477,Satgaon,13,Bengali,Hinduism,Spices
+4478,Haibitnagar,5,Bengali,Hinduism,Cotton
+4479,Goraghat,11,Bengali,Hinduism,Silk
+4480,Mahi Kantha,3,Gujarati,Hinduism,Cloth
+4481,Punakah,3,Tibetan,Vajrayana,Wool
+4482,Sikkim,3,Nepali,Vajrayana,Wool
+4483,Morang,6,Nepali,Vajrayana,Wool
+4484,Makwanpur,6,Nepali,Hinduism,Wool
+4485,Palpa,5,Nepali,Hinduism,Naval Supplies
+4486,Purnia,7,Kochi,Hinduism,Silk
+4487,Saran,7,Bihari,a,Cotton
+4488,Champaran,7,Bihari,Hinduism,Grain
+4489,Hajipur,10,Bihari,Hinduism,Glass
+4490,Ghazipur,8,Bihari,a,Cloth
+4491,Dang,5,Nepali,Hinduism,Wool
+4492,Doti,3,Nepali,Hinduism,Wool
+4493,Sirmur,3,Pahari,Hinduism,Cotton
+4494,Khairabad,7,Avadhi,Hinduism,Cloth
+4495,Feyzabad,8,Avadhi,Hinduism,Cloth
+4496,Kora,10,Avadhi,Hinduism,Cotton
+4497,Qannauj,10,Avadhi,Hinduism,Grain
+4498,Sambhal,9,Kanauji,Hinduism,Cotton
+4499,Bareily,6,Kanauji,Hinduism,Cotton
+4500,Bharatpur,6,Rajput,Hinduism,Livestock
+4501,Bhilwara,5,Rajput,Hinduism,Grain
+4502,Merta,5,Rajput,Hinduism,Livestock
+4503,Mansura,10,Sindhi,Sunni,Cloth
+4504,Nasirpur,8,Sindhi,Sunni,Cotton
+4505,Khairpur,5,Sindhi,Sunni,Livestock
+4506,Barmer,3,Rajput,Hinduism,Livestock
+4507,Churu,3,Rajput,Hinduism,Livestock
+4508,Bahawalpur,3,Panjabi,Sunni,Livestock
+4509,Karor,6,Panjabi,Sunni,Iron
+4510,Shorkot,11,Panjabi,Hinduism,Cloth
+4511,Bhera,7,Panjabi,Hinduism,Salt
+4512,Baruch,9,Gujarati,Hinduism,Silk
+4513,Dipalpur,13,Panjabi,Hinduism,Silk
+4514,Sakya,5,Tibetan,Vajrayana,Livestock
+4515,Gyirong,4,Tibetan,Vajrayana,Livestock
+4516,Purang,5,Tibetan,Vajrayana,Wool
+4517,Nedong,6,Tibetan,Vajrayana,Grain
+4518,Tsurphu,4,Tibetan,Vajrayana,Livestock
+4519,Damxung,3,Tibetan,Vajrayana,Wool
+4520,Rutog,3,Tibetan,Vajrayana,Wool
+4521,Skardu,3,Kashmiri,Vajrayana,Wool
+4522,Aqenganggyai,0,a,a,a
+4523,Inowroclaw,5,Polish,Catholic,Livestock
+4524,Dobryzn,4,Polish,Catholic,Grain
+4525,Rawa,5,Polish,Catholic,Grain
+4526,Gniezno,7,Polish,Catholic,Cloth
+4527,Checiny,7,Polish,Catholic,Cloth
+4528,Kuyavia,5,Polish,Catholic,Grain
+4529,Iasi,6,Romanian,Orthodox,Wine
+4530,Birlad,4,Romanian,Orthodox,Wine
+4531,Giurgiu,8,Romanian,Orthodox,Livestock
+4532,Severin,7,Romanian,Orthodox,Livestock
+4533,Wielun,7,Polish,Catholic,Cloth
+4534,Upita,4,Lithuanian,Catholic,Livestock
+4535,Wilkimierz,6,Lithuanian,Catholic,Livestock
+4536,Lida,6,Lithuanian,a,Livestock
+4537,Nowogrodek,4,Byelorussian,Orthodox,Wool
+4538,Chelm,5,Ruthenian,Orthodox,Wool
+4539,Kremenets,3,Ruthenian,Orthodox,Livestock
+4540,Winnica,3,Ruthenian,Orthodox,Livestock
+4541,Drohobycz,5,Ruthenian,Orthodox,Livestock
+4542,Lubnie,5,Ruthenian,Orthodox,Grain
+4543,Rylsk,3,Ryazanian,Orthodox,Grain
+4544,Bobrujsk,3,Byelorussian,Orthodox,Grain
+4545,Sluck,6,Byelorussian,Orthodox,Cloth
+4546,Malaga,7,Andalucian,Sunni,Salt
+4547,Albacete,6,Andalucian,Catholic,Grain
+4548,Huelva,8,Andalucian,Catholic,Copper
+4549,Xativa,10,Catalan,Catholic,Paper
+4550,Castellon,10,Catalan,Catholic,Grain
+4551,Avila,6,Castillian,Catholic,Livestock
+4552,Palencia,6,Castillian,Catholic,Grain
+4553,Zamora,8,Leonese,Catholic,Wine
+4554,Lugo,8,Galician,Catholic,Fish
+4555,Vigo,8,Galician,Catholic,Fish
+4556,Aviero,10,Portugese,Catholic,Salt
+4557,Lleida,7,Aragonese,Catholic,Cloth
+4558,Orense,5,Galician,Catholic,Naval Supplies
+4559,Minorca,3,Catalan,Catholic,Fish
+4560,Ibiza,3,Catalan,Catholic,Fish
+4561,Tetouan,8,Moroccan,Sunni,Grain
+4562,Mers el Kebir,7,Algerian,Sunni,Cloth
+4563,Sale,9,Moroccan,Sunni,Grain
+4564,Anfa,6,Moroccan,Sunni,Grain
+4565,Tenerife,5,Berber,Animism,Unknown
+4566,Kairwan,10,Tunisian,Sunni,Grain
+4567,Sabha,3,Tunisian,Sunni,Livestock
+4568,Demnate,5,Moroccan,Sunni,Wool
+4569,High Atlas3,0,a,a,a
+4570,Texcoco,12,Aztek,Nahuatl,Gold
+4571,Tlacopan,12,Aztek,Nahuatl,Gold
+4572,Malinalco,7,Matlatzinca,Nahuatl,Gold
+4573,Acambaro,3,Otomi,Nahuatl,Wool
+4574,Ihuatzio,7,Purepecha,Nahuatl,Grain
+4575,Puruaran,7,Purepecha,Nahuatl,Grain
+4576,Amaxocotlan,3,Tepic,Nahuatl,Wool
+4577,Tohono,3,Piman,Totemism,Unknown
+4578,Tzapotzingo,3,Tepic,Nahuatl,Wool
+4579,Sayula,9,Tecos,Nahuatl,Fish
+4580,Tecoman,9,Tecos,Nahuatl,Fish
+4581,Yohualtepec,7,Mixtec,Nahuatl,Dyes
+4582,Teotitlan,7,Aztek,Nahuatl,Dyes
+4583,Xocotla,9,Aztek,Nahuatl,Sugar
+4584,Mitla,5,Zapotek,Nahuatl,Sugar
+4585,Tzotzil,5,Lacandon,Mayan,Fish
+4586,Jakaltek,5,Lacandon,Mayan,Fish
+4587,Qumarkaj,7,Highland Mayan,Mayan,Cocoa
+4588,Kobox,5,Putun,Mayan,Cocoa
+4589,Moran,5,Putun,Mayan,Cocoa
+4590,Xiu,9,Yucatec,Mayan,Cocoa
+4591,Sotuta,9,Yucatec,Mayan,Cocoa
+4592,Ulva,3,Miskito,Animism,Unknown
+4593,Xicaque,3,Miskito,Animism,Unknown
+4594,Tzul,5,Putun,Mayan,Cocoa
+4595,Guaymi,3,Muisca,Animism,Unknown
+4596,Kuna,4,Guajiro,Animism,Unknown
+4597,Talamanca,3,Miskito,Animism,Unknown
+4598,Cuauhtochco,5,Totonac,Nahuatl,Sugar
+4599,Sinu,4,Guajiro,Animism,Unknown
+4600,Magangue,4,Guajiro,Animism,Unknown
+4601,Chimila,4,Guajiro,Animism,Unknown
+4602,Motilones,5,Guajiro,Animism,Unknown
+4603,Moniquira,12,Muisca,Inti,Salt
+4604,Pastos,4,Guajiro,Animism,Unknown
+4605,Putumayos,4,Guajiro,Animism,Unknown
+4606,Chichitames,3,Chichimecan,Animism,Unknown
+4607,Pijaos,5,Guajiro,Animism,Unknown
+4608,Achaguas,5,Guajiro,Animism,Unknown
+4609,Variquicimeto,4,Guajiro,Animism,Unknown
+4610,Yukpa,4,Guajiro,Animism,Unknown
+4611,Wayuu,4,Guajiro,Animism,Unknown
+4612,Tacarigua,4,Guajiro,Animism,Unknown
+4613,Guanaguanare,4,Guajiro,Animism,Unknown
+4614,Tunebo,5,Guajiro,Animism,Unknown
+4615,Guanipa,4,Guajiro,Animism,Unknown
+4616,Anzoategui,4,Guajiro,Animism,Unknown
+4617,Guaju,4,Guajiro,Animism,Unknown
+4618,Yaquimo,5,Arawak,Animism,Unknown
+4619,Marien,5,Arawak,Animism,Unknown
+4620,Ciguayo,5,Arawak,Animism,Unknown
+4621,Higuey,5,Arawak,Animism,Unknown
+4622,Canimar,6,Arawak,Animism,Unknown
+4623,Escambrey,6,Arawak,Animism,Unknown
+4624,Guane,6,Arawak,Animism,Unknown
+4625,Mayaca,3,Yamasee,Totemism,Unknown
+4626,Potano,3,Yamasee,Totemism,Unknown
+4627,Tanu,3,Caddo,Totemism,Unknown
+4628,Nitahende,3,Mescalero,Totemism,Grain
+4629,Tel Kondaha,3,Lipan,Totemism,Unknown
+4630,Natahende,3,Mescalero,Totemism,Unknown
+4631,Towa,5,Pueblo,Totemism,Salt
+4632,Keres,5,Pueblo,Totemism,Grain
+4633,Sobaipuri,3,Piman,Totemism,Unknown
+4634,Tsekaadn,3,Apache,Totemism,Unknown
+4635,Taaqtam,3,Piman,Totemism,Unknown
+4636,Choinumni,3,Yokuts,Totemism,Grain
+4637,Ohlone,10,Yokuts,Totemism,Unknown
+4638,Wintun,3,Yokuts,Totemism,Unknown
+4639,Paipai,3,Piman,Totemism,Unknown
+4640,Tecpatitlan,3,Tepic,Nahuatl,Wool
+4641,Xilotepec,3,Otomi,Nahuatl,Grain
+4642,Pame,3,Chichimecan,Animism,Unknown
+4643,Xiconaque,3,Guamares,Animism,Wool
+4644,Jocome,3,Apache,Totemism,Unknown
+4645,Xochipillan,3,Guamares,Animism,Wool
+4646,Tarahumara,3,Piman,Totemism,Unknown
+4647,Xecora,3,Chichimecan,Animism,Unknown
+4648,Acaxee,3,Chichimecan,Animism,Unknown
+4649,Mayo,3,Piman,Totemism,Unknown
+4650,Opata,3,Piman,Totemism,Unknown
+4651,Tsushima,4,Kyushuan,Shinto,Chinaware
+4652,Haicheng,6,Shandong Culture,Confucianism,Fish
+4653,Maolian,8,Manchu,Confucianism,Naval Supplies
+4654,Fuerhe,7,Manchu,Confucianism,Naval Supplies
+4655,Shilimian,6,Manchu,Tengri,Fish
+4656,Wolanhe,6,Manchu,Tengri,Fish
+4657,Changbai Mountains,0,a,a,a
+4658,Nanghaer,3,Nivkh,Tengri,Fish
+4659,Tulutingshan,3,Manchu,Tengri,Fur
+4660,Tunhe,5,Manchu,Tengri,Livestock
+4661,Edala,7,Manchu,Confucianism,Grain
+4662,Halacha,6,Evenk,Tengri,Fur
+4663,Jixi,5,Manchu,Tengri,Naval Supplies
+4664,North Buteha,3,Evenk,Tengri,Livestock
+4665,South Buteha,3,Chahar,Tengri,Livestock
+4666,South Hulunbur,3,Khalkha,Tengri,Livestock
+4667,North Setsen,4,Khalkha,Tengri,Livestock
+4668,West Ih Huree,4,Khalkha,Tengri,Fur
+4669,East Dornogovi,4,Khalkha,Tengri,Livestock
+4670,West Khara Narin Ula,3,Mongol,Vajrayana,Livestock
+4671,East Ereen,5,Mongol,Vajrayana,Livestock
+4672,North Ju Ud,5,Chahar,Vajrayana,Livestock
+4673,East Xilin Gol,4,Mongol,Vajrayana,Livestock
+4674,North Jirem,4,Chahar,Vajrayana,Livestock
+4675,Central Jirem,4,Chahar,Vajrayana,Livestock
+4676,West Alxa,4,Mongol,Vajrayana,Livestock
+4677,East Govi,3,Khalkha,Tengri,Livestock
+4678,East Qaraqorum,9,Khalkha,Tengri,Cloth
+4679,East Tsetserleg,4,Khalkha,Tengri,Fur
+4680,East Zagast,4,Khalkha,Tengri,Livestock
+4681,North Kobdo,4,Oirats,Tengri,Livestock
+4682,South Kobdo,5,Oirats,Tengri,Livestock
+4683,East Hoboskar,4,Oirats,Tengri,Livestock
+4684,Dzhemenika,3,Oirats,Sunni,Fish
+4685,Karagandy,3,Khazak,Sunni,Wool
+4686,Ekibastuz,5,Khazak,Sunni,Salt
+4687,Imakia,3,Kirgiz,Tengri,Unknown
+4688,Baraba,4,Kirgiz,Tengri,Livestock
+4689,Om,7,Siberian,Sunni,Fur
+4690,Ishim,3,Siberian,Sunni,Fur
+4691,As,3,Ostyaki,Tengri,Unknown
+4692,Turgay,3,Khazak,Sunni,Iron
+4693,Keriya,5,Uyghur,Sunni,Wool
+4694,Foix,6,Gascon,Catholic,Wool
+4695,Carcassonne,7,Occitain,Catholic,Wine
+4696,Toulon,11,Occitain,Catholic,Naval Supplies
+4697,La Marche,6,Gascon,Catholic,Livestock
+4698,Cephalonia,5,Greek,Orthodox,Wine
+4699,Arta,6,Greek,Orthodox,Livestock
+4700,Lesbos,5,Greek,Orthodox,Fish
+4701,Corinth,6,Greek,Orthodox,Wine
+4702,Siroz,6,Greek,Orthodox,Grain
+4703,Kostendil,6,Bulgarian,Orthodox,Copper
+4704,Tirnovo,9,Bulgarian,Orthodox,Cloth
+4705,Gumulcine,6,Greek,Orthodox,Livestock
+4706,Tolcu,4,Bulgarian,Orthodox,Wool
+4707,Rosenheim,6,Bavarian,Catholic,Salt
+4708,Freising,10,Bavarian,Catholic,Grain
+4709,Passau,11,Bavarian,Catholic,Salt
+4710,Bregenz,5,Austrian,Catholic,Wool
+4711,Donauwoerth,6,Swabian,Catholic,Grain
+4712,Konstanz,13,Swabian,Catholic,Cloth
+4713,Urach,8,Swabian,Catholic,Grain
+4714,Durlach,8,Swabian,Catholic,Wine
+4715,Rothenburg,10,Franconian,Catholic,Grain
+4716,Coburg,6,Franconian,Catholic,Livestock
+4717,Bayreuth,6,Franconian,Catholic,Wool
+4718,Aschaffenburg,7,Franconian,Catholic,Cloth
+4719,Annecy,7,Occitain,Catholic,Cloth
+4720,Geneva,13,Swiss,Catholic,Cloth
+4721,Fribourg,8,Swiss,Catholic,Livestock
+4722,Illanz,6,Swiss,Catholic,Livestock
+4723,Opole,8,Schlesian,Catholic,Grain
+4724,Pardubice,6,Czech,Hussite,Grain
+4725,Jindrichuv Hradec,7,Czech,Catholic,Grain
+4726,Ostrava,5,Czech,Catholic,Grain
+4727,Saluzzo,11,Piedmontese,Catholic,Iron
+4728,Pavia,16,Lombard,Catholic,Grain
+4729,Padova,9,Venetian,Catholic,Paper
+4730,Bologna,12,Romagnan,Catholic,Cloth
+4731,Spoleto,6,Umbrian,Catholic,Livestock
+4732,Terracina,7,Umbrian,Catholic,Fish
+4733,Molise,7,Neapolitan,Catholic,Paper
+4734,Avellino,11,Neapolitan,Catholic,Grain
+4735,Arborea,6,Sardinian,Catholic,Grain
+4736,Trapani,7,Sicilian,Catholic,Fish
+4737,Girgenti,8,Sicilian,Catholic,Grain
+4738,Trieste,9,Venetian,Catholic,Fish
+4739,Bergamo,9,Lombard,Catholic,Cloth
+4740,Como,10,Lombard,Catholic,Cloth
+4741,Halle,7,Saxon,Catholic,Salt
+4742,Goslar,11,Saxon,Catholic,Iron
+4743,Weimar,8,Saxon,Catholic,Grain
+4744,Zwickau,7,Saxon,Catholic,Cloth
+4745,Rugen,4,Pommeranian,Catholic,Fish
+4746,Stargard,9,Pommeranian,Catholic,Naval Supplies
+4747,Dramburg,5,Pommeranian,Catholic,Livestock
+4748,Brandenburg,10,Saxon,Catholic,Iron
+4749,Stargard,8,Pommeranian,Catholic,Livestock
+4750,Kruje,5,Albanian,Orthodox,Wool
+4751,Cilli,9,Slovene,Catholic,Wine
+4752,Rijeka,10,Croatian,Catholic,Cloth
+4753,Zadar,7,Dalmatian,Catholic,Naval Supplies
+4754,Kotor,7,Serbian,Orthodox,Naval Supplies
+4755,Podrinje,5,Bosnian,Orthodox,Salt
+4756,Bjelovar,6,Croatian,Catholic,Grain
+4757,Kolubara,5,Serbian,Orthodox,Grain
+4758,Etsch-Meran,6,Austrian,Catholic,Wool
+4759,Oberkaernten,8,Austrian,Catholic,Iron
+4760,Innbaiern,8,Bavarian,Catholic,Wine
+4761,Traungau,8,Austrian,Catholic,Iron
+4762,Wienerwald,9,Austrian,Catholic,Wine
+4764,Salins,7,Burgundian,Catholic,Salt
+4765,Mulhouse,8,Swabian,Catholic,Cloth
+4766,Verdun,9,Burgundian,Catholic,Grain
+4767,Zweibrucken,8,Hessian,Catholic,Cloth
+4768,Julich,8,Hessian,Catholic,Grain
+4769,Lille,11,Wallonian,Catholic,Cloth
+4770,s-Hertogenbosch,10,Dutch,Catholic,Paper
+4771,Verden,7,Lower Saxon,Catholic,Livestock
+4772,Celle,6,Lower Saxon,Catholic,Livestock
+4773,Goettingen,6,Lower Saxon,Catholic,Cloth
+4774,Fulda,5,Hessian,Catholic,Grain
+4775,Bielefeld,5,Hannoverian,Catholic,Cloth
+4776,Blois,11,Cosmopolitan French,Catholic,Wine
+4777,Forez,7,Occitain,Catholic,Livestock
+4778,Gorlitz-Eastern Lusatia,5,Sorbian,Catholic,Livestock
+4779,Gallipoli,6,Greek,Orthodox,Livestock
+4780,Ohrid,6,Bulgarian,Orthodox,Wool
+4781,Transvaal,5,Nguni,Fetishist,Unknown
+4782,Tswana,3,Khoisan,Fetishist,Unknown
+4783,Swazi,3,Nguni,Fetishist,Unknown
+4784,Upper Limpopo,3,Nguni,Fetishist,Unknown
+4785,Sheffield,5,English,Catholic,Iron
+4786,Priegnitz,5,Saxon,Catholic,Livestock
+4787,Ribatejo,10,Portugese,Catholic,Grain
+4788,Plasencia,5,Leonese,Catholic,Livestock
+4789,Segovia,8,Castillian,Catholic,Wool
+4790,Pangguyanan,8,Sundanese,Hinduism,Grain
+4791,Cirebon,11,Sundanese,Hinduism,Spices
+4792,Kendal,6,Javanese,Hinduism,Naval Supplies
+4793,South Demak,6,Javanese,Hinduism,Grain
+4794,East Kediri,6,Javanese,Hinduism,Fish
+4795,Bone,9,Sulawesi,Animism,Spices
+4796,Kendari,11,Sulawesi,Animism,Unknown
+4797,Soppeng,8,Sulawesi,Animism,Spices
+4798,Wajo,8,Sulawesi,Animism,Spices
+4799,Sangkulirang,8,Bornean,Hinduism,Spices
+4800,Paser,8,Bornean,Hinduism,Unknown
+4801,Batulican,6,Bornean,Hinduism,Unknown
+4802,South Pontiniak,13,Bornean,Hinduism,Gold
+4803,North Katapang,9,Bornean,Hinduism,Unknown
+4804,Kuching,8,Bornean,Sunni,Fish
+4805,East  Sibu,8,Bornean,Sunni,Fish
+4806,Inland Sarawak,3,Bornean,Sunni,Tropical Wood
+4807,North Borneo,0,a,a,a
+4808,Sumatra,0,a,a,a
+4809,South Peureulak,11,Acehnese,Sunni,Spices
+4810,South Deli,11,Sumatran,Sunni,Spices
+4811,Barus,11,Sumatran,Hinduism,Spices
+4812,Gerik,5,Malayan,Sunni,Tropical Wood
+4813,Penang,5,Malayan,Sunni,Tropical Wood
+4814,Semantan,5,Malayan,Mahayana,Tropical Wood
+4815,Singapura,5,Malayan,Sunni,Fish
+4816,Rengat,7,Sumatran,Sunni,Fish
+4817,Padang,6,Sumatran,Hinduism,Grain
+4818,Indrapura,6,Sumatran,Hinduism,Grain
+4819,Son Nam,10,Vietnamese,Mahayana,Grain
+4820,Minh Quang,9,Vietnamese,Mahayana,Grain
+4821,Nghe An,10,Vietnamese,Mahayana,Grain
+4822,Amaravati,9,Cham,Hinduism,Incense
+4823,Jarai,6,Cham,Animism,Tea
+4824,Rhade,6,Cham,Animism,Copper
+4825,Pursat,8,Khmer,Buddhism,Grain
+4826,Kampot,10,Khmer,Buddhism,Grain
+4827,Kampom Pous Thom,6,Khmer,Hinduism,Grain
+4828,Preah Vihear,6,Khmer,Hinduism,Grain
+4829,Raung Dapey,6,Khmer,Hinduism,Grain
+4830,Rayong,9,Central Thai,Buddhism,Grain
+4831,Bangkok,9,Central Thai,Buddhism,Grain
+4832,Lopburi,9,Central Thai,Buddhism,Grain
+4833,Phetchabun,9,Central Thai,Buddhism,Grain
+4834,Suphanburi,9,Central Thai,Buddhism,Grain
+4835,Kanchanaburi,6,Central Thai,Buddhism,Ivory
+4836,Si Thep,9,Khmer,Buddhism,Grain
+4837,Muang Ngoi,5,Lao,Animism,Ivory
+4838,Sip Et,5,Lao,Buddhism,Ivory
+4839,Champasak,10,Lao,Animism,Tea
+4840,Xekong,5,Lao,Animism,Ivory
+4841,Lamphun,10,Northern Thai,Buddhism,Grain
+4842,Lakhon,8,Northern Thai,Buddhism,Grain
+4843,Annamite Mountains,0,a,a,a
+4844,Dawna Hills,0,a,a,a
+4845,Mamuju,10,Sulawesi,Animism,Unknown
+4846,Woolna,5,Gunwinyguan,Dreamtime,Tobacco
+4847,Yunawa,3,Paman,Dreamtime,Fish
+4848,Mingin,4,Paman,Dreamtime,Unknown
+4849,Kurtjar,3,Paman,Dreamtime,Unknown
+4850,Biri,6,Paman,Dreamtime,Unknown
+4851,Gureng,5,Aboriginal,Dreamtime,Unknown
+4852,WuliWuli,5,Gamilaraay,Dreamtime,Unknown
+4853,Bidjara,3,Gamilaraay,Dreamtime,Unknown
+4854,Badtjala,9,Aboriginal,Dreamtime,Unknown
+4855,Yiman,3,Gamilaraay,Dreamtime,Unknown
+4856,Barunggam,10,Gamilaraay,Dreamtime,Unknown
+4857,Bundjalung,5,Aboriginal,Dreamtime,Unknown
+4858,Tharawal,5,Aboriginal,Dreamtime,Unknown
+4859,Gundungurra,9,Aboriginal,Dreamtime,Unknown
+4860,Dharug,4,Aboriginal,Dreamtime,Unknown
+4861,Waveroo,5,Kulin,Dreamtime,Unknown
+4862,Ngadjuri,5,Yura,Dreamtime,Unknown
+4863,Nyaki,4,Nyoongah,Dreamtime,Unknown
+4864,Yuat,3,Nyoongah,Dreamtime,Unknown
+4865,Kurrama,3,Nyoongah,Dreamtime,Unknown
+4866,Mangala,3,Nyoongah,Dreamtime,Unknown
+4867,Wunambul,3,Gunwinyguan,Dreamtime,Unknown
+4868,Pyemmairrener,6,Palawa,Dreamtime,Fur
+4869,Peerapper,6,Palawa,Dreamtime,Gems
+4870,Australian Lakes,0,a,a,a
+4871,Cowasuk,5,Abenaki,Totemism,Unknown
+4872,Wenrohonon,5,Tionontate,Totemism,Fur
+4873,Pegwaki,5,Abenaki,Totemism,Unknown
+4874,Westenhuck,5,Mahican,Totemism,Unknown
+4875,Welhikhane,6,Iroquois,Totemism,Unknown
+4876,Scahentowanen,5,Susquehannock,Totemism,Unknown
+4877,Nottoway,6,Iroquois,Totemism,Unknown
+4878,Eno,6,Catawba,Totemism,Unknown
+4879,Kituwah,5,Cherokee,Totemism,Tobacco
+4880,Combahee,6,Yamasee,Totemism,Unknown
+4881,Sawokli,6,Creek,Totemism,Unknown
+4882,Etali,6,Cherokee,Totemism,Unknown
+4883,Napochi,6,Chickasaw,Totemism,Unknown
+4884,Houma,6,Natchez,Totemism,Unknown
+4885,Avoyel,6,Natchez,Totemism,Unknown
+4886,Nasoni,6,Caddo,Totemism,Unknown
+4887,Cochati,6,Chickasaw,Totemism,Unknown
+4888,Tatteroa,5,Shawnee,Totemism,Fur
+4889,Mohetan,6,Shawnee,Totemism,Unknown
+4890,Kichessipirini,6,Algonquin,Totemism,Unknown
+4891,Piktuk,5,Mikmaq,Totemism,Fish
+4892,Iroquet,6,Laurentian,Totemism,Unknown
+4893,Nebesek,5,Laurentian,Totemism,Unknown
+4894,Ottagotouemin,5,Algonquin,Totemism,Unknown
+4895,Batiscan,5,Algonquin,Totemism,Unknown
+4896,Meductic,5,Maliseet,Totemism,Unknown
+4897,Keinouche,6,Algonquin,Totemism,Unknown
+4898,Noquet,6,Anishinabe,Totemism,Fur
+4899,Mamaceqtaw,6,Anishinabe,Totemism,Unknown
+4900,Otoe,6,Pawnee,Totemism,Unknown
+4901,Saone,6,Dakota,Totemism,Unknown
+4902,Makandwewin,6,Cheyenne,Totemism,Unknown
+4903,Chinko,6,Illini,Totemism,Unknown
+4904,Espeminkia,6,Illini,Totemism,Unknown
+4905,Tapouaro,6,Illini,Totemism,Unknown
+4906,Coiracoentanon,6,Illini,Totemism,Unknown
+4907,Mosopelea,6,Osage,Totemism,Unknown
+4908,Tawehash,6,Wichita,Totemism,Unknown
+4909,Kitsash,6,Wichita,Totemism,Unknown
+4910,Tawakoni,6,Wichita,Totemism,Unknown
+4911,Nabaydacu,6,Caddo,Totemism,Unknown
+4912,Ahkwesahsne,5,Laurentian,Totemism,Unknown
+4913,Aniyutsi,6,Yuchi,Totemism,Unknown
+4914,Neozho,6,Wichita,Totemism,Unknown
+4915,Pitahawirata,6,Pawnee,Totemism,Unknown
+4916,Panka,6,Pawnee,Totemism,Unknown
+4917,Selis,6,Salish,Totemism,Unknown
+4918,Hunkpapha,6,Kiowa,Totemism,Unknown
+4919,Sihabi,6,Nakota,Totemism,Unknown
+4920,Wadopabina,6,Nakota,Totemism,Unknown
+4921,Kuttawa,6,Shawnee,Totemism,Unknown
+4922,Pepikokia,6,Miami,Totemism,Unknown
+4923,Pacaha,3,Yoron,Totemism,Unknown
+4924,Laurentian Massif,0,a,a,a
+4925,White Mountains,0,a,a,a
+4926,Adirondacks,0,a,a,a
+4927,Blue Mountains,0,a,a,a
+4928,Allegheny Front,0,a,a,a
+4929,Appalachians,0,a,a,a
+4930,Alleghenies,0,a,a,a
+4931,Cumberland Mountains,0,a,a,a
+4932,Great Smoky Mountains,0,a,a,a
+4933,Blue Ridge,0,a,a,a
+4934,Maui,5,Polynesian,Animism,Naval Supplies
+4935,Oahu,5,Polynesian,Animism,Cloth
+4936,Kauai,5,Polynesian,Animism,Fish
+4937,Lau,3,Melanesian,Animism,Livestock
+4938,Vanua Levu,5,Melanesian,Animism,Fish
+4939,Te Urewera,8,Maori,Animism,Naval Supplies
+4940,Lake Tulare,0,a,a,a
+4941,Lake Cahuilla,0,a,a,a

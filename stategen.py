@@ -102,7 +102,7 @@ def extract_land_pixels():
 def extract_and_resize():
     img = Image.open(PROVINCES_BMP_PATH).convert("RGB")
     width, height = img.size
-    for i in range(len(ids)):
+    for i in range(oceanea):
         mask = Image.new("RGBA", (width, height), (0, 0, 0, 0))     
         for j in range(len(ids[i])):
             rgb_color = (land_rgbs["red"][ids[i][j]-1], land_rgbs["green"][ids[i][j]-1], land_rgbs["blue"][ids[i][j]-1])
@@ -118,43 +118,16 @@ def extract_and_resize():
             newred = int(rgb_color[0] *0.5 + 50*0.5)
             newgreen= int(rgb_color[1] *0.2 + 255*0.8)
             newblue = int(rgb_color[2] *0.5 + 100*0.5)
-            if(i ==329 or i == 344):
+            if i in {329, 344, 330, 327, 328, 345, 346, 347, 342, 343}:
                 for k in land_pixels_for_province:
                     mask.putpixel((k[0]-2000,k[1]), (rgb_color[0],rgb_color[1],rgb_color[2], 255))
             else:
                 for k in land_pixels_for_province:
                     mask.putpixel(k, (rgb_color[0],rgb_color[1],rgb_color[2], 255)) 
-        bbox = mask.getbbox()
-        print(bbox)
-        # for j in range(len(ids[i])):
-        #     mask = Image.new("RGBA", (width, height), (0, 0, 0, 0))
-        #     rgb_color = (land_rgbs["red"][ids[i][j]-1], land_rgbs["green"][ids[i][j]-1], land_rgbs["blue"][ids[i][j]-1])
-        #     # print(rgb_color,id)
-        #     land_pixels_for_province = land_pixel_data.get(rgb_color, [])
-        #     # print(land_pixels_for_province)
-        #     if not land_pixels_for_province:
-        #         print(f"Warning: No land pixels found for color {rgb_color}. Skipping this province.")
-        #         continue
-        #     # newred = int(rgb_color[0] *0.5 + 50*0.5)
-        #     # newgreen= int(rgb_color[1] *0.5 + 100*0.5)
-        #     # newblue = int(rgb_color[2] *0.2 + 255*0.8)
-        #     # newred = int(rgb_color[0] *0.5 + 50*0.5)
-        #     # newgreen= int(rgb_color[1] *0.2 + 255*0.8)
-        #     # newblue = int(rgb_color[2] *0.5 + 100*0.5)
-        #     if(i ==329 or i == 344):
-        #         for k in land_pixels_for_province:
-        #             mask.putpixel((k[0]-2000,k[1]), (rgb_color[0],rgb_color[1],rgb_color[2], 255))
-        #     else:
-        #         for k in land_pixels_for_province:
-        #             mask.putpixel(k, (rgb_color[0],rgb_color[1],rgb_color[2], 255))
-        #     # cropped = mask.crop(bbox)
-        #     print(bbox)
-
-            # cropped.save(f"normalprovinces/{ids[i][j]}.png")
-            # print(f"Saved normalprovinces/{ids[i][j]}.png")
-        # notwidth,notheight = cropped.size
-        # widths.append(notwidth)
-        # heights.append(notheight)
+        # bbox = mask.getbbox()
+        # print(bbox)
+        mask.save(f"fullmapsinglecolorstates/{i}.png")
+        print(f"fullmapsinglecolorstates/{i}.png saved")
        
 
 
@@ -212,9 +185,10 @@ def foundidsforregion():
 
         regionids.append(region_provinces)
 foundidsforregion()
-
+# print(ids)
 widths = []
 heights = []
+oceanea = [344,329,330,327,328,345,346,347,342,343]
 land_pixel_data = extract_land_pixels()
 print("Found all land pixels.")
 extract_and_resize()

@@ -20,7 +20,7 @@ for filename in os.listdir(input_folder):
     key = os.path.splitext(filename)[0]
     output_json[key] = "\n".join(paths)
 
-with open("output.json", "w") as f:
+with open("test.json", "w") as f:
     json.dump(output_json, f, indent=2)
 
 print(f"✅ Converted {len(output_json)} SVGs to output.json")

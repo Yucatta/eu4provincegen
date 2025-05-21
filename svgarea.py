@@ -2,6 +2,7 @@ from PIL import Image
 import pandas as pd
 import cv2
 import numpy as np
+import json
 import csv
 import math
 
@@ -128,11 +129,12 @@ def foundidsforregion():
 foundidsforregion()
 
 def turnsvg():
-    img = Image.open(f"provinces.bmp").convert("RGB")
-    for i in range(0,4938):
+    for i in range(0,73):
+        img = Image.open(f"fullmapregion/{i}.png").convert("RGB")
         # for id in ids[i]:
         # mask = rgb_mask(img, rgb)
-        rgb_color = (land_rgbs["red"][i], land_rgbs["green"][i], land_rgbs["blue"][i])
+        # rgb_color = (land_rgbs["red"][i], land_rgbs["green"][i], land_rgbs["blue"][i])
+        rgb_color = (40,40,40)
         # newred = min(int(rgb_color[1]  + 20),255)
         # newgreen= int(rgb_color[1] *0.8 + 15)
         # newblue = int(rgb_color[1] *0.6 + 10)
@@ -140,7 +142,8 @@ def turnsvg():
         contours, _ = cv2.findContours(mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
         svg_paths = [contour_to_svg_path(c) for c in contours]
 
-        save_svg(svg_paths, img.width, img.height,f"fullmap/{i}.svg")
+        # save_svg(svg_paths, img.width, img.height,f"fullmap/{i}.svg")
+        output_json[i] = "\n".join(svg_paths)
         print(f"fullmap/{i}.svg")
 
     # contours, _ = cv2.findContours(mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
@@ -158,7 +161,8 @@ def rgb_mask(image, rgb_color):
 def contour_to_svg_path(contour):
     points = contour.squeeze()
     path_data = "M " + " L ".join(f"{x},{y}" for x, y in points) + " Z"
-    return f'<path d="{path_data}" fill="none" stroke="black" stroke-width="1"/>'
+    return path_data
+    # return f'<path d="{path_data}" fill="none" stroke="black" stroke-width="1"/>'
 
 def save_svg(paths, width, height, filename):
     with open(filename, "w") as f:
@@ -167,7 +171,12 @@ def save_svg(paths, width, height, filename):
             f.write(f"  {path}\n")
         f.write("</svg>")
 
+
+output_json = {}
 turnsvg()
+
+with open("regionoutlines.json", "w") as f:
+    json.dump(output_json, f, indent=2)
 # print(areas,states)
 # print(ids)
 # --- Main Example ---

@@ -2,7 +2,7 @@ from PIL import Image
 import pandas as pd
 import csv
 import math
-
+import json
 PROVINCE_ID = 4779  
 PROVINCES_BMP_PATH = "provinces.bmp"
 DEFINITION_CSV_PATH = "definition.csv"
@@ -384,12 +384,18 @@ def foundidsforregion():
 
         regionids.append(region_provinces)
 foundidsforregion()
+output_json = {}
 
+# for i in range(len(regionids)):
+#     output_json[i] = "\n".join(map(str, regionids[i]))
+
+with open("regionids.json", "w") as f:
+    json.dump(regionids, f, indent=2)
 widths = []
 heights = []
-land_pixel_data = extract_land_pixels()
-print("Found all land pixels.")
-extract_and_resize()
+# land_pixel_data = extract_land_pixels()
+# print("Found all land pixels.")
+# extract_and_resize()
 
 
 # with open("region_ids.csv", "w", newline='') as csvfile:

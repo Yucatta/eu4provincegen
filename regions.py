@@ -2,6 +2,7 @@ from PIL import Image
 import pandas as pd
 import csv
 import math
+import json
 
 PROVINCES_BMP_PATH = "provinces.bmp"
 DEFINITION_CSV_PATH = "definition.csv"
@@ -104,19 +105,20 @@ def extract_and_resize():
 
                 if(i== 58):
                     for j in land_pixels_for_province:
-                        mask.putpixel((j[0]-2000,j[1]), (rgb_color[0],rgb_color[1],rgb_color[2], 255))
+                        mask.putpixel((j[0]-2000,j[1]), (40,40,40, 255))
                 else:
                     for j in land_pixels_for_province:
-                        mask.putpixel(j, (rgb_color[0],rgb_color[1],rgb_color[2],255))
+                        mask.putpixel(j, (40,40,40,255))
         mask.size
         bbox = mask.getbbox()
+        bboxes.append(bbox)
         print(bbox)
         # cropped = mask.crop(bbox)
         # notwidth,notheight = cropped.size
         # widths.append(notwidth)
         # heights.append(notheight)
-        # cropped.save(f"regions/{i}.png")
-        print(f"regions/{i}.png",regions[i])
+        mask.save(f"fullmapregion/{i}.png")
+        print(f"fullmapregion/{i}.png",regions[i])
         # for area in areas[i]:
         #     for j in range(len(states)):
         #         if states[j] == area:
@@ -224,6 +226,40 @@ foundidsforregion()
 
 widths = []
 heights = []
+bboxes = []
 land_pixel_data = extract_land_pixels()
 print("Found all land pixels.")
+regionsbbox = []
 extract_and_resize()
+
+with open("regionbboxes.csv", "w", newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    # for region, id in states,ids:
+    for i in range(len(bboxes)):
+        # lengths = widths[i] + heights[i]
+        # row = [states[i]] 
+        writer.writerow(bboxes[i])
+# max = 0
+# index = 0
+# for i in range(len(areas)):
+#     if(len(areas[i])>max):
+#         index = i
+#         max = len(areas[i])
+
+# print(max,index,areas[index],regions[index])
+# regionareasids = []
+# for i in range(len(areas)):
+#     currentareas = [regions[i]]
+#     for j in range(len(areas[i])):
+#         for k in range(len(states)):
+#             if(areas[i][j]==states[k]):
+#                 currentareas.append(k)
+#                 break
+#     regionareasids.append(currentareas)
+#     print(regionareasids[i])
+
+# data = []
+# with open('areaids.csv', mode='r', newline='') as file:
+#     reader = csv.reader(file)
+#     for row in reader:
+#         data.append(row)
