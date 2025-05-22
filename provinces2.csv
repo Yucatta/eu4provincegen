@@ -1,4 +1,4 @@
-1,Stockholm,13,Swedish,Catholic,Grain
+1,Uppland,13,Swedish,Catholic,Grain
 2,Ostergotland,6,Swedish,Catholic,Grain
 3,Kalmar,5,Swedish,Catholic,Naval Supplies
 4,Bergslagen,7,Swedish,Catholic,Iron
@@ -478,7 +478,7 @@
 478,Argyn,6,Khazak,Sunni,Wool
 479,Kerey,6,Khazak,Sunni,Copper
 480,Kulunda,3,Kirgiz,Tengri,Unknown
-481,Bermuda,3,English,Protestant,Unknown
+481,Bermuda,3,English,No Religion,Unknown
 482,Bahamas,5,Arawak,Animism,Unknown
 483,Turks Islands,7,Carib,Animism,Unknown
 484,Havana,11,Arawak,Animism,Unknown
@@ -1081,17 +1081,17 @@
 1081,Simbirsk,3,Kazani,Sunni,Iron
 1082,Kazan,15,Kazani,Sunni,Grain
 1083,Zavolochye,8,Russian,Orthodox,Grain
-1084,Wadjuk,9,Nyoongah,Alcheringa,Livestock
-1085,Paredarerme,6,Palawa,Alcheringa,Fish
-1086,Kaurna,7,Yura,Alcheringa,Fish
-1087,Wurundjeri,11,Kulin,Alcheringa,Livestock
-1088,Wergaia,3,Kulin,Alcheringa,Unknown
-1089,Wiradjuri,8,Gamilaraay,Alcheringa,Unknown
-1090,Eora,11,Aboriginal,Alcheringa,Fish
-1091,Kamilaroi,3,Gamilaraay,Alcheringa,Unknown
-1092,Bundjalung,8,Aboriginal,Alcheringa,Unknown
-1093,Barunggam,3,Gamilaraay,Alcheringa,Unknown
-1094,Turrbal,5,Gamilaraay,Alcheringa,Naval Supplies
+1084,Wadjuk,9,Nyoongah,Dreamtime,Livestock
+1085,Paredarerme,6,Palawa,Dreamtime,Fish
+1086,Kaurna,7,Yura,Dreamtime,Fish
+1087,Wurundjeri,11,Kulin,Dreamtime,Livestock
+1088,Wergaia,3,Kulin,Dreamtime,Unknown
+1089,Wiradjuri,8,Gamilaraay,Dreamtime,Unknown
+1090,Eora,11,Aboriginal,Dreamtime,Fish
+1091,Kamilaroi,3,Gamilaraay,Dreamtime,Unknown
+1092,Bundjalung,8,Aboriginal,Dreamtime,Unknown
+1093,Barunggam,3,Gamilaraay,Dreamtime,Unknown
+1094,Turrbal,5,Gamilaraay,Dreamtime,Naval Supplies
 1095,Falklands,3,Cosmopolitan French,Catholic,Unknown
 1096,Cape Verde,3,Portugese,Catholic,Unknown
 1097,Fernando Po,5,Yorumba,Fetishist,Unknown
@@ -1993,7 +1993,7 @@
 1993,Masrshall Islands,3,Polynesian,Animism,Unknown
 1994,Wake,3,Polynesian,Animism,Unknown
 1995,Micronesia,3,Polynesian,Animism,Unknown
-1795,Palau,3,Polynesian,Animism,Unknown
+1795,Palau,3,Polynesian,Animisn,Unknown
 1997,Midway,3,Polynesian,Animism,Unknown
 1998,Christmas Island,3,a,a,Unknown
 1999,Cocos Island,3,a,a,Unknown
@@ -2723,17 +2723,17 @@
 2723,Yos Sudarso,3,Papuan,Animism,Unknown
 2724,Asmat,3,Papuan,Animism,Unknown
 2725,Aru,3,Moluccan,Animism,Unknown
-2726,Malgana,5,Nyoongah,Alcheringa,Naval Supplies
-2727,Minang,6,Nyoongah,Alcheringa,Unknown
-2728,Tiwi,5,Gunwinyguan,Alcheringa,Fish
-2729,Yolngu,5,Gunwinyguan,Alcheringa,Cloth
-2730,Awngthim,5,Paman,Alcheringa,Tropical Wood
-2731,Guugu Yimithirr,5,Paman,Alcheringa,Unknown
-2732,Wulgurukaba,5,Paman,Alcheringa,Unknown
-2733,Baiali,8,Paman,Alcheringa,Unknown
-2734,Yuin,8,Aboriginal,Alcheringa,Unknown
-2735,Gunditjmara,5,Kulin,Alcheringa,Unknown
-2736,Nukunu,7,Yura,Alcheringa,Unknown
+2726,Malgana,5,Nyoongah,Dreamtime,Naval Supplies
+2727,Minang,6,Nyoongah,Dreamtime,Unknown
+2728,Tiwi,5,Gunwinyguan,Dreamtime,Fish
+2729,Yolngu,5,Gunwinyguan,Dreamtime,Cloth
+2730,Awngthim,5,Paman,Dreamtime,Tropical Wood
+2731,Guugu Yimithirr,5,Paman,Dreamtime,Unknown
+2732,Wulgurukaba,5,Paman,Dreamtime,Unknown
+2733,Baiali,8,Paman,Dreamtime,Unknown
+2734,Yuin,8,Aboriginal,Dreamtime,Unknown
+2735,Gunditjmara,5,Kulin,Dreamtime,Unknown
+2736,Nukunu,7,Yura,Dreamtime,Unknown
 2737,Wairarapa,7,Maori,Animism,Naval Supplies
 2738,Te Tau Ihu,4,Maori,Animism,Iron
 2739,Waikato,10,Maori,Animism,Fish
@@ -2799,7 +2799,7 @@
 2799,Sennar,4,Nubian,Coptic,Livestock
 2800,Kosti,3,Nubian,Fetishist,Unknown
 2801,Medwa,3,Tunjur,Fetishist,Unknown
-2802,Kobbe.txt,3,Tunjur,Fetishist,Unknown
+2802,Kobbe,3,Tunjur,Fetishist,Unknown
 2803,Delta,4,Carib,Animism,Unknown
 2804,Guasipati,3,Carib,Animism,Unknown
 2805,Uyapari,3,Carib,Animism,Coffee
@@ -4760,7 +4760,6 @@
 4760,Innbaiern,8,Bavarian,Catholic,Wine
 4761,Traungau,8,Austrian,Catholic,Iron
 4762,Wienerwald,9,Austrian,Catholic,Wine
-4763,Alps,0,a,a,a
 4764,Salins,7,Burgundian,Catholic,Salt
 4765,Mulhouse,8,Swabian,Catholic,Cloth
 4766,Verdun,9,Burgundian,Catholic,Grain
@@ -4802,7 +4801,7 @@
 4802,South Pontiniak,13,Bornean,Hinduism,Gold
 4803,North Katapang,9,Bornean,Hinduism,Unknown
 4804,Kuching,8,Bornean,Sunni,Fish
-4805,East Sibu,8,Bornean,Sunni,Fish
+4805,East  Sibu,8,Bornean,Sunni,Fish
 4806,Inland Sarawak,3,Bornean,Sunni,Tropical Wood
 4807,North Borneo,0,a,a,a
 4808,Sumatra,0,a,a,a
@@ -4843,30 +4842,30 @@
 4843,Annamite Mountains,0,a,a,a
 4844,Dawna Hills,0,a,a,a
 4845,Mamuju,10,Sulawesi,Animism,Unknown
-4846,Woolna,5,Gunwinyguan,Alcheringa,Tobacco
-4847,Yunawa,3,Paman,Alcheringa,Fish
-4848,Mingin,4,Paman,Alcheringa,Unknown
-4849,Kurtjar,3,Paman,Alcheringa,Unknown
-4850,Biri,6,Paman,Alcheringa,Unknown
-4851,Gureng,5,Aboriginal,Alcheringa,Unknown
-4852,WuliWuli,5,Gamilaraay,Alcheringa,Unknown
-4853,Bidjara,3,Gamilaraay,Alcheringa,Unknown
-4854,Badtjala,9,Aboriginal,Alcheringa,Unknown
-4855,Yiman,3,Gamilaraay,Alcheringa,Unknown
-4856,Barunggam,10,Gamilaraay,Alcheringa,Unknown
-4857,Bundjalung,5,Aboriginal,Alcheringa,Unknown
-4858,Tharawal,5,Aboriginal,Alcheringa,Unknown
-4859,Gundungurra,9,Aboriginal,Alcheringa,Unknown
-4860,Dharug,4,Aboriginal,Alcheringa,Unknown
-4861,Waveroo,5,Kulin,Alcheringa,Unknown
-4862,Ngadjuri,5,Yura,Alcheringa,Unknown
-4863,Nyaki,4,Nyoongah,Alcheringa,Unknown
-4864,Yuat,3,Nyoongah,Alcheringa,Unknown
-4865,Kurrama,3,Nyoongah,Alcheringa,Unknown
-4866,Mangala,3,Nyoongah,Alcheringa,Unknown
-4867,Wunambul,3,Gunwinyguan,Alcheringa,Unknown
-4868,Pyemmairrener,6,Palawa,Alcheringa,Fur
-4869,Peerapper,6,Palawa,Alcheringa,Gems
+4846,Woolna,5,Gunwinyguan,Dreamtime,Tobacco
+4847,Yunawa,3,Paman,Dreamtime,Fish
+4848,Mingin,4,Paman,Dreamtime,Unknown
+4849,Kurtjar,3,Paman,Dreamtime,Unknown
+4850,Biri,6,Paman,Dreamtime,Unknown
+4851,Gureng,5,Aboriginal,Dreamtime,Unknown
+4852,WuliWuli,5,Gamilaraay,Dreamtime,Unknown
+4853,Bidjara,3,Gamilaraay,Dreamtime,Unknown
+4854,Badtjala,9,Aboriginal,Dreamtime,Unknown
+4855,Yiman,3,Gamilaraay,Dreamtime,Unknown
+4856,Barunggam,10,Gamilaraay,Dreamtime,Unknown
+4857,Bundjalung,5,Aboriginal,Dreamtime,Unknown
+4858,Tharawal,5,Aboriginal,Dreamtime,Unknown
+4859,Gundungurra,9,Aboriginal,Dreamtime,Unknown
+4860,Dharug,4,Aboriginal,Dreamtime,Unknown
+4861,Waveroo,5,Kulin,Dreamtime,Unknown
+4862,Ngadjuri,5,Yura,Dreamtime,Unknown
+4863,Nyaki,4,Nyoongah,Dreamtime,Unknown
+4864,Yuat,3,Nyoongah,Dreamtime,Unknown
+4865,Kurrama,3,Nyoongah,Dreamtime,Unknown
+4866,Mangala,3,Nyoongah,Dreamtime,Unknown
+4867,Wunambul,3,Gunwinyguan,Dreamtime,Unknown
+4868,Pyemmairrener,6,Palawa,Dreamtime,Fur
+4869,Peerapper,6,Palawa,Dreamtime,Gems
 4870,Australian Lakes,0,a,a,a
 4871,Cowasuk,5,Abenaki,Totemism,Unknown
 4872,Wenrohonon,5,Tionontate,Totemism,Fur

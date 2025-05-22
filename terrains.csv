@@ -1,0 +1,2355 @@
+province id,province terrain
+1355,inland_ocean
+1358,inland_ocean
+1360,inland_ocean
+1361,inland_ocean
+1362,inland_ocean
+1363,inland_ocean
+1364,inland_ocean
+1365,inland_ocean
+1366,inland_ocean
+1367,inland_ocean
+1368,inland_ocean
+1369,inland_ocean
+1370,inland_ocean
+1371,inland_ocean
+1393,inland_ocean
+1394,inland_ocean
+1395,inland_ocean
+1359,inland_ocean
+1398,inland_ocean
+1399,inland_ocean
+1400,inland_ocean
+1356,inland_ocean
+1357,inland_ocean
+1401,inland_ocean
+1408,inland_ocean
+1409,inland_ocean
+1410,inland_ocean
+1348,inland_ocean
+1347,inland_ocean
+1345,inland_ocean
+1402,inland_ocean
+4357,inland_ocean
+1397,inland_ocean [cite: 2]
+4358,inland_ocean [cite: 2]
+1353,inland_ocean [cite: 2]
+1352,inland_ocean [cite: 2]
+1351,inland_ocean [cite: 2]
+1350,inland_ocean [cite: 2]
+1354,inland_ocean [cite: 2]
+1034,glacier
+1035,glacier
+1104,glacier
+1105,glacier
+2074,glacier
+2128,glacier
+2129,glacier
+2025,glacier
+2440,glacier
+2574,glacier
+104,farmlands
+109,farmlands
+108,farmlands
+1744,farmlands
+1865,farmlands
+45,farmlands
+44,farmlands
+1874,farmlands
+113,farmlands
+172,farmlands
+161,farmlands
+2998,farmlands
+160,farmlands
+125,farmlands
+506,farmlands
+507,farmlands
+510,farmlands
+522,farmlands
+523,farmlands
+524,farmlands
+532,farmlands
+540,farmlands
+555,farmlands
+556,farmlands
+558,farmlands
+561,farmlands
+563,farmlands
+2026,farmlands
+2044,farmlands
+2045,farmlands
+2047,farmlands
+2060,farmlands
+2063,farmlands
+2075,farmlands
+2095,farmlands
+115,farmlands
+117,farmlands
+118,farmlands
+121,farmlands
+1862,farmlands
+916,farmlands
+917,farmlands
+920,farmlands
+925,farmlands [cite: 3]
+930,farmlands [cite: 3]
+2532,farmlands [cite: 3]
+584,farmlands
+600,farmlands
+153,farmlands
+1772,farmlands
+613,farmlands
+2380,farmlands
+169,farmlands
+177,farmlands
+180,farmlands
+1879,farmlands
+167,farmlands
+183,farmlands
+192,farmlands
+191,farmlands
+1877,farmlands
+200,farmlands
+2753,farmlands
+1868,farmlands
+68,farmlands
+77,farmlands
+70,farmlands
+65,farmlands
+78,farmlands
+1841,farmlands
+266,farmlands
+255,farmlands
+254,farmlands
+258,farmlands
+259,farmlands
+260,farmlands
+134,farmlands
+151,farmlands
+152,farmlands
+1767,farmlands
+1954,farmlands
+150,farmlands
+268,farmlands
+280,farmlands
+1876,farmlands
+243,farmlands
+245,farmlands
+248,farmlands
+410,farmlands
+415,farmlands
+2310,farmlands
+186,farmlands
+90,farmlands
+92,farmlands
+88,farmlands
+182,farmlands
+12,farmlands
+14,farmlands
+6,farmlands
+289,farmlands
+2407,farmlands
+290,farmlands
+279,farmlands
+4538,farmlands
+695,farmlands
+696,farmlands
+1816,farmlands
+2137,farmlands
+690,farmlands
+691,farmlands
+2138,farmlands
+2139,farmlands
+2140,farmlands
+685,farmlands
+1821,farmlands
+1822,farmlands
+2141,farmlands
+2142,farmlands
+2145,farmlands
+1838,farmlands
+2143,farmlands
+2144,farmlands
+684,farmlands
+2148,farmlands
+2149,farmlands
+2150,farmlands
+687,farmlands
+688,farmlands
+692,farmlands
+1836,farmlands
+2175,farmlands
+2176,farmlands
+671,farmlands
+672,farmlands
+682,farmlands
+683,farmlands
+2151,farmlands
+2172,farmlands
+679,farmlands
+665,farmlands
+667,farmlands
+2156,farmlands
+2157,farmlands
+2159,farmlands
+2163,farmlands
+700,farmlands
+2312,farmlands
+257,farmlands
+2033,farmlands [cite: 4]
+148,farmlands [cite: 4]
+64,farmlands [cite: 4]
+2955,farmlands [cite: 4]
+2957,farmlands [cite: 4]
+267,farmlands [cite: 4]
+2979,farmlands [cite: 4]
+2980,farmlands [cite: 4]
+2981,farmlands [cite: 4]
+4384,farmlands [cite: 4]
+4388,farmlands [cite: 4]
+4390,farmlands [cite: 4]
+4392,farmlands [cite: 4]
+43,farmlands [cite: 4]
+97,farmlands [cite: 4]
+98,farmlands [cite: 4]
+100,farmlands [cite: 4]
+4382,farmlands [cite: 4]
+4383,farmlands [cite: 4]
+234,farmlands [cite: 4]
+235,farmlands [cite: 4]
+236,farmlands [cite: 4]
+238,farmlands [cite: 4]
+4367,farmlands [cite: 4]
+4368,farmlands [cite: 4]
+4371,farmlands [cite: 4]
+4375,farmlands [cite: 4]
+358,farmlands [cite: 4]
+359,farmlands [cite: 4]
+361,farmlands [cite: 4]
+363,farmlands [cite: 4]
+2316,farmlands [cite: 4]
+4316,farmlands [cite: 4]
+262,farmlands [cite: 4]
+264,farmlands [cite: 4]
+4126,farmlands [cite: 4]
+4173,farmlands [cite: 4]
+4240,farmlands [cite: 4]
+4194,farmlands [cite: 4]
+4195,farmlands [cite: 4]
+4196,farmlands [cite: 4]
+4197,farmlands [cite: 4]
+4212,farmlands [cite: 4]
+4213,farmlands [cite: 4]
+1020,farmlands [cite: 4]
+1021,farmlands [cite: 4]
+1028,farmlands [cite: 4]
+1030,farmlands [cite: 4]
+735,farmlands [cite: 4]
+2745,farmlands [cite: 4]
+581,farmlands [cite: 4]
+4396,farmlands [cite: 4]
+585,farmlands [cite: 4]
+586,farmlands [cite: 4]
+2076,farmlands [cite: 4]
+4415,farmlands [cite: 4]
+4416,farmlands [cite: 4]
+4428,farmlands [cite: 4]
+4476,farmlands [cite: 4]
+4479,farmlands [cite: 4]
+4487,farmlands [cite: 4]
+4489,farmlands [cite: 4]
+4490,farmlands [cite: 4]
+4496,farmlands [cite: 4]
+4497,farmlands [cite: 4]
+4510,farmlands [cite: 4]
+4513,farmlands [cite: 4]
+4529,farmlands [cite: 4]
+4531,farmlands [cite: 4]
+146,farmlands [cite: 4]
+67,farmlands [cite: 4]
+4765,farmlands [cite: 4]
+4769,farmlands [cite: 4]
+4712,farmlands [cite: 4]
+4831,farmlands [cite: 4]
+4832,farmlands [cite: 4]
+2774,farmlands [cite: 4]
+2775,farmlands [cite: 4]
+2794,farmlands [cite: 4]
+2796,farmlands [cite: 4]
+2,forest [cite: 5]
+4,forest [cite: 5]
+8,forest [cite: 5]
+9,forest [cite: 5]
+11,forest [cite: 5]
+18,forest [cite: 5]
+29,forest [cite: 5]
+30,forest [cite: 5]
+31,forest [cite: 5]
+315,forest [cite: 5]
+4123,forest [cite: 5]
+4124,forest [cite: 5]
+309,forest [cite: 5]
+1955,forest [cite: 5]
+2611,forest [cite: 5]
+996,forest [cite: 5]
+997,forest [cite: 5]
+998,forest [cite: 5]
+2575,forest [cite: 5]
+1054,forest [cite: 5]
+1046,forest [cite: 5]
+10,forest [cite: 5]
+993,forest [cite: 5]
+1011,forest [cite: 5]
+2572,forest [cite: 5]
+2583,forest [cite: 5]
+2671,forest [cite: 5]
+978,forest [cite: 5]
+980,forest [cite: 5]
+2022,forest [cite: 5]
+2517,forest [cite: 5]
+2573,forest [cite: 5]
+2582,forest [cite: 5]
+2593,forest [cite: 5]
+960,forest [cite: 5]
+1109,forest [cite: 5]
+1026,forest [cite: 5]
+4187,forest [cite: 5]
+312,forest [cite: 5]
+508,hills [cite: 6]
+509,hills [cite: 6]
+511,hills [cite: 6]
+515,hills [cite: 6]
+525,hills [cite: 6]
+527,hills [cite: 6]
+530,hills [cite: 6]
+545,hills [cite: 6]
+550,hills [cite: 6]
+554,hills [cite: 6]
+557,hills [cite: 6]
+1947,hills [cite: 6]
+2036,hills [cite: 6]
+2037,hills [cite: 6]
+2040,hills [cite: 6]
+2043,hills [cite: 6]
+2056,hills [cite: 6]
+2058,hills [cite: 6]
+2069,hills [cite: 6]
+2070,hills [cite: 6]
+2071,hills [cite: 6]
+2080,hills [cite: 6]
+2090,hills [cite: 6]
+2092,hills [cite: 6]
+2097,hills [cite: 6]
+105,hills [cite: 6]
+106,hills [cite: 6]
+107,hills [cite: 6]
+111,hills [cite: 6]
+1774,hills [cite: 6]
+1844,hills [cite: 6]
+1746,hills [cite: 6]
+4739,hills [cite: 6]
+1827,hills [cite: 6]
+63,hills [cite: 6]
+488,hills [cite: 6]
+489,hills [cite: 6]
+837,hills [cite: 6]
+839,hills [cite: 6]
+841,hills [cite: 6]
+844,hills [cite: 6]
+847,hills [cite: 6]
+849,hills [cite: 6]
+851,hills [cite: 6]
+854,hills [cite: 6]
+855,hills [cite: 6]
+899,hills [cite: 6]
+911,hills [cite: 6]
+959,hills [cite: 6]
+966,hills [cite: 6]
+981,hills [cite: 6]
+992,hills [cite: 6]
+994,hills [cite: 6]
+995,hills [cite: 6]
+2023,hills [cite: 6]
+2515,hills [cite: 6]
+2518,hills [cite: 6]
+2557,hills [cite: 6]
+2558,hills [cite: 6]
+2562,hills [cite: 6]
+2565,hills [cite: 6]
+2567,hills [cite: 6]
+2571,hills [cite: 6]
+2577,hills [cite: 6]
+2579,hills [cite: 6]
+2627,hills [cite: 6]
+2638,hills [cite: 6]
+2640,hills [cite: 6]
+2642,hills [cite: 6]
+2648,hills [cite: 6]
+2653,hills [cite: 6]
+2657,hills [cite: 6]
+2660,hills [cite: 6]
+931,hills [cite: 7]
+935,hills [cite: 7]
+949,hills [cite: 7]
+951,hills [cite: 7]
+961,hills [cite: 7]
+964,hills [cite: 7]
+969,hills [cite: 7]
+972,hills [cite: 7]
+986,hills [cite: 7]
+2580,hills [cite: 7]
+2011,hills [cite: 7]
+2012,hills [cite: 7]
+2509,hills [cite: 7]
+2527,hills [cite: 7]
+2531,hills [cite: 7]
+2548,hills [cite: 7]
+2552,hills [cite: 7]
+2553,hills [cite: 7]
+2555,hills [cite: 7]
+2556,hills [cite: 7]
+2559,hills [cite: 7]
+2563,hills [cite: 7]
+2607,hills [cite: 7]
+2608,hills [cite: 7]
+1117,hills [cite: 7]
+1121,hills [cite: 7]
+1016,hills [cite: 7]
+2373,hills [cite: 7]
+1022,hills [cite: 7]
+1823,hills [cite: 7]
+604,hills [cite: 7]
+609,hills [cite: 7]
+615,hills [cite: 7]
+611,hills [cite: 7]
+2382,hills [cite: 7]
+608,hills [cite: 7]
+2379,hills [cite: 7]
+2299,hills [cite: 7]
+318,hills [cite: 7]
+2606,hills [cite: 7]
+2658,hills [cite: 7]
+193,hills [cite: 7]
+201,hills [cite: 7]
+102,hills [cite: 7]
+198,hills [cite: 7]
+176,hills [cite: 7]
+196,hills [cite: 7]
+203,hills [cite: 7]
+325,hills [cite: 7]
+101,hills [cite: 7]
+140,hills [cite: 7]
+1828,hills [cite: 7]
+123,hills [cite: 7]
+1934,hills [cite: 7]
+116,hills [cite: 7]
+119,hills [cite: 7]
+1848,hills [cite: 7]
+669,hills [cite: 7]
+670,hills [cite: 7]
+681,hills [cite: 7]
+686,hills [cite: 7]
+1824,hills [cite: 7]
+1829,hills [cite: 7]
+1833,hills [cite: 7]
+1840,hills [cite: 7]
+2146,hills [cite: 7]
+2147,hills [cite: 7]
+2152,hills [cite: 7]
+2153,hills [cite: 7]
+2158,hills [cite: 7]
+2171,hills [cite: 7]
+2173,hills [cite: 7]
+2174,hills [cite: 7]
+652,hills [cite: 7]
+657,hills [cite: 7]
+658,hills [cite: 7]
+2697,hills [cite: 7]
+2698,hills [cite: 7]
+2701,hills [cite: 7]
+2965,hills [cite: 7]
+2976,hills [cite: 7]
+2977,hills [cite: 7]
+2978,hills [cite: 7]
+2983,hills [cite: 7]
+2984,hills [cite: 7]
+2991,hills [cite: 7]
+3002,hills [cite: 7]
+242,hills [cite: 7]
+4366,hills [cite: 7]
+250,hills [cite: 7]
+251,hills [cite: 7]
+4361,hills [cite: 7]
+4362,hills [cite: 7]
+4363,hills [cite: 7]
+1792,hills [cite: 7]
+4023,hills [cite: 7]
+4046,hills [cite: 7]
+4050,hills [cite: 7]
+4063,hills [cite: 7]
+4066,hills [cite: 7]
+4068,hills [cite: 7]
+4069,hills [cite: 7]
+4070,hills [cite: 7]
+4072,hills [cite: 7]
+4098,hills [cite: 7]
+4102,hills [cite: 7]
+156,hills [cite: 7]
+1951,hills [cite: 7]
+4144,hills [cite: 7]
+4145,hills [cite: 7]
+4164,hills [cite: 7]
+232,hills [cite: 7]
+733,hills [cite: 7]
+2694,hills [cite: 7]
+2742,hills [cite: 7]
+2744,hills [cite: 7]
+4229,hills [cite: 7]
+4231,hills [cite: 7]
+1018,hills [cite: 8]
+1025,hills [cite: 8]
+1029,hills [cite: 8]
+1820,hills [cite: 8]
+1830,hills [cite: 8]
+1832,hills [cite: 8]
+1843,hills [cite: 8]
+1852,hills [cite: 8]
+4180,hills [cite: 8]
+4183,hills [cite: 8]
+4185,hills [cite: 8]
+4188,hills [cite: 8]
+4191,hills [cite: 8]
+4192,hills [cite: 8]
+4239,hills [cite: 8]
+1856,hills [cite: 8]
+4311,hills [cite: 8]
+4312,hills [cite: 8]
+4315,hills [cite: 8]
+4449,hills [cite: 8]
+4483,hills [cite: 8]
+4484,hills [cite: 8]
+4485,hills [cite: 8]
+4491,hills [cite: 8]
+4492,hills [cite: 8]
+4493,hills [cite: 8]
+4511,hills [cite: 8]
+521,hills [cite: 8]
+548,hills [cite: 8]
+559,hills [cite: 8]
+740,hills [cite: 8]
+4430,hills [cite: 8]
+4434,hills [cite: 8]
+4453,hills [cite: 8]
+4459,hills [cite: 8]
+4462,hills [cite: 8]
+4465,hills [cite: 8]
+4466,hills [cite: 8]
+4467,hills [cite: 8]
+4480,hills [cite: 8]
+4500,hills [cite: 8]
+518,hills [cite: 8]
+529,hills [cite: 8]
+531,hills [cite: 8]
+533,hills [cite: 8]
+538,hills [cite: 8]
+1949,hills [cite: 8]
+2027,hills [cite: 8]
+2030,hills [cite: 8]
+2032,hills [cite: 8]
+2083,hills [cite: 8]
+2089,hills [cite: 8]
+4414,hills [cite: 8]
+4420,hills [cite: 8]
+4425,hills [cite: 8]
+4426,hills [cite: 8]
+4427,hills [cite: 8]
+4429,hills [cite: 8]
+4552,hills [cite: 8]
+2479,hills [cite: 8]
+2992,hills [cite: 8]
+4694,hills [cite: 8]
+4695,hills [cite: 8]
+4696,hills [cite: 8]
+4777,hills [cite: 8]
+4307,hills [cite: 8]
+4702,hills [cite: 8]
+4705,hills [cite: 8]
+4779,hills [cite: 8]
+2956,hills [cite: 8]
+4707,hills [cite: 8]
+4715,hills [cite: 8]
+4744,hills [cite: 8]
+4761,hills [cite: 8]
+1770,hills [cite: 8]
+137,hills [cite: 8]
+4753,hills [cite: 8]
+4764,hills [cite: 8]
+1106,hills [cite: 8]
+1108,hills [cite: 8]
+2738,hills [cite: 8]
+4939,hills [cite: 9]
+4840,hills [cite: 9]
+4856,hills [cite: 9]
+206,woods
+1851,woods
+374,woods
+375,woods
+376,woods
+4118,woods
+4119,woods
+4120,woods
+4121,woods
+129,woods
+4755,woods
+4757,woods
+4703,woods
+968,woods
+970,woods
+62,woods
+58,woods
+1826,woods
+130,woods
+4148,woods
+1765,woods
+141,woods
+859,woods
+918,woods
+919,woods
+939,woods
+940,woods
+944,woods
+946,woods
+947,woods
+948,woods
+963,woods
+987,woods
+988,woods
+2560,woods
+2585,woods
+2586,woods
+2639,woods
+2750,woods
+895,woods
+914,woods
+933,woods
+934,woods
+937,woods
+941,woods
+943,woods
+954,woods
+955,woods
+958,woods
+956,woods
+965,woods
+967,woods
+989,woods
+2010,woods
+2528,woods
+2529,woods
+2523,woods
+2524,woods
+2525,woods
+2526,woods
+2540,woods
+2541,woods
+2544,woods
+2545,woods
+2549,woods
+2584,woods
+2670,woods
+2014,woods
+2665,woods
+1937,woods
+269,woods
+99,woods
+95,woods
+1834,woods
+37,woods
+273,woods
+271,woods
+272,woods
+770,woods
+275,woods
+771,woods [cite: 10]
+311,woods [cite: 10]
+1960,woods [cite: 10]
+274,woods [cite: 10]
+34,woods [cite: 10]
+310,woods [cite: 10]
+1752,woods [cite: 10]
+1959,woods [cite: 10]
+40,woods [cite: 10]
+41,woods [cite: 10]
+1938,woods [cite: 10]
+256,woods [cite: 10]
+261,woods [cite: 10]
+2424,woods [cite: 10]
+316,woods [cite: 10]
+317,woods [cite: 10]
+175,woods [cite: 10]
+173,woods [cite: 10]
+174,woods [cite: 10]
+194,woods [cite: 10]
+195,woods [cite: 10]
+190,woods [cite: 10]
+178,woods [cite: 10]
+184,woods [cite: 10]
+187,woods [cite: 10]
+181,woods [cite: 10]
+1866,woods [cite: 10]
+94,woods [cite: 10]
+93,woods [cite: 10]
+188,woods [cite: 10]
+189,woods [cite: 10]
+1880,woods [cite: 10]
+72,woods [cite: 10]
+69,woods [cite: 10]
+1761,woods [cite: 10]
+66,woods [cite: 10]
+63,woods [cite: 10]
+80,woods [cite: 10]
+1760,woods [cite: 10]
+83,woods [cite: 10]
+81,woods [cite: 10]
+1762,woods [cite: 10]
+1742,woods [cite: 10]
+1878,woods [cite: 10]
+85,woods [cite: 10]
+84,woods [cite: 10]
+86,woods [cite: 10]
+56,woods [cite: 10]
+1758,woods [cite: 10]
+82,woods [cite: 10]
+53,woods [cite: 10]
+1857,woods [cite: 10]
+46,woods [cite: 10]
+52,woods [cite: 10]
+51,woods [cite: 10]
+50,woods [cite: 10]
+1759,woods [cite: 10]
+47,woods [cite: 10]
+48,woods [cite: 10]
+49,woods [cite: 10]
+1763,woods [cite: 10]
+60,woods [cite: 10]
+61,woods [cite: 10]
+59,woods [cite: 10]
+57,woods [cite: 10]
+38,woods [cite: 10]
+296,woods [cite: 10]
+297,woods [cite: 10]
+1945,woods [cite: 10]
+298,woods [cite: 10]
+239,woods [cite: 10]
+372,woods [cite: 10]
+247,woods [cite: 10]
+1863,woods [cite: 10]
+3,woods [cite: 10]
+2,woods [cite: 10]
+1985,woods [cite: 10]
+2749,woods [cite: 10]
+1753,woods [cite: 10]
+307,woods [cite: 10]
+1956,woods [cite: 10]
+1754,woods [cite: 10]
+2423,woods [cite: 10]
+306,woods [cite: 10]
+1957,woods [cite: 10]
+1083,woods [cite: 10]
+1079,woods [cite: 10]
+1972,woods [cite: 10]
+2427,woods [cite: 10]
+1074,woods [cite: 10]
+2428,woods [cite: 10]
+2433,woods [cite: 10]
+2429,woods [cite: 10]
+1068,woods [cite: 10]
+1064,woods [cite: 10]
+480,woods [cite: 10]
+1065,woods [cite: 10]
+2432,woods [cite: 10]
+2443,woods [cite: 10]
+1062,woods [cite: 10]
+1063,woods [cite: 10]
+1060,woods [cite: 11]
+2442,woods [cite: 11]
+2435,woods [cite: 11]
+1056,woods [cite: 11]
+2446,woods [cite: 11]
+2551,woods [cite: 11]
+2013,woods [cite: 11]
+971,woods [cite: 11]
+2566,woods [cite: 11]
+2570,woods [cite: 11]
+985,woods [cite: 11]
+984,woods [cite: 11]
+2569,woods [cite: 11]
+2568,woods [cite: 11]
+945,woods [cite: 11]
+2521,woods [cite: 11]
+2522,woods [cite: 11]
+2587,woods [cite: 11]
+912,woods [cite: 11]
+2487,woods [cite: 11]
+973,woods [cite: 11]
+874,woods [cite: 11]
+873,woods [cite: 11]
+2482,woods [cite: 11]
+276,woods [cite: 11]
+2304,woods [cite: 11]
+2737,woods [cite: 11]
+4176,woods [cite: 11]
+2739,woods [cite: 11]
+767,woods [cite: 11]
+727,woods [cite: 11]
+731,woods [cite: 11]
+1033,woods [cite: 11]
+1049,woods [cite: 11]
+1050,woods [cite: 11]
+1053,woods [cite: 11]
+2102,woods [cite: 11]
+2106,woods [cite: 11]
+2964,woods [cite: 11]
+2969,woods [cite: 11]
+2970,woods [cite: 11]
+2971,woods [cite: 11]
+2972,woods [cite: 11]
+2973,woods [cite: 11]
+2974,woods [cite: 11]
+2975,woods [cite: 11]
+2993,woods [cite: 11]
+2995,woods [cite: 11]
+2996,woods [cite: 11]
+2997,woods [cite: 11]
+3000,woods [cite: 11]
+4112,woods [cite: 11]
+4115,woods [cite: 11]
+4116,woods [cite: 11]
+4117,woods [cite: 11]
+1084,woods [cite: 11]
+1107,woods [cite: 11]
+1982,woods [cite: 11]
+4165,woods [cite: 11]
+4166,woods [cite: 11]
+1014,woods [cite: 11]
+1027,woods [cite: 11]
+1819,woods [cite: 11]
+1835,woods [cite: 11]
+4181,woods [cite: 11]
+4182,woods [cite: 11]
+4184,woods [cite: 11]
+4186,woods [cite: 11]
+4189,woods [cite: 11]
+4127,woods [cite: 11]
+4241,woods [cite: 11]
+4242,woods [cite: 11]
+4243,woods [cite: 11]
+4251,woods [cite: 11]
+4252,woods [cite: 11]
+4253,woods [cite: 11]
+4254,woods [cite: 11]
+4260,woods [cite: 11]
+4266,woods [cite: 11]
+240,woods [cite: 11]
+244,woods [cite: 11]
+4372,woods [cite: 11]
+4377,woods [cite: 11]
+4378,woods [cite: 11]
+4379,woods [cite: 11]
+4380,woods [cite: 11]
+4381,woods [cite: 11]
+4387,woods [cite: 11]
+4389,woods [cite: 11]
+4541,woods [cite: 11]
+4537,woods [cite: 11]
+4535,woods [cite: 11]
+2963,woods [cite: 11]
+4544,woods [cite: 11]
+4543,woods [cite: 11]
+4524,woods [cite: 11]
+4555,woods [cite: 11]
+4558,woods [cite: 12]
+4658,woods [cite: 12]
+4659,woods [cite: 12]
+4660,woods [cite: 12]
+4654,woods [cite: 12]
+4663,woods [cite: 12]
+4697,woods [cite: 12]
+4713,woods [cite: 12]
+4716,woods [cite: 12]
+4717,woods [cite: 12]
+4747,woods [cite: 12]
+4749,woods [cite: 12]
+4748,woods [cite: 12]
+4741,woods [cite: 12]
+4742,woods [cite: 12]
+4743,woods [cite: 12]
+4772,woods [cite: 12]
+4773,woods [cite: 12]
+4774,woods [cite: 12]
+4775,woods [cite: 12]
+4746,woods [cite: 12]
+128,woods [cite: 12]
+1769,woods [cite: 12]
+4751,woods [cite: 12]
+4766,woods [cite: 12]
+4767,woods [cite: 12]
+4768,woods [cite: 12]
+4770,woods [cite: 12]
+4853,woods [cite: 12]
+4852,woods [cite: 12]
+4864,woods [cite: 12]
+210,mountain
+226,mountain
+139,mountain
+1831,mountain
+143,mountain
+138,mountain
+4175,mountain
+158,mountain
+1952,mountain
+4236,mountain
+974,mountain
+975,mountain
+976,mountain
+977,mountain
+2003,mountain
+2020,mountain
+2480,mountain
+2481,mountain
+2486,mountain
+2609,mountain
+2610,mountain
+2612,mountain
+2613,mountain
+936,mountain
+2154,mountain
+2155,mountain
+808,mountain
+814,mountain
+2825,mountain
+452,mountain
+2073,mountain
+1078,mountain
+4198,mountain
+4201,mountain
+4205,mountain [cite: 13]
+4206,mountain [cite: 13]
+4210,mountain [cite: 13]
+4214,mountain [cite: 13]
+4215,mountain [cite: 13]
+4216,mountain [cite: 13]
+4217,mountain [cite: 13]
+4211,mountain [cite: 13]
+4222,mountain [cite: 13]
+1787,mountain [cite: 13]
+1788,mountain [cite: 13]
+120,mountain [cite: 13]
+783,mountain [cite: 13]
+794,mountain [cite: 13]
+802,mountain [cite: 13]
+824,mountain [cite: 13]
+856,mountain [cite: 13]
+857,mountain [cite: 13]
+871,mountain [cite: 13]
+875,mountain [cite: 13]
+878,mountain [cite: 13]
+879,mountain [cite: 13]
+880,mountain [cite: 13]
+2477,mountain [cite: 13]
+2484,mountain [cite: 13]
+2485,mountain [cite: 13]
+2491,mountain [cite: 13]
+2493,mountain [cite: 13]
+2494,mountain [cite: 13]
+2495,mountain [cite: 13]
+2605,mountain [cite: 13]
+2617,mountain [cite: 13]
+2813,mountain [cite: 13]
+2817,mountain [cite: 13]
+2824,mountain [cite: 13]
+2826,mountain [cite: 13]
+2871,mountain [cite: 13]
+2874,mountain [cite: 13]
+2395,mountain [cite: 13]
+2396,mountain [cite: 13]
+583,mountain [cite: 13]
+587,mountain [cite: 13]
+872,mountain [cite: 13]
+2505,mountain [cite: 13]
+2604,mountain [cite: 13]
+2877,mountain [cite: 13]
+2873,mountain [cite: 13]
+1180,mountain [cite: 13]
+2371,mountain [cite: 13]
+2381,mountain [cite: 13]
+330,mountain [cite: 13]
+785,mountain [cite: 13]
+2564,mountain [cite: 13]
+204,mountain [cite: 13]
+199,mountain [cite: 13]
+1853,mountain [cite: 13]
+144,mountain [cite: 13]
+124,mountain [cite: 13]
+2305,mountain [cite: 13]
+331,mountain [cite: 13]
+2306,mountain [cite: 13]
+2327,mountain [cite: 13]
+380,mountain [cite: 13]
+383,mountain [cite: 13]
+680,mountain [cite: 13]
+689,mountain [cite: 13]
+693,mountain [cite: 13]
+694,mountain [cite: 13]
+697,mountain [cite: 13]
+702,mountain [cite: 13]
+2136,mountain [cite: 13]
+2169,mountain [cite: 13]
+2177,mountain [cite: 13]
+2178,mountain [cite: 13]
+2179,mountain [cite: 13]
+2180,mountain [cite: 13]
+2181,mountain [cite: 13]
+716,mountain [cite: 13]
+718,mountain [cite: 13]
+719,mountain [cite: 13]
+1066,mountain [cite: 13]
+2117,mountain [cite: 13]
+2189,mountain [cite: 13]
+2190,mountain [cite: 13]
+739,mountain [cite: 13]
+2125,mountain [cite: 13]
+2127,mountain [cite: 13]
+565,mountain [cite: 13]
+676,mountain [cite: 13]
+677,mountain [cite: 13]
+2074,mountain [cite: 13]
+2128,mountain [cite: 13]
+2129,mountain [cite: 13]
+2130,mountain [cite: 13]
+2103,mountain [cite: 13]
+1048,mountain [cite: 13]
+2104,mountain [cite: 13]
+2105,mountain [cite: 13]
+729,mountain [cite: 13]
+2186,mountain [cite: 13]
+1850,mountain [cite: 13]
+2107,mountain [cite: 13]
+2108,mountain [cite: 13]
+2111,mountain [cite: 13]
+2112,mountain [cite: 13]
+222,mountain [cite: 13]
+223,mountain [cite: 13]
+732,mountain [cite: 14]
+734,mountain [cite: 14]
+2743,mountain [cite: 14]
+4232,mountain [cite: 14]
+4131,mountain [cite: 14]
+1246,mountain [cite: 14]
+1273,mountain [cite: 14]
+4128,mountain [cite: 14]
+20,mountain [cite: 14]
+22,mountain [cite: 14]
+422,mountain [cite: 14]
+2201,mountain [cite: 14]
+2198,mountain [cite: 14]
+4301,mountain [cite: 14]
+4306,mountain [cite: 14]
+384,mountain [cite: 14]
+385,mountain [cite: 14]
+386,mountain [cite: 14]
+390,mountain [cite: 14]
+2332,mountain [cite: 14]
+2345,mountain [cite: 14]
+4280,mountain [cite: 14]
+4281,mountain [cite: 14]
+4282,mountain [cite: 14]
+435,mountain [cite: 14]
+436,mountain [cite: 14]
+4348,mountain [cite: 14]
+4404,mountain [cite: 14]
+4514,mountain [cite: 14]
+4515,mountain [cite: 14]
+4516,mountain [cite: 14]
+4517,mountain [cite: 14]
+4518,mountain [cite: 14]
+4519,mountain [cite: 14]
+4520,mountain [cite: 14]
+4521,mountain [cite: 14]
+4546,mountain [cite: 14]
+829,mountain [cite: 14]
+4601,mountain [cite: 14]
+4602,mountain [cite: 14]
+4653,mountain [cite: 14]
+4655,mountain [cite: 14]
+4656,mountain [cite: 14]
+4680,mountain [cite: 14]
+4679,mountain [cite: 14]
+4750,mountain [cite: 14]
+4754,mountain [cite: 14]
+2838,mountain [cite: 14]
+2666,grasslands
+213,grasslands
+218,grasslands
+219,grasslands
+526,grasslands
+417,grasslands
+4341,grasslands [cite: 15]
+593,grasslands [cite: 15]
+2376,grasslands [cite: 15]
+2391,grasslands [cite: 15]
+2394,grasslands [cite: 15]
+136,grasslands [cite: 15]
+4174,grasslands [cite: 15]
+373,grasslands [cite: 15]
+149,grasslands [cite: 15]
+1747,grasslands [cite: 15]
+229,grasslands [cite: 15]
+1943,grasslands [cite: 15]
+1942,grasslands [cite: 15]
+131,grasslands [cite: 15]
+516,grasslands [cite: 15]
+517,grasslands [cite: 15]
+539,grasslands [cite: 15]
+543,grasslands [cite: 15]
+552,grasslands [cite: 15]
+549,grasslands [cite: 15]
+562,grasslands [cite: 15]
+572,grasslands [cite: 15]
+1948,grasslands [cite: 15]
+2046,grasslands [cite: 15]
+2055,grasslands [cite: 15]
+2057,grasslands [cite: 15]
+2059,grasslands [cite: 15]
+2061,grasslands [cite: 15]
+2062,grasslands [cite: 15]
+2081,grasslands [cite: 15]
+2082,grasslands [cite: 15]
+2084,grasslands [cite: 15]
+2094,grasslands [cite: 15]
+2101,grasslands [cite: 15]
+114,grasslands [cite: 15]
+772,grasslands [cite: 15]
+773,grasslands [cite: 15]
+778,grasslands [cite: 15]
+898,grasslands [cite: 15]
+905,grasslands [cite: 15]
+2632,grasslands [cite: 15]
+2848,grasslands [cite: 15]
+2851,grasslands [cite: 15]
+2852,grasslands [cite: 15]
+328,grasslands [cite: 15]
+2399,grasslands [cite: 15]
+2390,grasslands [cite: 15]
+2405,grasslands [cite: 15]
+1953,grasslands [cite: 15]
+155,grasslands [cite: 15]
+896,grasslands [cite: 15]
+890,grasslands [cite: 15]
+891,grasslands [cite: 15]
+901,grasslands [cite: 15]
+903,grasslands [cite: 15]
+2016,grasslands [cite: 15]
+2511,grasslands [cite: 15]
+2598,grasslands [cite: 15]
+2602,grasslands [cite: 15]
+1177,grasslands [cite: 15]
+2850,grasslands [cite: 15]
+71,grasslands [cite: 15]
+79,grasslands [cite: 15]
+96,grasslands [cite: 15]
+1086,grasslands [cite: 15]
+1859,grasslands [cite: 15]
+1967,grasslands [cite: 15]
+2296,grasslands [cite: 15]
+318,grasslands [cite: 15]
+1170,grasslands [cite: 15]
+2949,grasslands [cite: 15]
+798,grasslands [cite: 15]
+2948,grasslands [cite: 15]
+703,grasslands [cite: 15]
+704,grasslands [cite: 15]
+726,grasslands [cite: 15]
+730,grasslands [cite: 15]
+2110,grasslands [cite: 15]
+2113,grasslands [cite: 15]
+42,grasslands [cite: 15]
+457,grasslands [cite: 15]
+458,grasslands [cite: 15]
+4150,grasslands [cite: 15]
+1017,grasslands [cite: 15]
+1012,grasslands [cite: 15]
+1019,grasslands [cite: 15]
+1023,grasslands [cite: 15]
+1024,grasslands [cite: 15]
+1818,grasslands [cite: 15]
+1825,grasslands [cite: 15]
+1837,grasslands [cite: 15]
+1839,grasslands [cite: 15]
+1847,grasslands [cite: 15]
+4359,grasslands [cite: 15]
+4360,grasslands [cite: 15]
+737,grasslands [cite: 15]
+1013,grasslands [cite: 15]
+1845,grasslands [cite: 15]
+4227,grasslands [cite: 15]
+4230,grasslands [cite: 15]
+4394,grasslands [cite: 15]
+1858,grasslands [cite: 15]
+4760,grasslands [cite: 15]
+4795,grasslands [cite: 15]
+4858,grasslands [cite: 15]
+4857,grasslands [cite: 15]
+2735,grasslands [cite: 15]
+1090,grasslands [cite: 15]
+1237,jungle [cite: 16]
+1245,jungle [cite: 16]
+2703,jungle [cite: 16]
+746,jungle [cite: 16]
+838,jungle [cite: 16]
+553,jungle [cite: 16]
+564,jungle [cite: 16]
+566,jungle [cite: 16]
+567,jungle [cite: 16]
+568,jungle [cite: 16]
+570,jungle [cite: 16]
+571,jungle [cite: 16]
+573,jungle [cite: 16]
+1950,jungle [cite: 16]
+2042,jungle [cite: 16]
+2091,jungle [cite: 16]
+2096,jungle [cite: 16]
+2039,jungle [cite: 16]
+486,jungle [cite: 16]
+490,jungle [cite: 16]
+743,jungle [cite: 16]
+745,jungle [cite: 16]
+748,jungle [cite: 16]
+826,jungle [cite: 16]
+835,jungle [cite: 16]
+840,jungle [cite: 16]
+846,jungle [cite: 16]
+848,jungle [cite: 16]
+2630,jungle [cite: 16]
+2637,jungle [cite: 16]
+2641,jungle [cite: 16]
+2647,jungle [cite: 16]
+2654,jungle [cite: 16]
+2655,jungle [cite: 16]
+2659,jungle [cite: 16]
+2664,jungle [cite: 16]
+2819,jungle [cite: 16]
+2927,jungle [cite: 16]
+582,jungle [cite: 16]
+2397,jungle [cite: 16]
+2398,jungle [cite: 16]
+579,jungle [cite: 16]
+2402,jungle [cite: 16]
+1815,jungle [cite: 16]
+590,jungle [cite: 16]
+2403,jungle [cite: 16]
+2400,jungle [cite: 16]
+589,jungle [cite: 16]
+602,jungle [cite: 16]
+1817,jungle [cite: 16]
+2389,jungle [cite: 16]
+2388,jungle [cite: 16]
+592,jungle [cite: 16]
+591,jungle [cite: 16]
+2404,jungle [cite: 16]
+843,jungle [cite: 16]
+789,jungle [cite: 16]
+1151,jungle [cite: 16]
+1181,jungle [cite: 16]
+1182,jungle [cite: 16]
+1183,jungle [cite: 16]
+2952,jungle [cite: 16]
+616,jungle [cite: 16]
+2372,jungle [cite: 16]
+610,jungle [cite: 16]
+2377,jungle [cite: 16]
+756,jungle [cite: 16]
+759,jungle [cite: 16]
+757,jungle [cite: 16]
+765,jungle [cite: 16]
+2894,jungle [cite: 16]
+2896,jungle [cite: 16]
+2914,jungle [cite: 16]
+2929,jungle [cite: 16]
+1125,jungle [cite: 16]
+1138,jungle [cite: 16]
+1139,jungle [cite: 16]
+1162,jungle [cite: 16]
+1249,jungle [cite: 16]
+1118,jungle [cite: 16]
+660,jungle [cite: 16]
+663,jungle [cite: 16]
+664,jungle [cite: 17]
+666,jungle [cite: 17]
+2160,jungle [cite: 17]
+2161,jungle [cite: 17]
+2162,jungle [cite: 17]
+2164,jungle [cite: 17]
+2166,jungle [cite: 17]
+546,jungle [cite: 17]
+547,jungle [cite: 17]
+551,jungle [cite: 17]
+560,jungle [cite: 17]
+1946,jungle [cite: 17]
+2034,jungle [cite: 17]
+2038,jungle [cite: 17]
+2048,jungle [cite: 17]
+2049,jungle [cite: 17]
+2098,jungle [cite: 17]
+4431,jungle [cite: 17]
+4432,jungle [cite: 17]
+4433,jungle [cite: 17]
+4448,jungle [cite: 17]
+4450,jungle [cite: 17]
+4451,jungle [cite: 17]
+4468,jungle [cite: 17]
+4470,jungle [cite: 17]
+4471,jungle [cite: 17]
+4472,jungle [cite: 17]
+4478,jungle [cite: 17]
+534,jungle [cite: 17]
+535,jungle [cite: 17]
+537,jungle [cite: 17]
+2028,jungle [cite: 17]
+2029,jungle [cite: 17]
+2050,jungle [cite: 17]
+4410,jungle [cite: 17]
+4412,jungle [cite: 17]
+4413,jungle [cite: 17]
+4438,jungle [cite: 17]
+4439,jungle [cite: 17]
+4444,jungle [cite: 17]
+2099,jungle [cite: 17]
+2100,jungle [cite: 17]
+4407,jungle [cite: 17]
+4408,jungle [cite: 17]
+4409,jungle [cite: 17]
+2731,jungle [cite: 17]
+2732,jungle [cite: 17]
+4021,jungle [cite: 17]
+4024,jungle [cite: 17]
+4025,jungle [cite: 17]
+4026,jungle [cite: 17]
+4090,jungle [cite: 17]
+4105,jungle [cite: 17]
+4109,jungle [cite: 17]
+4804,jungle [cite: 17]
+4799,jungle [cite: 17]
+2709,jungle [cite: 17]
+4817,jungle [cite: 17]
+1085,jungle [cite: 17]
+4869,jungle [cite: 17]
+2730,jungle [cite: 17]
+1860,marsh
+96,marsh
+4738,marsh
+893,marsh
+950,marsh
+2857,marsh
+2890,marsh
+927,marsh
+928,marsh
+2534,marsh
+2536,marsh
+2537,marsh
+2516,marsh [cite: 18]
+749,marsh [cite: 18]
+758,marsh [cite: 18]
+775,marsh [cite: 18]
+777,marsh [cite: 18]
+999,marsh [cite: 18]
+1000,marsh [cite: 18]
+1003,marsh [cite: 18]
+1004,marsh [cite: 18]
+1005,marsh [cite: 18]
+1006,marsh [cite: 18]
+2592,marsh [cite: 18]
+2599,marsh [cite: 18]
+2600,marsh [cite: 18]
+1217,marsh [cite: 18]
+2259,marsh [cite: 18]
+2261,marsh [cite: 18]
+2286,marsh [cite: 18]
+2287,marsh [cite: 18]
+2759,marsh [cite: 18]
+277,marsh [cite: 18]
+4141,marsh [cite: 18]
+4386,marsh [cite: 18]
+1031,marsh [cite: 18]
+408,marsh [cite: 18]
+2311,marsh [cite: 18]
+4288,marsh [cite: 18]
+4290,marsh [cite: 18]
+462,marsh [cite: 18]
+362,marsh [cite: 18]
+2702,marsh [cite: 18]
+4706,marsh [cite: 18]
+503,desert
+2078,desert
+2088,desert
+4204,desert
+4207,desert
+4208,desert
+4221,desert
+4223,desert
+512,desert
+513,desert
+514,desert
+2064,desert
+2066,desert
+2086,desert
+867,desert
+2844,desert
+2490,desert
+350,desert
+355,desert
+1115,desert
+2244,desert
+2271,desert
+2272,desert
+2767,desert
+2773,desert
+1176,desert
+1231,desert
+715,desert
+2119,desert
+2120,desert
+710,desert
+711,desert
+712,desert
+2121,desert
+2123,desert
+2191,desert
+2192,desert
+706,desert
+707,desert
+708,desert
+698,desert
+701,desert
+709,desert
+720,desert
+2193,desert
+2747,desert
+860,desert
+2618,desert
+1093,desert
+792,coastal_desert [cite: 19]
+793,coastal_desert [cite: 19]
+796,coastal_desert [cite: 19]
+805,coastal_desert [cite: 19]
+806,coastal_desert [cite: 19]
+2821,coastal_desert [cite: 19]
+2822,coastal_desert [cite: 19]
+2840,coastal_desert [cite: 19]
+2841,coastal_desert [cite: 19]
+2324,coastal_desert [cite: 19]
+1212,coastal_desert [cite: 19]
+1215,coastal_desert [cite: 19]
+1230,coastal_desert [cite: 19]
+1232,coastal_desert [cite: 19]
+2315,coastal_desert [cite: 19]
+2320,coastal_desert [cite: 19]
+2321,coastal_desert [cite: 19]
+2765,coastal_desert [cite: 19]
+2786,coastal_desert [cite: 19]
+2788,coastal_desert [cite: 19]
+2789,coastal_desert [cite: 19]
+1174,coastal_desert [cite: 19]
+865,coastal_desert [cite: 19]
+866,coastal_desert [cite: 19]
+1206,coastal_desert [cite: 19]
+1209,coastal_desert [cite: 19]
+2024,coastal_desert [cite: 19]
+2790,coastal_desert [cite: 19]
+2793,coastal_desert [cite: 19]
+782,coastal_desert [cite: 19]
+389,coastal_desert [cite: 19]
+394,coastal_desert [cite: 19]
+395,coastal_desert [cite: 19]
+396,coastal_desert [cite: 19]
+397,coastal_desert [cite: 19]
+398,coastal_desert [cite: 19]
+399,coastal_desert [cite: 19]
+400,coastal_desert [cite: 19]
+401,coastal_desert [cite: 19]
+402,coastal_desert [cite: 19]
+1099,coastal_desert [cite: 19]
+2329,coastal_desert [cite: 19]
+2331,coastal_desert [cite: 19]
+2333,coastal_desert [cite: 19]
+2340,coastal_desert [cite: 19]
+2341,coastal_desert [cite: 19]
+2342,coastal_desert [cite: 19]
+2347,coastal_desert [cite: 19]
+4269,coastal_desert [cite: 19]
+4278,coastal_desert [cite: 19]
+4283,coastal_desert [cite: 19]
+4284,coastal_desert [cite: 19]
+4286,coastal_desert [cite: 19]
+4867,coastal_desert [cite: 19]
+4866,coastal_desert [cite: 19]
+4865,coastal_desert [cite: 19]
+2726,coastal_desert [cite: 19]
+4849,coastal_desert [cite: 19]
+4848,coastal_desert [cite: 19]
+4847,coastal_desert [cite: 19]
+2828,coastal_desert [cite: 19]
+957,coastline
+962,coastline
+2554,coastline
+2561,coastline
+2578,coastline [cite: 20]
+112,coastline [cite: 20]
+487,coastline [cite: 20]
+492,coastline [cite: 20]
+497,coastline [cite: 20]
+498,coastline [cite: 20]
+499,coastline [cite: 20]
+500,coastline [cite: 20]
+501,coastline [cite: 20]
+502,coastline [cite: 20]
+982,coastline [cite: 20]
+788,coastline [cite: 20]
+1186,coastline [cite: 20]
+1192,coastline [cite: 20]
+1195,coastline [cite: 20]
+1196,coastline [cite: 20]
+1197,coastline [cite: 20]
+1198,coastline [cite: 20]
+1199,coastline [cite: 20]
+1200,coastline [cite: 20]
+1202,coastline [cite: 20]
+1203,coastline [cite: 20]
+1204,coastline [cite: 20]
+938,coastline [cite: 20]
+2547,coastline [cite: 20]
+368,coastline [cite: 20]
+1098,coastline [cite: 20]
+1095,coastline [cite: 20]
+1103,coastline [cite: 20]
+1102,coastline [cite: 20]
+1100,coastline [cite: 20]
+1101,coastline [cite: 20]
+1999,coastline [cite: 20]
+1998,coastline [cite: 20]
+2679,coastline [cite: 20]
+2678,coastline [cite: 20]
+647,coastline [cite: 20]
+634,coastline [cite: 20]
+645,coastline [cite: 20]
+2741,coastline [cite: 20]
+1994,coastline [cite: 20]
+1992,coastline [cite: 20]
+1986,coastline [cite: 20]
+1242,coastline [cite: 20]
+1989,coastline [cite: 20]
+1988,coastline [cite: 20]
+979,coastline [cite: 20]
+1240,coastline [cite: 20]
+491,coastline [cite: 20]
+333,coastline [cite: 20]
+3003,coastline [cite: 20]
+4049,coastline [cite: 20]
+233,coastline [cite: 20]
+253,coastline [cite: 20]
+4364,coastline [cite: 20]
+4365,coastline [cite: 20]
+653,coastline [cite: 20]
+655,coastline [cite: 20]
+656,coastline [cite: 20]
+2699,coastline [cite: 20]
+2700,coastline [cite: 20]
+654,coastline [cite: 20]
+4349,coastline [cite: 20]
+4350,coastline [cite: 20]
+4351,coastline [cite: 20]
+4352,coastline [cite: 20]
+4353,coastline [cite: 20]
+4354,coastline [cite: 20]
+4355,coastline [cite: 20]
+4356,coastline [cite: 20]
+642,coastline [cite: 20]
+643,coastline [cite: 20]
+644,coastline [cite: 20]
+648,coastline [cite: 20]
+649,coastline [cite: 20]
+650,coastline [cite: 20]
+2713,coastline [cite: 20]
+2714,coastline [cite: 20]
+2716,coastline [cite: 20]
+2717,coastline [cite: 20]
+2718,coastline [cite: 20]
+2725,coastline [cite: 20]
+1015,coastline [cite: 20]
+4193,coastline [cite: 20]
+387,coastline [cite: 20]
+4279,coastline [cite: 20]
+4815,coastline [cite: 20]
+2728,coastline [cite: 20]
+1749,drylands [cite: 21]
+224,drylands [cite: 21]
+221,drylands [cite: 21]
+1750,drylands [cite: 21]
+220,drylands [cite: 21]
+214,drylands [cite: 21]
+1748,drylands [cite: 21]
+2754,drylands [cite: 21]
+225,drylands [cite: 21]
+2297,drylands [cite: 21]
+327,drylands [cite: 21]
+2313,drylands [cite: 21]
+411,drylands [cite: 21]
+2199,drylands [cite: 21]
+2208,drylands [cite: 21]
+464,drylands [cite: 21]
+4314,drylands [cite: 21]
+2300,drylands [cite: 21]
+4308,drylands [cite: 21]
+4309,drylands [cite: 21]
+420,drylands [cite: 21]
+421,drylands [cite: 21]
+425,drylands [cite: 21]
+2203,drylands [cite: 21]
+2307,drylands [cite: 21]
+4307,drylands [cite: 21]
+428,drylands [cite: 21]
+454,drylands [cite: 21]
+442,drylands [cite: 21]
+441,drylands [cite: 21]
+1973,drylands [cite: 21]
+444,drylands [cite: 21]
+446,drylands [cite: 21]
+450,drylands [cite: 21]
+453,drylands [cite: 21]
+2213,drylands [cite: 21]
+2214,drylands [cite: 21]
+2215,drylands [cite: 21]
+2227,drylands [cite: 21]
+2228,drylands [cite: 21]
+4343,drylands [cite: 21]
+4337,drylands [cite: 21]
+504,drylands [cite: 21]
+505,drylands [cite: 21]
+519,drylands [cite: 21]
+528,drylands [cite: 21]
+541,drylands [cite: 21]
+569,drylands [cite: 21]
+2031,drylands [cite: 21]
+2051,drylands [cite: 21]
+2052,drylands [cite: 21]
+2053,drylands [cite: 21]
+2054,drylands [cite: 21]
+2065,drylands [cite: 21]
+2067,drylands [cite: 21]
+2072,drylands [cite: 21]
+2999,drylands [cite: 21]
+751,drylands [cite: 21]
+752,drylands [cite: 21]
+753,drylands [cite: 21]
+790,drylands [cite: 21]
+799,drylands [cite: 21]
+858,drylands [cite: 21]
+882,drylands [cite: 21]
+2476,drylands [cite: 21]
+2498,drylands [cite: 21]
+2614,drylands [cite: 21]
+2620,drylands [cite: 21]
+2643,drylands [cite: 21]
+2668,drylands [cite: 21]
+2842,drylands [cite: 21]
+2854,drylands [cite: 21]
+2865,drylands [cite: 21]
+2868,drylands [cite: 21]
+2878,drylands [cite: 21]
+2883,drylands [cite: 21]
+2885,drylands [cite: 21]
+2915,drylands [cite: 21]
+2917,drylands [cite: 21]
+2922,drylands [cite: 21]
+750,drylands [cite: 21]
+2863,drylands [cite: 21]
+1178,drylands [cite: 21]
+2764,drylands [cite: 21]
+2768,drylands [cite: 21]
+2797,drylands [cite: 22]
+2801,drylands [cite: 22]
+2864,drylands [cite: 22]
+754,drylands [cite: 22]
+755,drylands [cite: 22]
+786,drylands [cite: 22]
+862,drylands [cite: 22]
+868,drylands [cite: 22]
+876,drylands [cite: 22]
+1809,drylands [cite: 22]
+2492,drylands [cite: 22]
+2507,drylands [cite: 22]
+2619,drylands [cite: 22]
+2667,drylands [cite: 22]
+2846,drylands [cite: 22]
+2861,drylands [cite: 22]
+2912,drylands [cite: 22]
+2913,drylands [cite: 22]
+2921,drylands [cite: 22]
+1172,drylands [cite: 22]
+2682,drylands [cite: 22]
+2503,drylands [cite: 22]
+2068,drylands [cite: 22]
+322,drylands [cite: 22]
+2308,drylands [cite: 22]
+407,drylands [cite: 22]
+337,drylands [cite: 22]
+1849,drylands [cite: 22]
+2309,drylands [cite: 22]
+377,drylands [cite: 22]
+2356,drylands [cite: 22]
+2364,drylands [cite: 22]
+699,drylands [cite: 22]
+713,drylands [cite: 22]
+2122,drylands [cite: 22]
+2124,drylands [cite: 22]
+2182,drylands [cite: 22]
+2184,drylands [cite: 22]
+2302,drylands [cite: 22]
+2317,drylands [cite: 22]
+2319,drylands [cite: 22]
+4318,drylands [cite: 22]
+4320,drylands [cite: 22]
+4209,drylands [cite: 22]
+334,drylands [cite: 22]
+338,drylands [cite: 22]
+341,drylands [cite: 22]
+342,drylands [cite: 22]
+345,drylands [cite: 22]
+1110,drylands [cite: 22]
+2453,drylands [cite: 22]
+2455,drylands [cite: 22]
+2461,drylands [cite: 22]
+2466,drylands [cite: 22]
+2469,drylands [cite: 22]
+2473,drylands [cite: 22]
+1089,drylands [cite: 22]
+1091,drylands [cite: 22]
+379,drylands [cite: 22]
+381,drylands [cite: 22]
+382,drylands [cite: 22]
+406,drylands [cite: 22]
+412,drylands [cite: 22]
+430,drylands [cite: 22]
+431,drylands [cite: 22]
+1854,drylands [cite: 22]
+1855,drylands [cite: 22]
+2219,drylands [cite: 22]
+2314,drylands [cite: 22]
+4292,drylands [cite: 22]
+4297,drylands [cite: 22]
+4298,drylands [cite: 22]
+1222,drylands [cite: 22]
+4040,drylands [cite: 22]
+4411,drylands [cite: 22]
+4421,drylands [cite: 22]
+4435,drylands [cite: 22]
+4437,drylands [cite: 22]
+4454,drylands [cite: 22]
+4455,drylands [cite: 22]
+4456,drylands [cite: 22]
+4463,drylands [cite: 22]
+4503,drylands [cite: 22]
+4504,drylands [cite: 22]
+4505,drylands [cite: 22]
+4509,drylands [cite: 22]
+4549,drylands [cite: 22]
+4562,drylands [cite: 22]
+4563,drylands [cite: 22]
+4564,drylands [cite: 22]
+4547,drylands [cite: 22]
+4557,drylands [cite: 22]
+4628,drylands [cite: 22]
+4630,drylands [cite: 22]
+2736,drylands [cite: 22]
+4863,drylands [cite: 22]
+4861,drylands [cite: 22]
+4855,drylands [cite: 23]
+1094,drylands [cite: 23]
+2733,drylands [cite: 23]
+520,highlands
+536,highlands
+542,highlands
+544,highlands
+578,highlands
+2035,highlands
+2077,highlands
+2079,highlands
+2085,highlands
+2087,highlands
+2093,highlands
+850,highlands
+852,highlands
+853,highlands
+2018,highlands
+2621,highlands
+2622,highlands
+2623,highlands
+2626,highlands
+2628,highlands
+2629,highlands
+2644,highlands
+2646,highlands
+2645,highlands
+588,highlands
+2401,highlands
+2301,highlands
+324,highlands
+1224,highlands
+869,highlands
+2006,highlands
+2019,highlands
+2483,highlands
+2488,highlands
+2496,highlands
+2501,highlands
+2624,highlands
+335,highlands
+336,highlands
+339,highlands
+340,highlands
+346,highlands
+348,highlands
+349,highlands
+351,highlands
+1171,highlands
+1184,highlands
+1185,highlands
+1188,highlands
+1207,highlands
+1208,highlands
+1211,highlands
+1218,highlands
+1219,highlands
+1227,highlands
+1751,highlands
+1882,highlands
+2274,highlands
+2454,highlands
+2458,highlands
+2459,highlands
+2462,highlands
+2463,highlands
+2464,highlands
+2465,highlands
+2756,highlands
+2757,highlands
+2758,highlands
+2762,highlands
+2763,highlands
+2766,highlands
+2770,highlands
+2771,highlands
+2772,highlands
+2778,highlands [cite: 24]
+2779,highlands [cite: 24]
+2781,highlands [cite: 24]
+2787,highlands [cite: 24]
+2792,highlands [cite: 24]
+2950,highlands [cite: 24]
+2951,highlands [cite: 24]
+326,highlands [cite: 24]
+329,highlands [cite: 24]
+332,highlands [cite: 24]
+418,highlands [cite: 24]
+1846,highlands [cite: 24]
+2303,highlands [cite: 24]
+2478,highlands [cite: 24]
+2489,highlands [cite: 24]
+2504,highlands [cite: 24]
+252,highlands [cite: 24]
+784,highlands [cite: 24]
+2946,highlands [cite: 24]
+823,highlands [cite: 24]
+1773,highlands [cite: 24]
+127,highlands [cite: 24]
+1247,highlands [cite: 24]
+1766,highlands [cite: 24]
+319,highlands [cite: 24]
+2298,highlands [cite: 24]
+371,highlands [cite: 24]
+163,highlands [cite: 24]
+321,highlands [cite: 24]
+661,highlands [cite: 24]
+662,highlands [cite: 24]
+673,highlands [cite: 24]
+674,highlands [cite: 24]
+675,highlands [cite: 24]
+678,highlands [cite: 24]
+705,highlands [cite: 24]
+2131,highlands [cite: 24]
+2132,highlands [cite: 24]
+2133,highlands [cite: 24]
+2134,highlands [cite: 24]
+2135,highlands [cite: 24]
+2165,highlands [cite: 24]
+2167,highlands [cite: 24]
+2168,highlands [cite: 24]
+2170,highlands [cite: 24]
+2748,highlands [cite: 24]
+2183,highlands [cite: 24]
+3001,highlands [cite: 24]
+4176,highlands [cite: 24]
+4199,highlands [cite: 24]
+145,highlands [cite: 24]
+365,highlands [cite: 24]
+378,highlands [cite: 24]
+2209,highlands [cite: 24]
+2235,highlands [cite: 24]
+2313,highlands [cite: 24]
+4293,highlands [cite: 24]
+4294,highlands [cite: 24]
+4295,highlands [cite: 24]
+4298,highlands [cite: 24]
+4313,highlands [cite: 24]
+2734,highlands [cite: 24]
+4860,highlands [cite: 24]
+4859,highlands [cite: 24]
+460,highlands [cite: 24]
+1968,highlands [cite: 24]
+4027,highlands [cite: 24]
+4029,highlands [cite: 24]
+4030,highlands [cite: 24]
+798,highlands [cite: 24]
+4053,highlands [cite: 24]
+4055,highlands [cite: 24]
+4056,highlands [cite: 24]
+4057,highlands [cite: 24]
+4059,highlands [cite: 24]
+4067,highlands [cite: 24]
+4073,highlands [cite: 24]
+4077,highlands [cite: 24]
+4084,highlands [cite: 24]
+4100,highlands [cite: 24]
+4101,highlands [cite: 24]
+4103,highlands [cite: 24]
+4110,highlands [cite: 24]
+23,highlands [cite: 24]
+24,highlands [cite: 24]
+370,highlands [cite: 24]
+2752,highlands [cite: 24]
+154,highlands [cite: 24]
+162,highlands [cite: 24]
+263,highlands [cite: 24]
+1318,highlands [cite: 24]
+2960,highlands [cite: 24]
+2968,highlands [cite: 24]
+2970,highlands [cite: 24]
+4238,highlands [cite: 24]
+216,highlands [cite: 24]
+228,highlands [cite: 24]
+2755,highlands [cite: 24]
+2989,highlands [cite: 24]
+323,highlands [cite: 25]
+2202,highlands [cite: 25]
+4299,highlands [cite: 25]
+4305,highlands [cite: 25]
+736,highlands [cite: 25]
+1047,highlands [cite: 25]
+4228,highlands [cite: 25]
+2986,highlands [cite: 25]
+4391,highlands [cite: 25]
+4406,highlands [cite: 25]
+4398,highlands [cite: 25]
+4422,highlands [cite: 25]
+4436,highlands [cite: 25]
+4464,highlands [cite: 25]
+4561,highlands [cite: 25]
+4566,highlands [cite: 25]
+4553,highlands [cite: 25]
+4669,highlands [cite: 25]
+4701,highlands [cite: 25]
+4699,highlands [cite: 25]
+4780,highlands [cite: 25]
+768,savannah
+776,savannah
+1800,savannah
+2805,savannah
+2809,savannah
+2810,savannah
+2812,savannah
+2814,savannah
+2815,savannah
+2855,savannah
+2859,savannah
+2879,savannah
+2884,savannah
+2887,savannah
+2893,savannah
+2895,savannah
+2897,savannah
+2908,savannah
+2909,savannah
+2910,savannah
+2918,savannah
+2923,savannah
+2925,savannah
+2926,savannah
+2939,savannah
+1113,savannah
+1116,savannah
+1123,savannah
+1131,savannah
+1134,savannah
+1135,savannah
+1140,savannah
+1142,savannah
+1148,savannah
+1146,savannah
+1149,savannah
+1144,savannah
+1155,savannah
+1159,savannah
+2237,savannah
+2239,savannah [cite: 26]
+2245,savannah [cite: 26]
+2250,savannah [cite: 26]
+2263,savannah [cite: 26]
+2265,savannah [cite: 26]
+2270,savannah [cite: 26]
+2278,savannah [cite: 26]
+2279,savannah [cite: 26]
+2280,savannah [cite: 26]
+2283,savannah [cite: 26]
+2291,savannah [cite: 26]
+607,savannah [cite: 26]
+2374,savannah [cite: 26]
+606,savannah [cite: 26]
+605,savannah [cite: 26]
+2378,savannah [cite: 26]
+614,savannah [cite: 26]
+2386,savannah [cite: 26]
+603,savannah [cite: 26]
+612,savannah [cite: 26]
+484,savannah [cite: 26]
+485,savannah [cite: 26]
+870,savannah [cite: 26]
+883,savannah [cite: 26]
+884,savannah [cite: 26]
+887,savannah [cite: 26]
+888,savannah [cite: 26]
+894,savannah [cite: 26]
+897,savannah [cite: 26]
+900,savannah [cite: 26]
+902,savannah [cite: 26]
+915,savannah [cite: 26]
+922,savannah [cite: 26]
+923,savannah [cite: 26]
+924,savannah [cite: 26]
+926,savannah [cite: 26]
+932,savannah [cite: 26]
+942,savannah [cite: 26]
+1008,savannah [cite: 26]
+1010,savannah [cite: 26]
+2017,savannah [cite: 26]
+2021,savannah [cite: 26]
+2513,savannah [cite: 26]
+2514,savannah [cite: 26]
+2520,savannah [cite: 26]
+2530,savannah [cite: 26]
+2533,savannah [cite: 26]
+2535,savannah [cite: 26]
+2538,savannah [cite: 26]
+2542,savannah [cite: 26]
+2543,savannah [cite: 26]
+2546,savannah [cite: 26]
+2596,savannah [cite: 26]
+2669,savannah [cite: 26]
+2853,savannah [cite: 26]
+2888,savannah [cite: 26]
+2891,savannah [cite: 26]
+2892,savannah [cite: 26]
+2906,savannah [cite: 26]
+2907,savannah [cite: 26]
+2911,savannah [cite: 26]
+2919,savannah [cite: 26]
+2920,savannah [cite: 26]
+1114,savannah [cite: 26]
+1120,savannah [cite: 26]
+1122,savannah [cite: 26]
+1124,savannah [cite: 26]
+1136,savannah [cite: 26]
+1137,savannah [cite: 26]
+1143,savannah [cite: 26]
+1145,savannah [cite: 26]
+1150,savannah [cite: 26]
+1152,savannah [cite: 26]
+1154,savannah [cite: 26]
+1160,savannah [cite: 26]
+1161,savannah [cite: 26]
+2238,savannah [cite: 26]
+2240,savannah [cite: 26]
+2241,savannah [cite: 26]
+2248,savannah [cite: 26]
+2249,savannah [cite: 26]
+2252,savannah [cite: 26]
+2254,savannah [cite: 26]
+2253,savannah [cite: 26]
+2256,savannah [cite: 26]
+2267,savannah [cite: 26]
+2281,savannah [cite: 26]
+2285,savannah [cite: 26]
+2292,savannah [cite: 26]
+2293,savannah [cite: 26]
+2295,savannah [cite: 26]
+1167,savannah [cite: 26]
+1168,savannah [cite: 26]
+1190,savannah [cite: 26]
+1191,savannah [cite: 26]
+1193,savannah [cite: 26]
+1194,savannah [cite: 26]
+913,savannah [cite: 26]
+929,savannah [cite: 26]
+1153,savannah [cite: 26]
+2266,savannah [cite: 26]
+2519,savannah [cite: 26]
+2597,savannah [cite: 26]
+2656,savannah [cite: 26]
+2886,savannah [cite: 26]
+2924,savannah [cite: 27]
+1187,savannah [cite: 27]
+1189,savannah [cite: 27]
+1088,savannah [cite: 27]
+2736,savannah [cite: 27]
+2726,savannah [cite: 27]
+2729,savannah [cite: 27]
+1925,savannah [cite: 27]
+4022,savannah [cite: 27]
+4028,savannah [cite: 27]
+4031,savannah [cite: 27]
+4032,savannah [cite: 27]
+2948,savannah [cite: 27]
+4034,savannah [cite: 27]
+4035,savannah [cite: 27]
+4036,savannah [cite: 27]
+4037,savannah [cite: 27]
+4038,savannah [cite: 27]
+4039,savannah [cite: 27]
+4041,savannah [cite: 27]
+4042,savannah [cite: 27]
+4043,savannah [cite: 27]
+4044,savannah [cite: 27]
+4045,savannah [cite: 27]
+4047,savannah [cite: 27]
+4048,savannah [cite: 27]
+4058,savannah [cite: 27]
+4061,savannah [cite: 27]
+4062,savannah [cite: 27]
+4064,savannah [cite: 27]
+4065,savannah [cite: 27]
+4071,savannah [cite: 27]
+4074,savannah [cite: 27]
+4075,savannah [cite: 27]
+4076,savannah [cite: 27]
+4082,savannah [cite: 27]
+4083,savannah [cite: 27]
+4091,savannah [cite: 27]
+4092,savannah [cite: 27]
+4093,savannah [cite: 27]
+4094,savannah [cite: 27]
+4095,savannah [cite: 27]
+4096,savannah [cite: 27]
+4097,savannah [cite: 27]
+4099,savannah [cite: 27]
+4104,savannah [cite: 27]
+4105,savannah [cite: 27]
+4106,savannah [cite: 27]
+4107,savannah [cite: 27]
+4108,savannah [cite: 27]
+4618,savannah [cite: 27]
+4619,savannah [cite: 27]
+4836,savannah [cite: 27]
+2383,savannah [cite: 27]
+4829,savannah [cite: 27]
+1092,savannah [cite: 27]
+4851,savannah [cite: 27]
+1094,savannah [cite: 27]
+4850,savannah [cite: 27]
+4846,savannah [cite: 27]
+4881,savannah [cite: 27]
+2195,steppe
+463,steppe
+2197,steppe
+2417,steppe
+466,steppe
+2367,steppe
+470,steppe
+472,steppe
+2353,steppe
+2369,steppe
+2358,steppe
+476,steppe
+2354,steppe
+479,steppe
+2357,steppe
+1966,steppe
+2420,steppe
+284,steppe
+1974,steppe
+2412,steppe [cite: 28]
+2413,steppe [cite: 28]
+286,steppe [cite: 28]
+2414,steppe [cite: 28]
+287,steppe [cite: 28]
+2447,steppe [cite: 28]
+283,steppe [cite: 28]
+2406,steppe [cite: 28]
+282,steppe [cite: 28]
+1756,steppe [cite: 28]
+301,steppe [cite: 28]
+300,steppe [cite: 28]
+1778,steppe [cite: 28]
+304,steppe [cite: 28]
+303,steppe [cite: 28]
+2415,steppe [cite: 28]
+302,steppe [cite: 28]
+2408,steppe [cite: 28]
+299,steppe [cite: 28]
+2409,steppe [cite: 28]
+285,steppe [cite: 28]
+291,steppe [cite: 28]
+2411,steppe [cite: 28]
+467,steppe [cite: 28]
+1081,steppe [cite: 28]
+473,steppe [cite: 28]
+2421,steppe [cite: 28]
+1971,steppe [cite: 28]
+288,steppe [cite: 28]
+468,steppe [cite: 28]
+2418,steppe [cite: 28]
+2419,steppe [cite: 28]
+474,steppe [cite: 28]
+2366,steppe [cite: 28]
+1965,steppe [cite: 28]
+1082,steppe [cite: 28]
+475,steppe [cite: 28]
+2441,steppe [cite: 28]
+2359,steppe [cite: 28]
+2360,steppe [cite: 28]
+478,steppe [cite: 28]
+2355,steppe [cite: 28]
+2422,steppe [cite: 28]
+2416,steppe [cite: 28]
+1057,steppe [cite: 28]
+2434,steppe [cite: 28]
+1076,steppe [cite: 28]
+1075,steppe [cite: 28]
+1071,steppe [cite: 28]
+889,steppe [cite: 28]
+2004,steppe [cite: 28]
+2009,steppe [cite: 28]
+2625,steppe [cite: 28]
+2672,steppe [cite: 28]
+4033,steppe [cite: 28]
+885,steppe [cite: 28]
+886,steppe [cite: 28]
+892,steppe [cite: 28]
+906,steppe [cite: 28]
+1226,steppe [cite: 28]
+2500,steppe [cite: 28]
+774,steppe [cite: 28]
+1132,steppe [cite: 28]
+1133,steppe [cite: 28]
+1156,steppe [cite: 28]
+1157,steppe [cite: 28]
+1158,steppe [cite: 28]
+1205,steppe [cite: 28]
+1216,steppe [cite: 28]
+1221,steppe [cite: 28]
+1225,steppe [cite: 28]
+2243,steppe [cite: 28]
+2246,steppe [cite: 28]
+2260,steppe [cite: 28]
+2262,steppe [cite: 28]
+2264,steppe [cite: 28]
+2268,steppe [cite: 28]
+2269,steppe [cite: 28]
+2273,steppe [cite: 28]
+2276,steppe [cite: 28]
+2282,steppe [cite: 28]
+2284,steppe [cite: 28]
+2288,steppe [cite: 28]
+2776,steppe [cite: 28]
+2777,steppe [cite: 28]
+2799,steppe [cite: 28]
+2780,steppe [cite: 28]
+2784,steppe [cite: 28]
+2783,steppe [cite: 28]
+2785,steppe [cite: 28]
+2795,steppe [cite: 28]
+2782,steppe [cite: 28]
+2800,steppe [cite: 28]
+2802,steppe [cite: 28]
+2932,steppe [cite: 28]
+779,steppe [cite: 28]
+780,steppe [cite: 28]
+781,steppe [cite: 28]
+2008,steppe [cite: 28]
+2497,steppe [cite: 28]
+2499,steppe [cite: 28]
+2510,steppe [cite: 28]
+2502,steppe [cite: 28]
+2666,steppe [cite: 28]
+2860,steppe [cite: 28]
+2866,steppe [cite: 28]
+2869,steppe [cite: 28]
+2870,steppe [cite: 28]
+2875,steppe [cite: 29]
+2876,steppe [cite: 29]
+833,steppe [cite: 29]
+1175,steppe [cite: 29]
+1179,steppe [cite: 29]
+2880,steppe [cite: 29]
+4255,steppe [cite: 29]
+4264,steppe [cite: 29]
+4265,steppe [cite: 29]
+4267,steppe [cite: 29]
+459,steppe [cite: 29]
+461,steppe [cite: 29]
+714,steppe [cite: 29]
+2118,steppe [cite: 29]
+2126,steppe [cite: 29]
+2368,steppe [cite: 29]
+717,steppe [cite: 29]
+721,steppe [cite: 29]
+722,steppe [cite: 29]
+723,steppe [cite: 29]
+724,steppe [cite: 29]
+725,steppe [cite: 29]
+728,steppe [cite: 29]
+1058,steppe [cite: 29]
+2109,steppe [cite: 29]
+2114,steppe [cite: 29]
+2115,steppe [cite: 29]
+2116,steppe [cite: 29]
+2185,steppe [cite: 29]
+2187,steppe [cite: 29]
+2188,steppe [cite: 29]
+2727,steppe [cite: 29]
+4200,steppe [cite: 29]
+4202,steppe [cite: 29]
+4203,steppe [cite: 29]
+4218,steppe [cite: 29]
+4219,steppe [cite: 29]
+4220,steppe [cite: 29]
+4629,steppe [cite: 29]
+4664,steppe [cite: 29]
+4665,steppe [cite: 29]
+4674,steppe [cite: 29]
+4666,steppe [cite: 29]
+4667,steppe [cite: 29]
+4673,steppe [cite: 29]
+4675,steppe [cite: 29]
+4672,steppe [cite: 29]
+4671,steppe [cite: 29]
+4668,steppe [cite: 
+4683,steppe 

@@ -226,29 +226,45 @@ foundidsforregion()
 
 def findterrain():
     img = Image.open("terrain.bmp").convert("RGB")
-    width, height = img.size
-    for i in range(len(regions)):
-        for regionid in regionids[i]:
-                # print()
-                rgb_color = (land_rgbs["red"][regionid-1], land_rgbs["green"][regionid-1], land_rgbs["blue"][regionid-1])
-                land_pixels_for_province = land_pixel_data.get(rgb_color, [])
-                if not land_pixels_for_province:
-                    print(f"Warning: No land pixels found for color {rgb_color}. Skipping this province.")
-                    continue
-                for j in range(len(colors)):
-                    correctpixelcount = 0
-                    for pixel in land_pixels_for_province:
-                        correctpixelcount+=1
-                        if(colors[j] != img.getpixel(pixel)):
-                            if(i == 1):
-                                print(colors[j],img.getpixel(pixel),pixel)
-                            break
-                    # if(i == 1):
-                    #     print(correctpixelcount,terrainnames[j],j,regionid,len(land_pixels_for_province))
-                    if(correctpixelcount == len(land_pixels_for_province) ):
-                        provinceterrains.append([regionid,terrainnames[j]])
+    # width, height = img.size
+    # for i in range(len(regions)):
+    for regionid in range(1,4941):
+        if regionid in overwrittenids:
+            continue
+        # print()
+        rgb_color = (land_rgbs["red"][regionid-1], land_rgbs["green"][regionid-1], land_rgbs["blue"][regionid-1])
+        land_pixels_for_province = land_pixel_data.get(rgb_color, [])
+        if not land_pixels_for_province:
+            # print(f"Warning: No land pixels found for color {rgb_color}. Skipping this province.")
+            continue
+        pixelcolors = [0,0,0,0,0,0,0,0,0,0,0]
+        for j in range(len(colors)):
+            correctpixelcount = 0
+            wrongterrain = 0
+            for pixel in land_pixels_for_province:
+                # if(wrongterrain == len(colors[j])):
+                #     break
+                for color in colors[j]:
+                    if(color != img.getpixel(pixel)):
+                        # print(color)
+                        wrongterrain+=1
+                        continue
+                    pixelcolors[j]+=1
+                    # correctpixelcount+=1
+                    
+            # if(regionid == 1):
+            #     print(correctpixelcount,len(land_pixels_for_province))
+            #     print(correctpixelcount,terrainnames[j],j,regionid,len(land_pixels_for_province))
+        # pixelcolors.index(max(pixelcolors))
+            # if(correctpixelcount >= len(land_pixels_for_province)*1/2):
+        # if(regionid ==1 ):
+        #     print(land_pixels_for_province)
+        print(pixelcolors,regionid,terrainnames[ pixelcolors.index(max(pixelcolors))])
+        provinceterrains.append([regionid,terrainnames[ pixelcolors.index(max(pixelcolors))]])
+            #     break
 
-                        
+        if(not regionid%100):        
+            print(regionid)
                 
         # cropped = mask.crop(bbox)
         # notwidth,notheight = cropped.size
@@ -262,21 +278,51 @@ def findterrain():
 widths = []
 heights = []
 bboxes = []
-colors = [  (255, 255, 255) ,(0, 0 ,200), (235, 235, 235),
-            (179, 255, 64),(18, 74, 9),(113, 176 ,151),(41, 155 ,22),
-            (105, 24, 4 ),(90, 235, 27),(98, 163 ,18), (13 ,189 ,130), 
-            (242 ,242 ,111),( 255, 211 ,110),( 49 ,175 ,191), (232 ,172 ,102),
-            (176 ,129 ,21), (248 ,199 ,23),( 147 ,200 ,83)]
-terrainnames = ["Ocean","Inland Ocean","Glacier","Farmlands",
-                "Forest","Hills","Woods","Mountain","Grassland",
-                "Jungle","Marsh","Desert","Coastal Desert","Coastline",
-                "Drylands","Highlands","Savannah","Steppe"]
+colors = [  [(86,124,27),(200,214,107),(13,96,62)],[(0,86,6),(53,77,17)],[(112,74,31),(65,42,17)],
+          [(206,169,99),(158,130,77)],[(75,147,174)],[(155,155,155)],[(42,55,22),(213,144,199),(127,24,60)],
+          [(8,31,130)],[(55,90,220)],[(203,191,103)],
+         [{255,247,0}]]
+
+terrainnames = ["Grassland","Hills","Mountain",
+                "Desert","Marsh","Farmlands","Forest",
+                "Ocean","Inland Ocean","Coastal Desert",
+               "Coastline"]
+normalarray = []
+a = []
+with open ("modifiedoverwrittenids.json",mode="r") as f:
+    a = json.load(f)
+    # for line in f:
+overwrittenids = []
+overwritten = []
+for line in a:
+    overwritten.append([int(line[0]),line[1]])
+    
+
+
+
+# print(overwrittenids)
 provinceterrains = []
-land_pixel_data = extract_land_pixels()
-# land_pixels_for_province = land_pixel_data.get((128,34,64), [])
-findterrain()
-with open("provinceterrains.json",mode="w")as f:
+# print((86, 124, 47)==(86,124,47))
+# land_pixel_data = extract_land_pixels()
+# print("found all pixels")
+# # land_pixels_for_province = land_pixel_data.get((128,34,64), [])
+# findterrain()
+# print(provinceterrains)
+
+with open("provinceterrain.json",mode="w")as f:
     json.dump(provinceterrains,f,indent=2)
-# print("Found all land pixels.")
-# regionsbbox = []
-# extract_and_resize()
+
+parsed_data = []
+with open ("provinceterrains.json",mode="r") as f:
+    parsed_data = json.load(f)
+
+for line in overwritten:
+    parsed_data.append(line)
+
+for line in normalarray:
+    parsed_data.append([int(line[0]),line[1]])
+
+parsed_data.sort(key=lambda x: x[0])
+
+with open("terrains2.json",mode="w") as f:
+    json.dump(parsed_data,f,indent=2)
