@@ -39,7 +39,7 @@ def parse_terrain_txt(file_path):
                 elif(in_terrain_override_section and word == "}"):
                     in_terrain_override_section = 0
                     # print(another)
-                    terrain_data.append([[current_terrain_type.replace("_"," ").title()],another])
+                    terrain_data.append([current_terrain_type.replace("_"," ").title(),*another])
                     another = []
                     # print(terrain_data)
                 elif(in_terrain_override_section and word != "=" and word != "{"):

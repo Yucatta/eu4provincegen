@@ -1,0 +1,18 @@
+[
+  ["Grasslands", "rgb(90,235,27)"],
+  ["Farmlands", "rgb(179,255,64)"],
+  ["Forest", "rgb(18,74,9)"],
+  ["Woods", "rgb(41,155,22)"],
+  ["Hills", "rgb(113,176,151)"],
+  ["Mountain", "rgb(105,24,4)"],
+  ["Drylands", "rgb(232,172,102)"],
+  ["Marsh", "rgb(13,189,130)"],
+  ["Desert", "rgb(242,242,111)"],
+  ["Coastal Desert", "rgb(255,211,110)"],
+  ["Coastline", "rgb(49,175,191)"],
+  ["Highlands", "rgb(176,129,21)"],
+  ["Savannah", "rgb(248,199,23)"],
+  ["Steppe", "rgb(147,200,83)"],
+  ["Jungle", "rgb(98,163,18)"],
+  ["Glacier", "rgb(235,235,235)"]
+]
