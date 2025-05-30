@@ -1,0 +1,17 @@
+Easy France1 Scandinavia2 low Countries3 Italy4 german5 german6 
+Iberia9 British10 baltic11 poland12 balkan15 Carpathia16 Egypt17 
+Anatolia20 Caucasia23 Korea38 Tibet39 Hindusthan40 Japan46
+
+
+Normal Russia7 Ural8  Russia13 Crimea14 Maghreb18 Mashriq19 
+Persia21 Khorasan22 Arabia24 horn28 Mongolia36 Manchuria37 
+Bengal41 westindia42 Deccan43 Coromandel44 Burma45 Australia47 
+Southchi48 northchi50 malaya56 Moluccas57 Indonesia58 indochina60
+Carribeans 73
+
+
+Hard niger25 Guinea26 Sahel27 Eastafr29 centralafr30 kong31 centralas32 
+Southafr33 westsiber34 eastsiber35 Xinan49 brazil51 laplata52 colombia53
+peru54 upperperu55 Oceanea59 Canada61 northeastmaerica63 southeastamerica64
+Mississippi65 Greatplains66 California67 Cascadia68 69hudsonbay Mexico70 
+riogrande71 centralamerica72
